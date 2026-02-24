@@ -1,0 +1,195 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Medical Corpus Insights</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,300;8..60,400;8..60,600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+    <script src="https://cdn.plot.ly/plotly-2.30.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  </head>
+  <body>
+    <header class="hero">
+      <div class="hero-content">
+        <p class="eyebrow">Medical Corpus Insights</p>
+        <h1>Medical Corpus Insights</h1>
+        <p class="subtitle">
+          A graphs-first, scientific dashboard for comparing Resident's Guide Chapters and Amboss Articles
+          across readability, density, lexical sophistication, and pairwise cognitive similarity.
+        </p>
+        <div class="hero-actions">
+          <button id="btn-overview" class="btn active">Bird's Eye</button>
+          <button id="btn-pairs" class="btn">Pairwise</button>
+          <button id="btn-methods" class="btn">Methods</button>
+          <button id="btn-conclusion" class="btn">Conclusion</button>
+        </div>
+      </div>
+      <div class="hero-panel">
+        <div class="stat">
+          <p class="stat-label">Resident's Guide Files</p>
+          <p class="stat-value" id="stat-res-count">–</p>
+        </div>
+        <div class="stat">
+          <p class="stat-label">Amboss Article Files</p>
+          <p class="stat-value" id="stat-art-count">–</p>
+        </div>
+        <div class="stat">
+          <p class="stat-label">Paired Comparisons</p>
+          <p class="stat-value" id="stat-pair-count">–</p>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <section id="overview" class="section active">
+        <div class="section-header">
+          <h2>Bird's Eye Metrics</h2>
+          <p>Corpus-level means and distributional structure across core metrics.</p>
+        </div>
+        <div class="grid two">
+          <div class="card">
+            <h3>Mean Comparison</h3>
+            <div id="chart-means" class="chart"></div>
+            <div id="mean-definition" class="definition">
+              Tap a bar to see what the metric means for pre-clinic teaching.
+            </div>
+          </div>
+          <div class="card">
+            <h3>Readability Distribution</h3>
+            <div id="chart-readability" class="chart"></div>
+          </div>
+        </div>
+        <div class="grid two">
+          <div class="card">
+            <h3>Word Count Means</h3>
+            <div id="chart-wordcount-mean" class="chart"></div>
+          </div>
+          <div class="card">
+            <h3>Word Count Distribution</h3>
+            <div id="chart-wordcount-hist" class="chart"></div>
+          </div>
+        </div>
+        <div class="grid two">
+          <div class="card">
+            <h3>Density vs Readability</h3>
+            <div id="chart-scatter" class="chart"></div>
+            <div id="scatter-interpretation" class="definition">
+              Loading group centers…
+            </div>
+          </div>
+          <div class="card">
+            <h3>Lexical Sophistication</h3>
+            <div id="chart-lexical" class="chart"></div>
+            <div class="definition">
+              Avg Zipf Frequency = how common the words are in general English. Higher means more common words; lower means more specialized or jargon-heavy language. Rare Word Rate = share of uncommon words; higher means more specialist vocabulary. For pre‑clinic teaching, a higher Zipf + lower rare‑word rate usually reads as more accessible.
+            </div>
+          </div>
+        </div>
+        <div class="grid two">
+          <div class="card">
+            <h3>Reference Years Distribution</h3>
+            <div id="chart-ref-years" class="chart"></div>
+          </div>
+          <div class="card">
+            <h3>Reference Years (Per File Median)</h3>
+            <div id="chart-ref-median" class="chart"></div>
+          </div>
+        </div>
+      </section>
+
+      <section id="pairs" class="section">
+        <div class="section-header">
+          <h2>Pairwise Cognitive Similarity</h2>
+          <p>Each chapter–article pair compared by semantic overlap and density deltas.</p>
+        </div>
+        <div class="grid two">
+          <div class="card">
+            <h3>Similarity vs Density Delta</h3>
+            <div id="chart-pairs-scatter" class="chart"></div>
+            <div class="definition">
+              Each point is a chapter–article pair. Right = higher topical overlap. Up = larger density difference. Hotter colors mean the pair diverges more overall.
+            </div>
+          </div>
+          <div class="card">
+            <h3>Cognitive Distance Distribution</h3>
+            <div id="chart-distance" class="chart"></div>
+            <div class="definition">
+              This histogram shows how far pairs diverge overall. Bars to the right are the most mismatched topics (good candidates for alignment or pruning).
+            </div>
+          </div>
+        </div>
+        <div class="grid two">
+          <div class="card">
+            <h3>Pairwise Density vs Readability</h3>
+            <div id="chart-pairs-density-readability" class="chart"></div>
+            <div class="definition">
+              Each point is a chapter–article pair. Positive values mean the Resident's Guide is denser or harder; negative values mean the Amboss Article is denser or harder.
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="table-head">
+            <h3>Topic Browser (Sorted by Divergence)</h3>
+            <input id="topic-search" type="search" placeholder="Search topics" />
+          </div>
+          <div class="definition">
+            TF‑IDF = topical overlap based on key terms (higher = more similar). Jaccard = overlap of top concepts (higher = more similar). Density Δ = difference in information density (higher = more different). Distance = overall divergence score (higher = more different).
+          </div>
+          <div class="definition">Click any topic to compare the full texts.</div>
+          <div class="topic-list" id="topic-list"></div>
+        </div>
+      </section>
+
+      <section id="methods" class="section">
+        <div class="section-header">
+          <h2>Methods & Results</h2>
+          <p>Transparent, reproducible methods and summary findings.</p>
+        </div>
+        <div class="card">
+          <div id="methods-content" class="md methods"></div>
+        </div>
+      </section>
+
+      <section id="conclusion" class="section">
+        <div class="section-header">
+          <h2>Conclusion</h2>
+          <p>Recommended source for a 15‑minute relational pre‑clinic session.</p>
+        </div>
+        <div class="card">
+          <div id="conclusion-content" class="md methods"></div>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <p>Generated from <code>analysis.json</code> and <code>analysis_pairs.json</code>.</p>
+    </footer>
+
+    <div id="modal" class="modal hidden">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h3 id="modal-title">Topic</h3>
+          <button id="modal-close" class="btn">Close</button>
+        </div>
+        <div class="modal-body">
+          <div class="pane">
+            <h4>Resident's Guide Chapters</h4>
+            <div id="modal-resident" class="md"></div>
+          </div>
+          <div class="pane">
+            <h4>Amboss Articles</h4>
+            <div id="modal-article" class="md"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script src="app.js" type="module"></script>
+  </body>
+</html>

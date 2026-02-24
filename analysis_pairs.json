@@ -1,0 +1,2334 @@
+{
+  "generated_at": "2026-02-24T21:33:04.810340Z",
+  "index": "ResidentGuide_Articles_Index.md",
+  "pairs": [
+    {
+      "resident_path": "resident_guide_chapters/001_THE NEWBORN EXAM HISTORY R.md",
+      "article_path": "amboss_articles/The Newborn Exam.md",
+      "metrics": {
+        "tfidf_cosine": 0.16303930791645202,
+        "jaccard_top_lemmas": 0.1111111111111111,
+        "entity_overlap": 0.008771929824561403,
+        "noun_chunk_overlap": 0.030837004405286344,
+        "density_delta": {
+          "content_word_rate": 0.08429188260359022,
+          "unique_content_lemmas": 9.0,
+          "unique_content_lemmas_per_sentence": 2.3307357738310976,
+          "noun_chunk_density": 0.5844508880029,
+          "entity_density_per_1k": 68.31071834863899,
+          "noun_verb_ratio": 1.3071800018246513
+        },
+        "density_delta_mean": 13.602896149150205,
+        "cognitive_distance": 0.49086675101365307
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/002_THE DEVELOPING CHILD AND NORMAL PEDIATRIC VITAL SIGNS CHILD DEVELOPMENTAL STAGE T.md",
+      "article_path": "amboss_articles/The Developing Child and Normal Pediatric Vital Signs.md",
+      "metrics": {
+        "tfidf_cosine": 0.06348435744847325,
+        "jaccard_top_lemmas": 0.0627062706270627,
+        "entity_overlap": 0.0,
+        "noun_chunk_overlap": 0.01141552511415525,
+        "density_delta": {
+          "content_word_rate": 0.021167570435288274,
+          "unique_content_lemmas": 444.0,
+          "unique_content_lemmas_per_sentence": 1.026315789473684,
+          "noun_chunk_density": 2.302631578947368,
+          "entity_density_per_1k": 130.48446419188804,
+          "noun_verb_ratio": 0.1753246753246751
+        },
+        "density_delta_mean": 96.33498396767817,
+        "cognitive_distance": 1.1887860309177267
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/004_INFANT FORMULA AND BREASTFEEDING BREAST MILK.md",
+      "article_path": "amboss_articles/Infant Formula and Breastfeeding.md",
+      "metrics": {
+        "tfidf_cosine": 0.6532718469763079,
+        "jaccard_top_lemmas": 0.17647058823529413,
+        "entity_overlap": 0.047872340425531915,
+        "noun_chunk_overlap": 0.052316890881913304,
+        "density_delta": {
+          "content_word_rate": 0.0863817488623786,
+          "unique_content_lemmas": 241.0,
+          "unique_content_lemmas_per_sentence": 1.9282202556538834,
+          "noun_chunk_density": 0.7974434611602756,
+          "entity_density_per_1k": 14.297134423810107,
+          "noun_verb_ratio": 0.23045415349238318
+        },
+        "density_delta_mean": 43.056605673829836,
+        "cognitive_distance": -0.252767446440883
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/005_HYPERBILIRUBINEMIA IN THE NEWBORN OVER.md",
+      "article_path": "amboss_articles/Hyperbilirubinemia in the Newborn over 35 Weeks Gestation.md",
+      "metrics": {
+        "tfidf_cosine": 0.2191733296846647,
+        "jaccard_top_lemmas": 0.08536585365853659,
+        "entity_overlap": 0.014925373134328358,
+        "noun_chunk_overlap": 0.020179372197309416,
+        "density_delta": {
+          "content_word_rate": 0.09757711493433785,
+          "unique_content_lemmas": 357.0,
+          "unique_content_lemmas_per_sentence": 4.962134251290878,
+          "noun_chunk_density": 1.0576592082616179,
+          "entity_density_per_1k": 68.65583324849841,
+          "noun_verb_ratio": 0.16190476190476222
+        },
+        "density_delta_mean": 71.98918476414833,
+        "cognitive_distance": 0.7731033445420981
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/006_FEVER WITHOUT A KNOWN SOURCE IN THE YOUNG CHILD.md",
+      "article_path": "amboss_articles/Fever Without a Known Source in the Young Child (Birth\u20133 Years-old).md",
+      "metrics": {
+        "tfidf_cosine": 0.30612490034785256,
+        "jaccard_top_lemmas": 0.15942028985507245,
+        "entity_overlap": 0.02142857142857143,
+        "noun_chunk_overlap": 0.04888888888888889,
+        "density_delta": {
+          "content_word_rate": 0.00929933408666106,
+          "unique_content_lemmas": 80.0,
+          "unique_content_lemmas_per_sentence": 5.775609756097562,
+          "noun_chunk_density": 3.920325203252032,
+          "entity_density_per_1k": 8.780532872808422,
+          "noun_verb_ratio": 1.2270833333333329
+        },
+        "density_delta_mean": 16.618808416596334,
+        "cognitive_distance": 0.15444366484501587
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/008_COMMUNITY.md",
+      "article_path": "amboss_articles/Community-Acquired Pneumonia (CAP) in Infants and Children.md",
+      "metrics": {
+        "tfidf_cosine": 0.47095560179077167,
+        "jaccard_top_lemmas": 0.17647058823529413,
+        "entity_overlap": 0.0425531914893617,
+        "noun_chunk_overlap": 0.05947136563876652,
+        "density_delta": {
+          "content_word_rate": 0.009198420688791287,
+          "unique_content_lemmas": 51.0,
+          "unique_content_lemmas_per_sentence": 8.102702702702702,
+          "noun_chunk_density": 3.6144144144144144,
+          "entity_density_per_1k": 50.22896300867137,
+          "noun_verb_ratio": 2.629399585921325
+        },
+        "density_delta_mean": 19.264113022066432,
+        "cognitive_distance": -0.14572350420136293
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/009_ACUTE OTITIS MEDIA INTRODUCTION.md",
+      "article_path": "amboss_articles/Acute Otitis Media.md",
+      "metrics": {
+        "tfidf_cosine": 0.44345456933250593,
+        "jaccard_top_lemmas": 0.17647058823529413,
+        "entity_overlap": 0.041666666666666664,
+        "noun_chunk_overlap": 0.059734513274336286,
+        "density_delta": {
+          "content_word_rate": 0.011210627927454864,
+          "unique_content_lemmas": 95.0,
+          "unique_content_lemmas_per_sentence": 0.16115871073031407,
+          "noun_chunk_density": 1.5414116687066501,
+          "entity_density_per_1k": 64.44741639829512,
+          "noun_verb_ratio": 1.1630747126436782
+        },
+        "density_delta_mean": 27.054045353050537,
+        "cognitive_distance": -0.07166431943722637
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/010_PHARYNGITIS DEFINITION.md",
+      "article_path": "amboss_articles/Pharyngitis.md",
+      "metrics": {
+        "tfidf_cosine": 0.40854136641599975,
+        "jaccard_top_lemmas": 0.23839009287925697,
+        "entity_overlap": 0.08490566037735849,
+        "noun_chunk_overlap": 0.0564373897707231,
+        "density_delta": {
+          "content_word_rate": 0.016497422839189313,
+          "unique_content_lemmas": 246.0,
+          "unique_content_lemmas_per_sentence": 2.860692572032778,
+          "noun_chunk_density": 2.7798043880518106,
+          "entity_density_per_1k": 71.23128734829663,
+          "noun_verb_ratio": 2.237334203087628
+        },
+        "density_delta_mean": 54.18760265571801,
+        "cognitive_distance": -0.11566959395954139
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/011_CROUP.md",
+      "article_path": "amboss_articles/Croup (Acute Laryngotracheitis).md",
+      "metrics": {
+        "tfidf_cosine": 0.5380352206549852,
+        "jaccard_top_lemmas": 0.24610591900311526,
+        "entity_overlap": 0.052083333333333336,
+        "noun_chunk_overlap": 0.07122507122507123,
+        "density_delta": {
+          "content_word_rate": 0.013370018975332076,
+          "unique_content_lemmas": 83.0,
+          "unique_content_lemmas_per_sentence": 2.5606060606060606,
+          "noun_chunk_density": 0.7121212121212119,
+          "entity_density_per_1k": 41.569259962049344,
+          "noun_verb_ratio": 0.8423762376237622
+        },
+        "density_delta_mean": 21.44962224856262,
+        "cognitive_distance": -0.4159999394790573
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/012_BRONCHIOLITIS INTRODUCTION D.md",
+      "article_path": "amboss_articles/Bronchiolitis.md",
+      "metrics": {
+        "tfidf_cosine": 0.2614922433343676,
+        "jaccard_top_lemmas": 0.12585034013605442,
+        "entity_overlap": 0.029850746268656716,
+        "noun_chunk_overlap": 0.022727272727272728,
+        "density_delta": {
+          "content_word_rate": 0.016341991341991324,
+          "unique_content_lemmas": 71.0,
+          "unique_content_lemmas_per_sentence": 0.7107843137254894,
+          "noun_chunk_density": 1.313725490196079,
+          "entity_density_per_1k": 57.60281385281387,
+          "noun_verb_ratio": 0.5174418604651159
+        },
+        "density_delta_mean": 21.86018458475709,
+        "cognitive_distance": 0.34821297529535855
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/013_DIARRHEA IN CHILDREN INTRODUCTION D.md",
+      "article_path": "amboss_articles/Diarrhea In Children.md",
+      "metrics": {
+        "tfidf_cosine": 0.13595301915952626,
+        "jaccard_top_lemmas": 0.09289617486338798,
+        "entity_overlap": 0.017964071856287425,
+        "noun_chunk_overlap": 0.02527646129541864,
+        "density_delta": {
+          "content_word_rate": 0.03344538045312562,
+          "unique_content_lemmas": 275.0,
+          "unique_content_lemmas_per_sentence": 2.4007936507936503,
+          "noun_chunk_density": 0.16666666666666696,
+          "entity_density_per_1k": 14.208722653051439,
+          "noun_verb_ratio": 0.1499033416183373
+        },
+        "density_delta_mean": 48.659921948763866,
+        "cognitive_distance": 0.7283799536729451
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/014_CONSTIPATION IN CHILDREN INTRODUCTION D.md",
+      "article_path": "amboss_articles/Constipation In Children.md",
+      "metrics": {
+        "tfidf_cosine": 0.5251969413175662,
+        "jaccard_top_lemmas": 0.17302052785923755,
+        "entity_overlap": 0.04878048780487805,
+        "noun_chunk_overlap": 0.06506024096385542,
+        "density_delta": {
+          "content_word_rate": 0.023770169224714754,
+          "unique_content_lemmas": 35.0,
+          "unique_content_lemmas_per_sentence": 1.6964285714285712,
+          "noun_chunk_density": 1.3214285714285712,
+          "entity_density_per_1k": 15.48209366391184,
+          "noun_verb_ratio": 6.027545499262175
+        },
+        "density_delta_mean": 9.925211079209312,
+        "cognitive_distance": -0.278281114236118
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/015_URINARY TRACT INFECTIONS IN CHILDREN.md",
+      "article_path": "amboss_articles/Urinary Tract Infections In Children.md",
+      "metrics": {
+        "tfidf_cosine": 0.49351743968374995,
+        "jaccard_top_lemmas": 0.16943521594684385,
+        "entity_overlap": 0.02857142857142857,
+        "noun_chunk_overlap": 0.056,
+        "density_delta": {
+          "content_word_rate": 0.031373196178741014,
+          "unique_content_lemmas": 390.0,
+          "unique_content_lemmas_per_sentence": 0.7306666666666661,
+          "noun_chunk_density": 0.738666666666667,
+          "entity_density_per_1k": 37.552487302198486,
+          "noun_verb_ratio": 5.129951166576234
+        },
+        "density_delta_mean": 72.36385749971447,
+        "cognitive_distance": 0.140580233514511
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/016_ENURESIS DEFINITIONS I.md",
+      "article_path": "amboss_articles/Enuresis.md",
+      "metrics": {
+        "tfidf_cosine": 0.5234519543908408,
+        "jaccard_top_lemmas": 0.2578616352201258,
+        "entity_overlap": 0.053691275167785234,
+        "noun_chunk_overlap": 0.06928406466512702,
+        "density_delta": {
+          "content_word_rate": 0.048389715474552064,
+          "unique_content_lemmas": 2.0,
+          "unique_content_lemmas_per_sentence": 2.747763864042934,
+          "noun_chunk_density": 1.1288014311270134,
+          "entity_density_per_1k": 21.186960650494925,
+          "noun_verb_ratio": 0.6185171316232916
+        },
+        "density_delta_mean": 4.621738798793786,
+        "cognitive_distance": -0.5049079598107125
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/017_RASHES IN CHILDREN N.md",
+      "article_path": "amboss_articles/Rashes in Children.md",
+      "metrics": {
+        "tfidf_cosine": 0.38108246422886105,
+        "jaccard_top_lemmas": 0.13636363636363635,
+        "entity_overlap": 0.0072992700729927005,
+        "noun_chunk_overlap": 0.05048076923076923,
+        "density_delta": {
+          "content_word_rate": 0.028842478552620343,
+          "unique_content_lemmas": 1.0,
+          "unique_content_lemmas_per_sentence": 1.4033613445378155,
+          "noun_chunk_density": 1.4108309990662926,
+          "entity_density_per_1k": 54.13870721141595,
+          "noun_verb_ratio": 0.31818181818181834
+        },
+        "density_delta_mean": 9.716653975292417,
+        "cognitive_distance": 0.10384882373284006
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/019_AUTISM SPECTRUM DISORDERS INTRODUCTION A.md",
+      "article_path": "amboss_articles/Autism Spectrum Disorders.md",
+      "metrics": {
+        "tfidf_cosine": 0.4868840016048359,
+        "jaccard_top_lemmas": 0.21580547112462006,
+        "entity_overlap": 0.020833333333333332,
+        "noun_chunk_overlap": 0.05523809523809524,
+        "density_delta": {
+          "content_word_rate": 0.014395572592570738,
+          "unique_content_lemmas": 115.0,
+          "unique_content_lemmas_per_sentence": 2.1416490486257933,
+          "noun_chunk_density": 0.15372999093929351,
+          "entity_density_per_1k": 4.670570268997949,
+          "noun_verb_ratio": 1.0816599732262384
+        },
+        "density_delta_mean": 20.510334142396974,
+        "cognitive_distance": -0.1868779564983274
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/020_CHILD ABUSE INTRODUCTION.md",
+      "article_path": "amboss_articles/Child Abuse.md",
+      "metrics": {
+        "tfidf_cosine": 0.6834496595014489,
+        "jaccard_top_lemmas": 0.22699386503067484,
+        "entity_overlap": 0.03524229074889868,
+        "noun_chunk_overlap": 0.0592964824120603,
+        "density_delta": {
+          "content_word_rate": 0.04247246278366956,
+          "unique_content_lemmas": 280.0,
+          "unique_content_lemmas_per_sentence": 1.6203703703703702,
+          "noun_chunk_density": 0.0,
+          "entity_density_per_1k": 23.61913277686773,
+          "noun_verb_ratio": 1.6388002909742045
+        },
+        "density_delta_mean": 51.153462650166,
+        "cognitive_distance": -0.34724321818149667
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/021_PRENATAL CARE SCHEDULE OF PRENATAL VISITS.md",
+      "article_path": "amboss_articles/Prenatal Care.md",
+      "metrics": {
+        "tfidf_cosine": 0.5464338174734827,
+        "jaccard_top_lemmas": 0.2422360248447205,
+        "entity_overlap": 0.07459677419354839,
+        "noun_chunk_overlap": 0.06,
+        "density_delta": {
+          "content_word_rate": 0.0641782277185744,
+          "unique_content_lemmas": 216.0,
+          "unique_content_lemmas_per_sentence": 1.929389312977099,
+          "noun_chunk_density": 0.9363967080152671,
+          "entity_density_per_1k": 17.21773623668318,
+          "noun_verb_ratio": 1.3401590693257361
+        },
+        "density_delta_mean": 39.58130992578664,
+        "cognitive_distance": -0.3535795195551731
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/022_MEDICATIONS DURING PREGNANCY AND LACTATION.md",
+      "article_path": "amboss_articles/Medications During Pregnancy and Lactation.md",
+      "metrics": {
+        "tfidf_cosine": 0.4210501189770281,
+        "jaccard_top_lemmas": 0.12044817927170869,
+        "entity_overlap": 0.015789473684210527,
+        "noun_chunk_overlap": 0.03653846153846154,
+        "density_delta": {
+          "content_word_rate": 0.07501676624801856,
+          "unique_content_lemmas": 180.0,
+          "unique_content_lemmas_per_sentence": 4.229166666666667,
+          "noun_chunk_density": 4.595833333333332,
+          "entity_density_per_1k": 16.511705889525672,
+          "noun_verb_ratio": 0.44100384537543036
+        },
+        "density_delta_mean": 34.30878775019152,
+        "cognitive_distance": 0.22134745807423667
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/023_QUESTIONS EXPECTING PARENTS COMMONLY ASK AND RADIATION IN PREGNANCY T.md",
+      "article_path": "amboss_articles/Questions Expecting Parents Commonly Ask and Radiation in Pregnancy.md",
+      "metrics": {
+        "tfidf_cosine": 0.21982061459012114,
+        "jaccard_top_lemmas": 0.1111111111111111,
+        "entity_overlap": 0.03153153153153153,
+        "noun_chunk_overlap": 0.030112923462986198,
+        "density_delta": {
+          "content_word_rate": 0.08416123657444563,
+          "unique_content_lemmas": 331.0,
+          "unique_content_lemmas_per_sentence": 2.6565217391304348,
+          "noun_chunk_density": 1.939855072463768,
+          "entity_density_per_1k": 21.862103149148027,
+          "noun_verb_ratio": 4.363966770508826
+        },
+        "density_delta_mean": 60.317767994637585,
+        "cognitive_distance": 0.6008112746751323
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/024_POSTPARTUM DISCHARGE INSTRUCTIONS THESE ISSUES SHOULD BE DISCUSSED WITH ALL HOME.md",
+      "article_path": "amboss_articles/Postpartum Discharge Instructions.md",
+      "metrics": {
+        "tfidf_cosine": 0.5064478157228369,
+        "jaccard_top_lemmas": 0.1396011396011396,
+        "entity_overlap": 0.05128205128205128,
+        "noun_chunk_overlap": 0.05263157894736842,
+        "density_delta": {
+          "content_word_rate": 0.0247028104170961,
+          "unique_content_lemmas": 136.0,
+          "unique_content_lemmas_per_sentence": 3.5692866878691505,
+          "noun_chunk_density": 0.6747690443737691,
+          "entity_density_per_1k": 36.882429739572615,
+          "noun_verb_ratio": 0.861275984871491
+        },
+        "density_delta_mean": 29.668744044517354,
+        "cognitive_distance": -0.06365065552002469
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/025_POSTPARTUM CHECK.md",
+      "article_path": "amboss_articles/Postpartum Check-up.md",
+      "metrics": {
+        "tfidf_cosine": 0.0,
+        "jaccard_top_lemmas": 1.0,
+        "entity_overlap": 1.0,
+        "noun_chunk_overlap": 1.0,
+        "density_delta": {
+          "content_word_rate": 0.0,
+          "unique_content_lemmas": 0.0,
+          "unique_content_lemmas_per_sentence": 0.0,
+          "noun_chunk_density": 0.0,
+          "entity_density_per_1k": 0.0,
+          "noun_verb_ratio": 0.0
+        },
+        "density_delta_mean": 0.0,
+        "cognitive_distance": -5.632344731109145
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/027_FERTILITY AWARENESS.md",
+      "article_path": "amboss_articles/Fertility Awareness-Based Medicine Creighton Model.md",
+      "metrics": {
+        "tfidf_cosine": 0.22372651333350854,
+        "jaccard_top_lemmas": 0.12044817927170869,
+        "entity_overlap": 0.021645021645021644,
+        "noun_chunk_overlap": 0.025604551920341393,
+        "density_delta": {
+          "content_word_rate": 0.030113297555158014,
+          "unique_content_lemmas": 443.0,
+          "unique_content_lemmas_per_sentence": 4.630635838150289,
+          "noun_chunk_density": 1.3504816955684005,
+          "entity_density_per_1k": 31.92605843768635,
+          "noun_verb_ratio": 1.2433588028029616
+        },
+        "density_delta_mean": 80.36344134529386,
+        "cognitive_distance": 0.7061601659113308
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/028_CERVICAL CANCER SCREENING.md",
+      "article_path": "amboss_articles/Cervical Cancer Screening Indications and Interpretation.md",
+      "metrics": {
+        "tfidf_cosine": 0.6104617932325862,
+        "jaccard_top_lemmas": 0.23839009287925697,
+        "entity_overlap": 0.048327137546468404,
+        "noun_chunk_overlap": 0.05128205128205128,
+        "density_delta": {
+          "content_word_rate": 0.010650372935744556,
+          "unique_content_lemmas": 382.0,
+          "unique_content_lemmas_per_sentence": 0.1465517241379306,
+          "noun_chunk_density": 1.3198275862068964,
+          "entity_density_per_1k": 26.352765344841913,
+          "noun_verb_ratio": 0.9356553475087273
+        },
+        "density_delta_mean": 68.46090839593853,
+        "cognitive_distance": -0.20625581245875813
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/029_ABNORMAL UTERINE BLEEDING INTRODUCTION T.md",
+      "article_path": "amboss_articles/Abnormal Uterine Bleeding.md",
+      "metrics": {
+        "tfidf_cosine": 0.5107305191728402,
+        "jaccard_top_lemmas": 0.1834319526627219,
+        "entity_overlap": 0.03825136612021858,
+        "noun_chunk_overlap": 0.06621392190152801,
+        "density_delta": {
+          "content_word_rate": 0.034116957224375355,
+          "unique_content_lemmas": 36.0,
+          "unique_content_lemmas_per_sentence": 3.0926152590779274,
+          "noun_chunk_density": 2.1521827825377393,
+          "entity_density_per_1k": 31.35620611243796,
+          "noun_verb_ratio": 0.812433155080214
+        },
+        "density_delta_mean": 12.241259044393036,
+        "cognitive_distance": -0.25059056390551737
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/030_AMENORRHEA INTRODUCTION.md",
+      "article_path": "amboss_articles/Amenorrhea.md",
+      "metrics": {
+        "tfidf_cosine": 0.2914812972099103,
+        "jaccard_top_lemmas": 0.1661807580174927,
+        "entity_overlap": 0.04864864864864865,
+        "noun_chunk_overlap": 0.03885135135135135,
+        "density_delta": {
+          "content_word_rate": 0.027867629881215494,
+          "unique_content_lemmas": 157.0,
+          "unique_content_lemmas_per_sentence": 4.036877076411961,
+          "noun_chunk_density": 0.9511627906976745,
+          "entity_density_per_1k": 34.64697108559311,
+          "noun_verb_ratio": 0.6326530612244898
+        },
+        "density_delta_mean": 32.88258860730141,
+        "cognitive_distance": 0.20064780484631642
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/031_MENOPAUSE AND HORMONE REPLACEMENT THERAPY DEFINITION.md",
+      "article_path": "amboss_articles/Menopause and Hormone Replacement Therapy.md",
+      "metrics": {
+        "tfidf_cosine": 0.36215286458471174,
+        "jaccard_top_lemmas": 0.2345679012345679,
+        "entity_overlap": 0.03058103975535168,
+        "noun_chunk_overlap": 0.06914893617021277,
+        "density_delta": {
+          "content_word_rate": 0.029226373714062004,
+          "unique_content_lemmas": 195.0,
+          "unique_content_lemmas_per_sentence": 4.265432098765432,
+          "noun_chunk_density": 2.246913580246914,
+          "entity_density_per_1k": 78.34325177889907,
+          "noun_verb_ratio": 3.0692095588235295
+        },
+        "density_delta_mean": 47.159005565074835,
+        "cognitive_distance": 0.00726509658478956
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/032_THE PREMENSTRUAL SYNDROME AND DYSMENORRHEA T.md",
+      "article_path": "amboss_articles/The Premenstrual Syndrome and Dysmenorrhea.md",
+      "metrics": {
+        "tfidf_cosine": 0.3819129575118234,
+        "jaccard_top_lemmas": 0.2084592145015106,
+        "entity_overlap": 0.07017543859649122,
+        "noun_chunk_overlap": 0.05314009661835749,
+        "density_delta": {
+          "content_word_rate": 7.23222680263369e-05,
+          "unique_content_lemmas": 84.0,
+          "unique_content_lemmas_per_sentence": 1.5305882352941174,
+          "noun_chunk_density": 0.14705882352941213,
+          "entity_density_per_1k": 2.5590956378545826,
+          "noun_verb_ratio": 0.20000000000000018
+        },
+        "density_delta_mean": 14.739469169824357,
+        "cognitive_distance": -0.17195953878967987
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/033_EVALUATION OF BREAST MASS.md",
+      "article_path": "amboss_articles/Evaluation of Breast Mass, Breast Pain and Nipple Discharge.md",
+      "metrics": {
+        "tfidf_cosine": 0.5654153816951751,
+        "jaccard_top_lemmas": 0.1396011396011396,
+        "entity_overlap": 0.028409090909090908,
+        "noun_chunk_overlap": 0.058315334773218146,
+        "density_delta": {
+          "content_word_rate": 0.015640550808680542,
+          "unique_content_lemmas": 75.0,
+          "unique_content_lemmas_per_sentence": 0.7671568627450975,
+          "noun_chunk_density": 0.9714052287581696,
+          "entity_density_per_1k": 41.002523564048914,
+          "noun_verb_ratio": 1.6497915425848717
+        },
+        "density_delta_mean": 19.901086291490955,
+        "cognitive_distance": -0.14780367870317343
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/034_COMMUNITY.md",
+      "article_path": "amboss_articles/Community-Acquired Pneumonia (CAP).md",
+      "metrics": {
+        "tfidf_cosine": 0.44883181852241144,
+        "jaccard_top_lemmas": 0.1834319526627219,
+        "entity_overlap": 0.04216867469879518,
+        "noun_chunk_overlap": 0.05758157389635317,
+        "density_delta": {
+          "content_word_rate": 0.033093076995516,
+          "unique_content_lemmas": 9.0,
+          "unique_content_lemmas_per_sentence": 6.471933471933472,
+          "noun_chunk_density": 4.106722106722106,
+          "entity_density_per_1k": 50.12930378784037,
+          "noun_verb_ratio": 1.6133353288932124
+        },
+        "density_delta_mean": 11.892397962064113,
+        "cognitive_distance": -0.1641505165952048
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/035_ACUTE BRONCHITIS GENERAL D.md",
+      "article_path": "amboss_articles/Acute Bronchitis.md",
+      "metrics": {
+        "tfidf_cosine": 0.5109622708217958,
+        "jaccard_top_lemmas": 0.22324159021406728,
+        "entity_overlap": 0.0392156862745098,
+        "noun_chunk_overlap": 0.0812720848056537,
+        "density_delta": {
+          "content_word_rate": 0.007283393964236384,
+          "unique_content_lemmas": 79.0,
+          "unique_content_lemmas_per_sentence": 0.15714285714285747,
+          "noun_chunk_density": 0.5999999999999996,
+          "entity_density_per_1k": 28.920940718348106,
+          "noun_verb_ratio": 0.081667136018023
+        },
+        "density_delta_mean": 18.12783901757887,
+        "cognitive_distance": -0.34337718077031415
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/036_DIAGNOSIS AND MANAGEMENT OF HEPATITIS B BACKGROUND O.md",
+      "article_path": "amboss_articles/Diagnosis and Management of Hepatitis B.md",
+      "metrics": {
+        "tfidf_cosine": 0.7580327150064995,
+        "jaccard_top_lemmas": 0.32450331125827814,
+        "entity_overlap": 0.06551724137931035,
+        "noun_chunk_overlap": 0.08442211055276382,
+        "density_delta": {
+          "content_word_rate": 0.019747601322383623,
+          "unique_content_lemmas": 185.0,
+          "unique_content_lemmas_per_sentence": 2.401770204317975,
+          "noun_chunk_density": 1.763255852427827,
+          "entity_density_per_1k": 17.008828532976196,
+          "noun_verb_ratio": 0.6820998719590268
+        },
+        "density_delta_mean": 34.47928367716723,
+        "cognitive_distance": -0.8550848630949517
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/037_DIAGNOSIS AND MANAGEMENT OF HEPATITIS C INTRODUCTION H.md",
+      "article_path": "amboss_articles/Diagnosis and Management of Hepatitis C.md",
+      "metrics": {
+        "tfidf_cosine": 0.6207879505113164,
+        "jaccard_top_lemmas": 0.22324159021406728,
+        "entity_overlap": 0.056818181818181816,
+        "noun_chunk_overlap": 0.0832,
+        "density_delta": {
+          "content_word_rate": 0.03986356039216732,
+          "unique_content_lemmas": 92.0,
+          "unique_content_lemmas_per_sentence": 3.6541993281075023,
+          "noun_chunk_density": 4.796192609182531,
+          "entity_density_per_1k": 21.068133102013803,
+          "noun_verb_ratio": 0.2908316731122307
+        },
+        "density_delta_mean": 20.308203378801373,
+        "cognitive_distance": -0.5131997683411635
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/038_ACUTE SINUSITIS GENERAL D.md",
+      "article_path": "amboss_articles/Acute Sinusitis.md",
+      "metrics": {
+        "tfidf_cosine": 0.4608189835161547,
+        "jaccard_top_lemmas": 0.21580547112462006,
+        "entity_overlap": 0.05263157894736842,
+        "noun_chunk_overlap": 0.06675938803894298,
+        "density_delta": {
+          "content_word_rate": 0.009197925631234338,
+          "unique_content_lemmas": 114.0,
+          "unique_content_lemmas_per_sentence": 2.489736678415923,
+          "noun_chunk_density": 0.09599834128136031,
+          "entity_density_per_1k": 24.18539456122359,
+          "noun_verb_ratio": 0.2033733562035449
+        },
+        "density_delta_mean": 23.497283477125944,
+        "cognitive_distance": -0.2353287911903134
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/039_URINARY TRACT INFECTIONS N.md",
+      "article_path": "amboss_articles/Urinary Tract Infections.md",
+      "metrics": {
+        "tfidf_cosine": 0.6418535678047824,
+        "jaccard_top_lemmas": 0.2698412698412698,
+        "entity_overlap": 0.0728476821192053,
+        "noun_chunk_overlap": 0.07252298263534218,
+        "density_delta": {
+          "content_word_rate": 0.014236217437650689,
+          "unique_content_lemmas": 341.0,
+          "unique_content_lemmas_per_sentence": 3.6983768069127034,
+          "noun_chunk_density": 1.5593959460550755,
+          "entity_density_per_1k": 36.21338243951455,
+          "noun_verb_ratio": 1.3820211515863683
+        },
+        "density_delta_mean": 63.97790209358439,
+        "cognitive_distance": -0.4366878416275717
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/040_ENDOCARDITIS PROPHYLAXIS T.md",
+      "article_path": "amboss_articles/Endocarditis Prophylaxis.md",
+      "metrics": {
+        "tfidf_cosine": 0.3513947859946432,
+        "jaccard_top_lemmas": 0.13314447592067988,
+        "entity_overlap": 0.016891891891891893,
+        "noun_chunk_overlap": 0.0183752417794971,
+        "density_delta": {
+          "content_word_rate": 0.03591000173310477,
+          "unique_content_lemmas": 695.0,
+          "unique_content_lemmas_per_sentence": 5.379671150971599,
+          "noun_chunk_density": 1.0496595249958487,
+          "entity_density_per_1k": 0.4651452585262348,
+          "noun_verb_ratio": 2.8152334152334157
+        },
+        "density_delta_mean": 117.45760322524336,
+        "cognitive_distance": 0.7279008712635937
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/041_TUBERCULOSIS SCREENING TRANSMISSION T.md",
+      "article_path": "amboss_articles/Tuberculosis Screening.md",
+      "metrics": {
+        "tfidf_cosine": 0.4916568522472024,
+        "jaccard_top_lemmas": 0.21951219512195122,
+        "entity_overlap": 0.050761421319796954,
+        "noun_chunk_overlap": 0.04147157190635452,
+        "density_delta": {
+          "content_word_rate": 0.07276016336526892,
+          "unique_content_lemmas": 1002.0,
+          "unique_content_lemmas_per_sentence": 1.8600326022525193,
+          "noun_chunk_density": 0.5264522821576767,
+          "entity_density_per_1k": 14.845157833949102,
+          "noun_verb_ratio": 1.5105982289538007
+        },
+        "density_delta_mean": 170.1358335184464,
+        "cognitive_distance": 0.4991559698658706
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/042_SEXUALLY TRANSMITTED INFECTIONS AND EVALUATION OF VAGINAL DISCHARGE GENERAL C.md",
+      "article_path": "amboss_articles/Sexually Transmitted Infections and Evaluation of Vaginal Discharge.md",
+      "metrics": {
+        "tfidf_cosine": 0.2468783660979604,
+        "jaccard_top_lemmas": 0.19047619047619047,
+        "entity_overlap": 0.07692307692307693,
+        "noun_chunk_overlap": 0.05182072829131653,
+        "density_delta": {
+          "content_word_rate": 0.01804890455306729,
+          "unique_content_lemmas": 47.0,
+          "unique_content_lemmas_per_sentence": 2.0023649980291687,
+          "noun_chunk_density": 2.7262514781237694,
+          "entity_density_per_1k": 58.95654198917164,
+          "noun_verb_ratio": 0.9267469879518071
+        },
+        "density_delta_mean": 18.604992392971575,
+        "cognitive_distance": 0.042841022439736
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/043_PELVIC INFLAMMATORY DISEASE.md",
+      "article_path": "amboss_articles/Pelvic Inflammatory Disease (PID).md",
+      "metrics": {
+        "tfidf_cosine": 0.4437950431340993,
+        "jaccard_top_lemmas": 0.25391849529780564,
+        "entity_overlap": 0.10119047619047619,
+        "noun_chunk_overlap": 0.07240704500978473,
+        "density_delta": {
+          "content_word_rate": 0.0005304273080019017,
+          "unique_content_lemmas": 218.0,
+          "unique_content_lemmas_per_sentence": 3.3737373737373737,
+          "noun_chunk_density": 1.0404040404040407,
+          "entity_density_per_1k": 72.07152672264024,
+          "noun_verb_ratio": 1.4968553459119498
+        },
+        "density_delta_mean": 49.33050898500027,
+        "cognitive_distance": -0.2886093321614468
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/044_AMBULATORY HIV.md",
+      "article_path": "amboss_articles/Ambulatory HIVAIDS Management.md",
+      "metrics": {
+        "tfidf_cosine": 0.4247548287587622,
+        "jaccard_top_lemmas": 0.14613180515759314,
+        "entity_overlap": 0.048484848484848485,
+        "noun_chunk_overlap": 0.04897959183673469,
+        "density_delta": {
+          "content_word_rate": 0.026176518482331823,
+          "unique_content_lemmas": 43.0,
+          "unique_content_lemmas_per_sentence": 1.226467331118494,
+          "noun_chunk_density": 0.06589147286821717,
+          "entity_density_per_1k": 15.895397551479618,
+          "noun_verb_ratio": 1.3137624562348504
+        },
+        "density_delta_mean": 10.254615888363919,
+        "cognitive_distance": -0.05649779197707596
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/045_PROPHYLAXIS FOR THE PREVENTION OF HIV INFECTION BACKGROUND E.md",
+      "article_path": "amboss_articles/Prophylaxis for the Prevention of HIV Infection.md",
+      "metrics": {
+        "tfidf_cosine": 0.48560080139164846,
+        "jaccard_top_lemmas": 0.15273775216138327,
+        "entity_overlap": 0.05339805825242718,
+        "noun_chunk_overlap": 0.04552845528455285,
+        "density_delta": {
+          "content_word_rate": 0.01649995432538598,
+          "unique_content_lemmas": 135.0,
+          "unique_content_lemmas_per_sentence": 2.08855098389982,
+          "noun_chunk_density": 0.03667262969588503,
+          "entity_density_per_1k": 10.293916141408616,
+          "noun_verb_ratio": 0.27734229189996285
+        },
+        "density_delta_mean": 24.618830333538277,
+        "cognitive_distance": -0.07940456961203968
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/046_EMERGING INFECTIOUS DISEASES.md",
+      "article_path": "amboss_articles/Emerging Infectious Diseases.md",
+      "metrics": {
+        "tfidf_cosine": 0.24920539324238888,
+        "jaccard_top_lemmas": 0.15942028985507245,
+        "entity_overlap": 0.017597087378640776,
+        "noun_chunk_overlap": 0.025218476903870163,
+        "density_delta": {
+          "content_word_rate": 0.005469906656564438,
+          "unique_content_lemmas": 1691.0,
+          "unique_content_lemmas_per_sentence": 3.0796716781500533,
+          "noun_chunk_density": 1.8140600287236177,
+          "entity_density_per_1k": 23.40596406295785,
+          "noun_verb_ratio": 0.5467676369080054
+        },
+        "density_delta_mean": 286.64198888556604,
+        "cognitive_distance": 1.6136310863174603
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/047_EKG INTERPRETATION N.md",
+      "article_path": "amboss_articles/EKG Interpretation.md",
+      "metrics": {
+        "tfidf_cosine": 0.6284344142477151,
+        "jaccard_top_lemmas": 0.2987012987012987,
+        "entity_overlap": 0.07598039215686274,
+        "noun_chunk_overlap": 0.07174887892376682,
+        "density_delta": {
+          "content_word_rate": 0.06605531675960352,
+          "unique_content_lemmas": 443.0,
+          "unique_content_lemmas_per_sentence": 2.6270764119601333,
+          "noun_chunk_density": 1.2852990033222582,
+          "entity_density_per_1k": 36.47850191036761,
+          "noun_verb_ratio": 2.032168674698795
+        },
+        "density_delta_mean": 80.91485021951807,
+        "cognitive_distance": -0.40392849686343624
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/048_CARDIAC STRESS TESTING INDICATIONS FOR EXERCISE STRESS TESTING.md",
+      "article_path": "amboss_articles/Cardiac Stress Testing.md",
+      "metrics": {
+        "tfidf_cosine": 0.42471225446145333,
+        "jaccard_top_lemmas": 0.17994100294985252,
+        "entity_overlap": 0.030534351145038167,
+        "noun_chunk_overlap": 0.05102040816326531,
+        "density_delta": {
+          "content_word_rate": 0.06879744869102022,
+          "unique_content_lemmas": 219.0,
+          "unique_content_lemmas_per_sentence": 6.576923076923077,
+          "noun_chunk_density": 3.1089743589743595,
+          "entity_density_per_1k": 2.826674030977898,
+          "noun_verb_ratio": 0.550542635658914
+        },
+        "density_delta_mean": 38.68865192520421,
+        "cognitive_distance": 0.045475153853937945
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/049_LIVER FUNCTION TESTS INTRODUCTION L.md",
+      "article_path": "amboss_articles/Liver Function Tests.md",
+      "metrics": {
+        "tfidf_cosine": 0.38570799611862666,
+        "jaccard_top_lemmas": 0.1661807580174927,
+        "entity_overlap": 0.025547445255474453,
+        "noun_chunk_overlap": 0.04372842347525892,
+        "density_delta": {
+          "content_word_rate": 0.03211955175920522,
+          "unique_content_lemmas": 359.0,
+          "unique_content_lemmas_per_sentence": 3.147623862487361,
+          "noun_chunk_density": 1.897708122682845,
+          "entity_density_per_1k": 2.6642314690564604,
+          "noun_verb_ratio": 8.48824378234525e-05
+        },
+        "density_delta_mean": 61.12362798140395,
+        "cognitive_distance": 0.2613970157665064
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/050_HEMATURIA DEFINITION.md",
+      "article_path": "amboss_articles/Hematuria.md",
+      "metrics": {
+        "tfidf_cosine": 0.4911044129408731,
+        "jaccard_top_lemmas": 0.24610591900311526,
+        "entity_overlap": 0.08,
+        "noun_chunk_overlap": 0.04814814814814815,
+        "density_delta": {
+          "content_word_rate": 0.026120248473670782,
+          "unique_content_lemmas": 379.0,
+          "unique_content_lemmas_per_sentence": 4.232709873858199,
+          "noun_chunk_density": 1.0132666376685515,
+          "entity_density_per_1k": 41.39437386422418,
+          "noun_verb_ratio": 1.0590016245753953
+        },
+        "density_delta_mean": 71.12091204146667,
+        "cognitive_distance": -0.12309749102126281
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/051_PROTEINURIA DEFINITION N.md",
+      "article_path": "amboss_articles/Proteinuria.md",
+      "metrics": {
+        "tfidf_cosine": 0.5832274230202243,
+        "jaccard_top_lemmas": 0.2084592145015106,
+        "entity_overlap": 0.05319148936170213,
+        "noun_chunk_overlap": 0.0668693009118541,
+        "density_delta": {
+          "content_word_rate": 0.04511468788875439,
+          "unique_content_lemmas": 158.0,
+          "unique_content_lemmas_per_sentence": 2.894179894179894,
+          "noun_chunk_density": 2.9417989417989423,
+          "entity_density_per_1k": 61.685213271757476,
+          "noun_verb_ratio": 2.5666666666666664
+        },
+        "density_delta_mean": 38.022162243715286,
+        "cognitive_distance": -0.3028711350755652
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/052_CALCIUM DISORDERS.md",
+      "article_path": "amboss_articles/Calcium Disorders.md",
+      "metrics": {
+        "tfidf_cosine": 0.6184780634810961,
+        "jaccard_top_lemmas": 0.2861736334405145,
+        "entity_overlap": 0.05045871559633028,
+        "noun_chunk_overlap": 0.0688622754491018,
+        "density_delta": {
+          "content_word_rate": 0.025798399660104776,
+          "unique_content_lemmas": 43.0,
+          "unique_content_lemmas_per_sentence": 3.3727635921486874,
+          "noun_chunk_density": 1.252562098315095,
+          "entity_density_per_1k": 32.76271066421188,
+          "noun_verb_ratio": 4.043060200668896
+        },
+        "density_delta_mean": 14.076149159167445,
+        "cognitive_distance": -0.6302532112745098
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/053_POTASSIUM METABOLISM.md",
+      "article_path": "amboss_articles/_Potassium Metabolism.md",
+      "metrics": {
+        "tfidf_cosine": 0.510800125640111,
+        "jaccard_top_lemmas": 0.2084592145015106,
+        "entity_overlap": 0.048701298701298704,
+        "noun_chunk_overlap": 0.05044136191677175,
+        "density_delta": {
+          "content_word_rate": 0.04551347006686557,
+          "unique_content_lemmas": 281.0,
+          "unique_content_lemmas_per_sentence": 1.3742017879948918,
+          "noun_chunk_density": 0.4078331204767984,
+          "entity_density_per_1k": 44.629174407185715,
+          "noun_verb_ratio": 3.1148339483394833
+        },
+        "density_delta_mean": 55.095259455677294,
+        "cognitive_distance": -0.08172670273606021
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/054_SHORTNESS OF BREATH DIFFERENTIAL DIAGNOSIS U.md",
+      "article_path": "amboss_articles/Shortness of Breath.md",
+      "metrics": {
+        "tfidf_cosine": 0.40933317645387035,
+        "jaccard_top_lemmas": 0.22324159021406728,
+        "entity_overlap": 0.04142011834319527,
+        "noun_chunk_overlap": 0.04656862745098039,
+        "density_delta": {
+          "content_word_rate": 0.026208933185677408,
+          "unique_content_lemmas": 101.0,
+          "unique_content_lemmas_per_sentence": 1.9924568965517242,
+          "noun_chunk_density": 2.494612068965517,
+          "entity_density_per_1k": 18.087855297157617,
+          "noun_verb_ratio": 0.3888888888888893
+        },
+        "density_delta_mean": 20.66500368079157,
+        "cognitive_distance": -0.1309803388037225
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/056_CHRONIC OBSTRUCTIVE PULMONARY DISEASE.md",
+      "article_path": "amboss_articles/Chronic Obstructive Pulmonary Disease (COPD).md",
+      "metrics": {
+        "tfidf_cosine": 0.546241211532691,
+        "jaccard_top_lemmas": 0.21212121212121213,
+        "entity_overlap": 0.041884816753926704,
+        "noun_chunk_overlap": 0.08023774145616643,
+        "density_delta": {
+          "content_word_rate": 0.003324202355999062,
+          "unique_content_lemmas": 22.0,
+          "unique_content_lemmas_per_sentence": 3.145539906103286,
+          "noun_chunk_density": 2.436032863849765,
+          "entity_density_per_1k": 37.51035580719814,
+          "noun_verb_ratio": 0.6196943972835314
+        },
+        "density_delta_mean": 10.952491196131787,
+        "cognitive_distance": -0.4024320991262398
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/057_EVALUATION OF CHEST PAIN INTRODUCTION A.md",
+      "article_path": "amboss_articles/Evaluation of Chest Pain.md",
+      "metrics": {
+        "tfidf_cosine": 0.5174636474094187,
+        "jaccard_top_lemmas": 0.22324159021406728,
+        "entity_overlap": 0.04583333333333333,
+        "noun_chunk_overlap": 0.039525691699604744,
+        "density_delta": {
+          "content_word_rate": 0.05218301705891926,
+          "unique_content_lemmas": 296.0,
+          "unique_content_lemmas_per_sentence": 0.1718805545680775,
+          "noun_chunk_density": 1.0828297191610385,
+          "entity_density_per_1k": 13.829091216073621,
+          "noun_verb_ratio": 1.3838435453151856
+        },
+        "density_delta_mean": 52.08663800869614,
+        "cognitive_distance": -0.10593534163994918
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/058_HYPERLIPIDEMIA SIGNIFICANCE A.md",
+      "article_path": "amboss_articles/Hyperlipidemia.md",
+      "metrics": {
+        "tfidf_cosine": 0.33495690222577174,
+        "jaccard_top_lemmas": 0.1661807580174927,
+        "entity_overlap": 0.046948356807511735,
+        "noun_chunk_overlap": 0.05565529622980251,
+        "density_delta": {
+          "content_word_rate": 0.037226605412963076,
+          "unique_content_lemmas": 152.0,
+          "unique_content_lemmas_per_sentence": 1.9710317460317466,
+          "noun_chunk_density": 0.8214285714285712,
+          "entity_density_per_1k": 55.69470215036243,
+          "noun_verb_ratio": 1.2633333333333336
+        },
+        "density_delta_mean": 35.29795373442818,
+        "cognitive_distance": 0.12427582241358634
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/059_HYPERTENSION INTRODUCTION H.md",
+      "article_path": "amboss_articles/Hypertension.md",
+      "metrics": {
+        "tfidf_cosine": 0.5220405932127818,
+        "jaccard_top_lemmas": 0.2578616352201258,
+        "entity_overlap": 0.06440677966101695,
+        "noun_chunk_overlap": 0.06896551724137931,
+        "density_delta": {
+          "content_word_rate": 0.003710476837979093,
+          "unique_content_lemmas": 124.0,
+          "unique_content_lemmas_per_sentence": 3.2449275362318843,
+          "noun_chunk_density": 2.67215320910973,
+          "entity_density_per_1k": 25.426707459354205,
+          "noun_verb_ratio": 0.7715279660251193
+        },
+        "density_delta_mean": 26.019837774593153,
+        "cognitive_distance": -0.4208915846590683
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/060_CORONARY ARTERY DISEASE N.md",
+      "article_path": "amboss_articles/Coronary Artery Disease.md",
+      "metrics": {
+        "tfidf_cosine": 0.4897372727285352,
+        "jaccard_top_lemmas": 0.2618296529968454,
+        "entity_overlap": 0.050156739811912224,
+        "noun_chunk_overlap": 0.06762295081967214,
+        "density_delta": {
+          "content_word_rate": 0.0004785078783051677,
+          "unique_content_lemmas": 171.0,
+          "unique_content_lemmas_per_sentence": 4.416369047619048,
+          "noun_chunk_density": 1.991765873015873,
+          "entity_density_per_1k": 36.116441580071694,
+          "noun_verb_ratio": 1.3481501706484647
+        },
+        "density_delta_mean": 35.81220086320556,
+        "cognitive_distance": -0.3065117910849545
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/061_HEART FAILURE DEFINITION C.md",
+      "article_path": "amboss_articles/Heart Failure.md",
+      "metrics": {
+        "tfidf_cosine": 0.4939956773402769,
+        "jaccard_top_lemmas": 0.23076923076923078,
+        "entity_overlap": 0.04507042253521127,
+        "noun_chunk_overlap": 0.059033989266547404,
+        "density_delta": {
+          "content_word_rate": 0.02010424422933732,
+          "unique_content_lemmas": 453.0,
+          "unique_content_lemmas_per_sentence": 4.190673289183223,
+          "noun_chunk_density": 1.402317880794702,
+          "entity_density_per_1k": 79.67237527922559,
+          "noun_verb_ratio": 1.1367521367521363
+        },
+        "density_delta_mean": 89.90370380503083,
+        "cognitive_distance": 0.051113477793347295
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/062_ATRIAL FIBRILLATION.md",
+      "article_path": "amboss_articles/Atrial Fibrillation (AF).md",
+      "metrics": {
+        "tfidf_cosine": 0.32322094550355385,
+        "jaccard_top_lemmas": 0.17647058823529413,
+        "entity_overlap": 0.027888446215139442,
+        "noun_chunk_overlap": 0.046740467404674045,
+        "density_delta": {
+          "content_word_rate": 0.03138051979901679,
+          "unique_content_lemmas": 454.0,
+          "unique_content_lemmas_per_sentence": 1.5050107372942012,
+          "noun_chunk_density": 0.50536864710093,
+          "entity_density_per_1k": 2.222876354933021,
+          "noun_verb_ratio": 0.9971014492753625
+        },
+        "density_delta_mean": 76.54362295140042,
+        "cognitive_distance": 0.38135186105944685
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/064_ANEMIA GENERAL.md",
+      "article_path": "amboss_articles/Anemia.md",
+      "metrics": {
+        "tfidf_cosine": 0.6374127513032429,
+        "jaccard_top_lemmas": 0.1834319526627219,
+        "entity_overlap": 0.04716981132075472,
+        "noun_chunk_overlap": 0.05890603085553997,
+        "density_delta": {
+          "content_word_rate": 0.00685413830336612,
+          "unique_content_lemmas": 303.0,
+          "unique_content_lemmas_per_sentence": 1.8423005565862711,
+          "noun_chunk_density": 0.26205936920222683,
+          "entity_density_per_1k": 49.727712313975886,
+          "noun_verb_ratio": 1.2694985250737458
+        },
+        "density_delta_mean": 59.351404150523585,
+        "cognitive_distance": -0.1810174429416562
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/065_THYROID DISEASE AND TESTING N.md",
+      "article_path": "amboss_articles/Thyroid Disease and Testing.md",
+      "metrics": {
+        "tfidf_cosine": 0.4660153182457008,
+        "jaccard_top_lemmas": 0.1396011396011396,
+        "entity_overlap": 0.029940119760479042,
+        "noun_chunk_overlap": 0.021359223300970873,
+        "density_delta": {
+          "content_word_rate": 0.16937847301514808,
+          "unique_content_lemmas": 322.0,
+          "unique_content_lemmas_per_sentence": 3.0624242424242416,
+          "noun_chunk_density": 2.0654545454545454,
+          "entity_density_per_1k": 17.999019943670547,
+          "noun_verb_ratio": 2.252802893309223
+        },
+        "density_delta_mean": 57.92484668297895,
+        "cognitive_distance": 0.24266236451844253
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/066_TYPE.md",
+      "article_path": "amboss_articles/Type 2 Diabetes Mellitus.md",
+      "metrics": {
+        "tfidf_cosine": 0.659496610747947,
+        "jaccard_top_lemmas": 0.2578616352201258,
+        "entity_overlap": 0.10250569476082004,
+        "noun_chunk_overlap": 0.07884151246983105,
+        "density_delta": {
+          "content_word_rate": 0.03921680094537372,
+          "unique_content_lemmas": 191.0,
+          "unique_content_lemmas_per_sentence": 3.7551960010523544,
+          "noun_chunk_density": 4.898382004735596,
+          "entity_density_per_1k": 35.29185510236913,
+          "noun_verb_ratio": 0.0754605330863436
+        },
+        "density_delta_mean": 39.17668507369813,
+        "cognitive_distance": -0.6342604907006578
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/067_HEADACHE DIAGNOSIS AND MANAGEMENT EPIDEMIOLOGY M.md",
+      "article_path": "amboss_articles/Headache Diagnosis and Management.md",
+      "metrics": {
+        "tfidf_cosine": 0.4927272941940729,
+        "jaccard_top_lemmas": 0.16279069767441862,
+        "entity_overlap": 0.030864197530864196,
+        "noun_chunk_overlap": 0.042279411764705885,
+        "density_delta": {
+          "content_word_rate": 0.020355488494620433,
+          "unique_content_lemmas": 278.0,
+          "unique_content_lemmas_per_sentence": 2.7785326086956523,
+          "noun_chunk_density": 1.8580163043478262,
+          "entity_density_per_1k": 16.371155637288723,
+          "noun_verb_ratio": 0.1954274976511119
+        },
+        "density_delta_mean": 49.87058125607965,
+        "cognitive_distance": 0.07097662657582389
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/068_EVALUATION AND MANAGEMENT OF DIZZINESS INTRODUCTION A.md",
+      "article_path": "amboss_articles/Evaluation and Management of Dizziness.md",
+      "metrics": {
+        "tfidf_cosine": 0.5252323045618116,
+        "jaccard_top_lemmas": 0.20481927710843373,
+        "entity_overlap": 0.06637168141592921,
+        "noun_chunk_overlap": 0.04908675799086758,
+        "density_delta": {
+          "content_word_rate": 0.01217285213346131,
+          "unique_content_lemmas": 276.0,
+          "unique_content_lemmas_per_sentence": 0.2963825794344137,
+          "noun_chunk_density": 2.548954895489549,
+          "entity_density_per_1k": 58.96205880736931,
+          "noun_verb_ratio": 1.7259627406851714
+        },
+        "density_delta_mean": 56.59092197918532,
+        "cognitive_distance": -0.12048572579212675
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/069_SEIZURE DISORDERS DEFINITIONS S.md",
+      "article_path": "amboss_articles/Seizure Disorders.md",
+      "metrics": {
+        "tfidf_cosine": 0.7000604590884242,
+        "jaccard_top_lemmas": 0.21580547112462006,
+        "entity_overlap": 0.05245901639344262,
+        "noun_chunk_overlap": 0.0521415270018622,
+        "density_delta": {
+          "content_word_rate": 0.03488055002938917,
+          "unique_content_lemmas": 529.0,
+          "unique_content_lemmas_per_sentence": 2.3237673343605554,
+          "noun_chunk_density": 0.05392912172573272,
+          "entity_density_per_1k": 51.48306920769845,
+          "noun_verb_ratio": 2.4425679012345682
+        },
+        "density_delta_mean": 97.55636901917478,
+        "cognitive_distance": -0.13790349639171934
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/070_GASTROESOPHAGEAL REFLUX DISEASE AND PEPTIC ULCER DISEASE.md",
+      "article_path": "amboss_articles/Gastroesophageal Reflux Disease and Peptic Ulcer Disease.md",
+      "metrics": {
+        "tfidf_cosine": 0.6287563825938304,
+        "jaccard_top_lemmas": 0.2618296529968454,
+        "entity_overlap": 0.07058823529411765,
+        "noun_chunk_overlap": 0.06314948041566747,
+        "density_delta": {
+          "content_word_rate": 0.032691055623009335,
+          "unique_content_lemmas": 87.0,
+          "unique_content_lemmas_per_sentence": 4.448457036445863,
+          "noun_chunk_density": 2.5103085927108264,
+          "entity_density_per_1k": 26.838849882982288,
+          "noun_verb_ratio": 0.05603651999492776
+        },
+        "density_delta_mean": 20.147723847959487,
+        "cognitive_distance": -0.5924665940851426
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/071_EVALUATION OF DIARRHEA IN ADULTS INTRODUCTION D.md",
+      "article_path": "amboss_articles/Evaluation of Diarrhea in Adults.md",
+      "metrics": {
+        "tfidf_cosine": 0.5301134148386443,
+        "jaccard_top_lemmas": 0.21951219512195122,
+        "entity_overlap": 0.04964539007092199,
+        "noun_chunk_overlap": 0.05054945054945055,
+        "density_delta": {
+          "content_word_rate": 0.012760131434830235,
+          "unique_content_lemmas": 429.0,
+          "unique_content_lemmas_per_sentence": 3.6357754852246895,
+          "noun_chunk_density": 0.5745759748207728,
+          "entity_density_per_1k": 31.788974078130707,
+          "noun_verb_ratio": 1.5745519713261649
+        },
+        "density_delta_mean": 77.76443960682286,
+        "cognitive_distance": -0.020627342114544443
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/072_CONSTIPATION IN ADULTS DEFINITION.md",
+      "article_path": "amboss_articles/Constipation in Adults.md",
+      "metrics": {
+        "tfidf_cosine": 0.43142100717156445,
+        "jaccard_top_lemmas": 0.1695906432748538,
+        "entity_overlap": 0.020100502512562814,
+        "noun_chunk_overlap": 0.04328358208955224,
+        "density_delta": {
+          "content_word_rate": 0.03792864992221989,
+          "unique_content_lemmas": 455.0,
+          "unique_content_lemmas_per_sentence": 3.966011466011466,
+          "noun_chunk_density": 0.4811629811629814,
+          "entity_density_per_1k": 43.406338913518155,
+          "noun_verb_ratio": 6.93955223880597
+        },
+        "density_delta_mean": 84.97183237490347,
+        "cognitive_distance": 0.3269889660814299
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/073_HEMORRHOIDS DEFINITION.md",
+      "article_path": "amboss_articles/Hemorrhoids.md",
+      "metrics": {
+        "tfidf_cosine": 0.6461010376119949,
+        "jaccard_top_lemmas": 0.22699386503067484,
+        "entity_overlap": 0.03289473684210526,
+        "noun_chunk_overlap": 0.05555555555555555,
+        "density_delta": {
+          "content_word_rate": 0.07157322653283638,
+          "unique_content_lemmas": 340.0,
+          "unique_content_lemmas_per_sentence": 0.08004755300178346,
+          "noun_chunk_density": 1.5163463443629874,
+          "entity_density_per_1k": 22.236712258776947,
+          "noun_verb_ratio": 0.8824020403431492
+        },
+        "density_delta_mean": 60.79784690383629,
+        "cognitive_distance": -0.2395802566024595
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/074_OCULAR DISORDERS AND SCREENING INDICATIONS FOR REFERRAL TO OPHTHALMOLOGIST I.md",
+      "article_path": "amboss_articles/Ocular Disorders and Screening.md",
+      "metrics": {
+        "tfidf_cosine": 0.37643009021522683,
+        "jaccard_top_lemmas": 0.14942528735632185,
+        "entity_overlap": 0.028089887640449437,
+        "noun_chunk_overlap": 0.04719501335707925,
+        "density_delta": {
+          "content_word_rate": 0.011755154230882359,
+          "unique_content_lemmas": 433.0,
+          "unique_content_lemmas_per_sentence": 4.972452830188679,
+          "noun_chunk_density": 0.9773584905660373,
+          "entity_density_per_1k": 36.48886173158018,
+          "noun_verb_ratio": 0.6705585585585583
+        },
+        "density_delta_mean": 79.35349779418739,
+        "cognitive_distance": 0.385269847879868
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/075_ALLERGIC RHINITIS.md",
+      "article_path": "amboss_articles/Allergic RhinitisSeasonal Allergies.md",
+      "metrics": {
+        "tfidf_cosine": 0.44352091754315953,
+        "jaccard_top_lemmas": 0.18694362017804153,
+        "entity_overlap": 0.05042016806722689,
+        "noun_chunk_overlap": 0.06119402985074627,
+        "density_delta": {
+          "content_word_rate": 0.03891354401115721,
+          "unique_content_lemmas": 146.0,
+          "unique_content_lemmas_per_sentence": 3.2449512948443804,
+          "noun_chunk_density": 2.0765027322404377,
+          "entity_density_per_1k": 91.7946655565982,
+          "noun_verb_ratio": 1.7151939655172415
+        },
+        "density_delta_mean": 40.81170451553524,
+        "cognitive_distance": -0.049218414249322974
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/076_BENIGN PROSTATIC HYPERPLASIA DEFINITION.md",
+      "article_path": "amboss_articles/Benign Prostatic Hyperplasia.md",
+      "metrics": {
+        "tfidf_cosine": 0.40515786615647653,
+        "jaccard_top_lemmas": 0.19760479041916168,
+        "entity_overlap": 0.04979253112033195,
+        "noun_chunk_overlap": 0.06888068880688807,
+        "density_delta": {
+          "content_word_rate": 0.02594330879136364,
+          "unique_content_lemmas": 233.0,
+          "unique_content_lemmas_per_sentence": 3.2972381733661473,
+          "noun_chunk_density": 0.547853431774679,
+          "entity_density_per_1k": 55.36339662838317,
+          "noun_verb_ratio": 0.9273504273504276
+        },
+        "density_delta_mean": 48.8602969949443,
+        "cognitive_distance": -0.0003883925648131781
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/077_MANAGEMENT OF OBESITY IN ADULTS PREVALENCE OF OBESITY.md",
+      "article_path": "amboss_articles/Management of Obesity In Adults.md",
+      "metrics": {
+        "tfidf_cosine": 0.5249783818063162,
+        "jaccard_top_lemmas": 0.22699386503067484,
+        "entity_overlap": 0.04984423676012461,
+        "noun_chunk_overlap": 0.054455445544554455,
+        "density_delta": {
+          "content_word_rate": 0.03808455202101657,
+          "unique_content_lemmas": 20.0,
+          "unique_content_lemmas_per_sentence": 2.7100082034454474,
+          "noun_chunk_density": 2.3001093792726275,
+          "entity_density_per_1k": 14.324617107055076,
+          "noun_verb_ratio": 0.6207317073170726
+        },
+        "density_delta_mean": 6.665591824851873,
+        "cognitive_distance": -0.38876302000204566
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/078_ADVERSE DRUG INTERACTIONS AND PRESCRIBING ERRORS DRUG INTERACTION MECHANISMS A.md",
+      "article_path": "amboss_articles/Adverse Drug Interactions and Prescribing Errors.md",
+      "metrics": {
+        "tfidf_cosine": 0.3025277201711889,
+        "jaccard_top_lemmas": 0.09289617486338798,
+        "entity_overlap": 0.02054794520547945,
+        "noun_chunk_overlap": 0.014402003757044458,
+        "density_delta": {
+          "content_word_rate": 0.05532111036028986,
+          "unique_content_lemmas": 1020.0,
+          "unique_content_lemmas_per_sentence": 2.8579710144927537,
+          "noun_chunk_density": 2.8081159420289854,
+          "entity_density_per_1k": 56.43056071434432,
+          "noun_verb_ratio": 1.3724568774878376
+        },
+        "density_delta_mean": 180.58740427645236,
+        "cognitive_distance": 1.186632583111577
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/079_MEDICATION ADHERENCE OVERVIEW P.md",
+      "article_path": "amboss_articles/Medication Adherence.md",
+      "metrics": {
+        "tfidf_cosine": 0.42200463187428333,
+        "jaccard_top_lemmas": 0.1661807580174927,
+        "entity_overlap": 0.034129692832764506,
+        "noun_chunk_overlap": 0.041425818882466284,
+        "density_delta": {
+          "content_word_rate": 0.04445149177286767,
+          "unique_content_lemmas": 320.0,
+          "unique_content_lemmas_per_sentence": 1.3868817204301074,
+          "noun_chunk_density": 2.1430107526881725,
+          "entity_density_per_1k": 33.738415311904,
+          "noun_verb_ratio": 1.0551643192488265
+        },
+        "density_delta_mean": 59.72798726600733,
+        "cognitive_distance": 0.19535972275612873
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/081_DIFFERENTIAL DIAGNOSIS OF ARTHRITIS EVALUATION WITH HISTORY AND PHYSICAL EXAM A.md",
+      "article_path": "amboss_articles/Differential Diagnosis of Arthritis.md",
+      "metrics": {
+        "tfidf_cosine": 0.46638222516350475,
+        "jaccard_top_lemmas": 0.22699386503067484,
+        "entity_overlap": 0.028,
+        "noun_chunk_overlap": 0.06025641025641026,
+        "density_delta": {
+          "content_word_rate": 0.04678833304012131,
+          "unique_content_lemmas": 37.0,
+          "unique_content_lemmas_per_sentence": 7.8778588807785885,
+          "noun_chunk_density": 3.944849959448499,
+          "entity_density_per_1k": 32.80156851810668,
+          "noun_verb_ratio": 2.3387155963302755
+        },
+        "density_delta_mean": 14.00163021461736,
+        "cognitive_distance": -0.24425243805497554
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/082_OSTEOARTHRITIS INTRODUCTION O.md",
+      "article_path": "amboss_articles/OSTEOARTHRITIS.md",
+      "metrics": {
+        "tfidf_cosine": 0.6073062634222055,
+        "jaccard_top_lemmas": 0.19402985074626866,
+        "entity_overlap": 0.05806451612903226,
+        "noun_chunk_overlap": 0.061371841155234655,
+        "density_delta": {
+          "content_word_rate": 0.031089817052842084,
+          "unique_content_lemmas": 157.0,
+          "unique_content_lemmas_per_sentence": 2.325961538461538,
+          "noun_chunk_density": 2.805769230769231,
+          "entity_density_per_1k": 85.6562031171862,
+          "noun_verb_ratio": 0.13251131574839992
+        },
+        "density_delta_mean": 41.32525583653637,
+        "cognitive_distance": -0.28418430653452426
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/083_RHEUMATOID ARTHRITIS DEFINITION.md",
+      "article_path": "amboss_articles/Rheumatoid Arthritis.md",
+      "metrics": {
+        "tfidf_cosine": 0.4597822273979705,
+        "jaccard_top_lemmas": 0.2084592145015106,
+        "entity_overlap": 0.06329113924050633,
+        "noun_chunk_overlap": 0.04314720812182741,
+        "density_delta": {
+          "content_word_rate": 0.021198954926042513,
+          "unique_content_lemmas": 362.0,
+          "unique_content_lemmas_per_sentence": 1.7974410103024256,
+          "noun_chunk_density": 0.44017946161515464,
+          "entity_density_per_1k": 41.68405027875497,
+          "noun_verb_ratio": 0.3130740784921864
+        },
+        "density_delta_mean": 67.70932396401513,
+        "cognitive_distance": 0.02829320837253857
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/084_GOUTY ARTHRITIS DEFINITION G.md",
+      "article_path": "amboss_articles/Gouty Arthritis.md",
+      "metrics": {
+        "tfidf_cosine": 0.6566071753172421,
+        "jaccard_top_lemmas": 0.27388535031847133,
+        "entity_overlap": 0.08837209302325581,
+        "noun_chunk_overlap": 0.05514157973174367,
+        "density_delta": {
+          "content_word_rate": 0.01245711291075391,
+          "unique_content_lemmas": 113.0,
+          "unique_content_lemmas_per_sentence": 3.4208333333333343,
+          "noun_chunk_density": 1.8819444444444438,
+          "entity_density_per_1k": 41.62811264053455,
+          "noun_verb_ratio": 1.0329888297317043
+        },
+        "density_delta_mean": 26.829389393492466,
+        "cognitive_distance": -0.6416858266393536
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/085_OSTEOPOROSIS GENERAL B.md",
+      "article_path": "amboss_articles/Osteoporosis.md",
+      "metrics": {
+        "tfidf_cosine": 0.7177192021829928,
+        "jaccard_top_lemmas": 0.29449838187702265,
+        "entity_overlap": 0.062111801242236024,
+        "noun_chunk_overlap": 0.0857449088960343,
+        "density_delta": {
+          "content_word_rate": 0.03835484080848095,
+          "unique_content_lemmas": 77.0,
+          "unique_content_lemmas_per_sentence": 1.7828746177370025,
+          "noun_chunk_density": 1.7357206274045573,
+          "entity_density_per_1k": 20.517186939398087,
+          "noun_verb_ratio": 1.4741852964075184
+        },
+        "density_delta_mean": 17.09138705362594,
+        "cognitive_distance": -0.8209624989475758
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/086_COMMON FRACTURES.md",
+      "article_path": "amboss_articles/Common FracturesDescribing Fractures.md",
+      "metrics": {
+        "tfidf_cosine": 0.7382036519907841,
+        "jaccard_top_lemmas": 0.14285714285714285,
+        "entity_overlap": 0.031055900621118012,
+        "noun_chunk_overlap": 0.027586206896551724,
+        "density_delta": {
+          "content_word_rate": 0.05229614365616719,
+          "unique_content_lemmas": 384.0,
+          "unique_content_lemmas_per_sentence": 4.131717924821373,
+          "noun_chunk_density": 2.6744330537433987,
+          "entity_density_per_1k": 37.60776315236133,
+          "noun_verb_ratio": 2.6038141283910825
+        },
+        "density_delta_mean": 71.84500406716222,
+        "cognitive_distance": -0.053042859314698806
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/087_ANKLE INJURIES ANATOMY L.md",
+      "article_path": "amboss_articles/Ankle Injuries.md",
+      "metrics": {
+        "tfidf_cosine": 0.5044291078224457,
+        "jaccard_top_lemmas": 0.21580547112462006,
+        "entity_overlap": 0.029850746268656716,
+        "noun_chunk_overlap": 0.05456570155902005,
+        "density_delta": {
+          "content_word_rate": 0.03319986547455123,
+          "unique_content_lemmas": 242.0,
+          "unique_content_lemmas_per_sentence": 3.054838709677419,
+          "noun_chunk_density": 1.741935483870968,
+          "entity_density_per_1k": 26.62659105603182,
+          "noun_verb_ratio": 0.06683271066832752
+        },
+        "density_delta_mean": 45.58723297095385,
+        "cognitive_distance": -0.1039879161548948
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/088_KNEE PAIN ANATOMY B.md",
+      "article_path": "amboss_articles/Knee Pain.md",
+      "metrics": {
+        "tfidf_cosine": 0.5520781057841556,
+        "jaccard_top_lemmas": 0.19402985074626866,
+        "entity_overlap": 0.07894736842105263,
+        "noun_chunk_overlap": 0.05714285714285714,
+        "density_delta": {
+          "content_word_rate": 0.13233269888103694,
+          "unique_content_lemmas": 101.0,
+          "unique_content_lemmas_per_sentence": 3.1634920634920647,
+          "noun_chunk_density": 5.340476190476191,
+          "entity_density_per_1k": 16.881260825753927,
+          "noun_verb_ratio": 2.4985775248933138
+        },
+        "density_delta_mean": 21.502689883916087,
+        "cognitive_distance": -0.34895645948246706
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/089_SHOULDER INJURIES SHOULDER ANATOMY AND BIOMECHANICS I.md",
+      "article_path": "amboss_articles/Shoulder Injuries.md",
+      "metrics": {
+        "tfidf_cosine": 0.185089390663199,
+        "jaccard_top_lemmas": 0.15942028985507245,
+        "entity_overlap": 0.02531645569620253,
+        "noun_chunk_overlap": 0.041237113402061855,
+        "density_delta": {
+          "content_word_rate": 0.010436347278452551,
+          "unique_content_lemmas": 174.0,
+          "unique_content_lemmas_per_sentence": 2.3598901098901095,
+          "noun_chunk_density": 0.7527472527472527,
+          "entity_density_per_1k": 23.494634020949817,
+          "noun_verb_ratio": 0.995378652355396
+        },
+        "density_delta_mean": 33.60218106387017,
+        "cognitive_distance": 0.39793320315460384
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/090_ELBOW INJURIES ANATOMY O.md",
+      "article_path": "amboss_articles/Elbow Injuries.md",
+      "metrics": {
+        "tfidf_cosine": 0.2728778876601606,
+        "jaccard_top_lemmas": 0.14285714285714285,
+        "entity_overlap": 0.04807692307692308,
+        "noun_chunk_overlap": 0.04665314401622718,
+        "density_delta": {
+          "content_word_rate": 0.02736682655894973,
+          "unique_content_lemmas": 226.0,
+          "unique_content_lemmas_per_sentence": 5.103195390256678,
+          "noun_chunk_density": 5.691985332634888,
+          "entity_density_per_1k": 3.6340430306600453,
+          "noun_verb_ratio": 2.151440102733444
+        },
+        "density_delta_mean": 40.434671780474,
+        "cognitive_distance": 0.29502940324385624
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/091_CARPAL TUNNEL SYNDROME DEFINITION.md",
+      "article_path": "amboss_articles/Carpal Tunnel Syndrome.md",
+      "metrics": {
+        "tfidf_cosine": 0.5391311398045978,
+        "jaccard_top_lemmas": 0.2012012012012012,
+        "entity_overlap": 0.06666666666666667,
+        "noun_chunk_overlap": 0.05895691609977324,
+        "density_delta": {
+          "content_word_rate": 0.09108593548555555,
+          "unique_content_lemmas": 126.0,
+          "unique_content_lemmas_per_sentence": 0.08414918414918393,
+          "noun_chunk_density": 1.3130536130536128,
+          "entity_density_per_1k": 44.40767105880151,
+          "noun_verb_ratio": 1.4493436982286223
+        },
+        "density_delta_mean": 28.890883914953083,
+        "cognitive_distance": -0.28889936981944186
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/092_LOW BACK PAIN INTRODUCTION L.md",
+      "article_path": "amboss_articles/Low Back Pain.md",
+      "metrics": {
+        "tfidf_cosine": 0.5202043024965514,
+        "jaccard_top_lemmas": 0.19760479041916168,
+        "entity_overlap": 0.03741496598639456,
+        "noun_chunk_overlap": 0.046511627906976744,
+        "density_delta": {
+          "content_word_rate": 0.04357009296568426,
+          "unique_content_lemmas": 465.0,
+          "unique_content_lemmas_per_sentence": 8.732954545454547,
+          "noun_chunk_density": 3.433712121212121,
+          "entity_density_per_1k": 3.2047615285349167,
+          "noun_verb_ratio": 1.457160769016439
+        },
+        "density_delta_mean": 80.31202650953061,
+        "cognitive_distance": 0.08736734801776196
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/093_CORTICOSTEROID INJECTION OF JOINTS INTRODUCTION.md",
+      "article_path": "amboss_articles/Corticosteroid Injection of Joints.md",
+      "metrics": {
+        "tfidf_cosine": 0.46355234724751104,
+        "jaccard_top_lemmas": 0.1834319526627219,
+        "entity_overlap": 0.040983606557377046,
+        "noun_chunk_overlap": 0.036585365853658534,
+        "density_delta": {
+          "content_word_rate": 0.02110527961301567,
+          "unique_content_lemmas": 38.0,
+          "unique_content_lemmas_per_sentence": 0.5317307692307685,
+          "noun_chunk_density": 0.3461538461538458,
+          "entity_density_per_1k": 58.79197528023195,
+          "noun_verb_ratio": 1.8384184308841847
+        },
+        "density_delta_mean": 16.58823060101896,
+        "cognitive_distance": -0.1099672125899412
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/094_CONCUSSION EVALUATION DEFINITION.md",
+      "article_path": "amboss_articles/Concussion Evaluation.md",
+      "metrics": {
+        "tfidf_cosine": 0.38826011029621194,
+        "jaccard_top_lemmas": 0.17302052785923755,
+        "entity_overlap": 0.03463203463203463,
+        "noun_chunk_overlap": 0.043882978723404256,
+        "density_delta": {
+          "content_word_rate": 0.008282999697456161,
+          "unique_content_lemmas": 100.0,
+          "unique_content_lemmas_per_sentence": 2.9025857654889915,
+          "noun_chunk_density": 0.06822836661546372,
+          "entity_density_per_1k": 6.314986562914839,
+          "noun_verb_ratio": 0.22815271468743248
+        },
+        "density_delta_mean": 18.25370606823403,
+        "cognitive_distance": 0.012529733972016444
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/095_OCCUPATIONAL MEDICINE INTRODUCTION.md",
+      "article_path": "amboss_articles/Occupational Medicine.md",
+      "metrics": {
+        "tfidf_cosine": 0.3308082247253294,
+        "jaccard_top_lemmas": 0.10497237569060773,
+        "entity_overlap": 0.0,
+        "noun_chunk_overlap": 0.02282608695652174,
+        "density_delta": {
+          "content_word_rate": 0.18513349204802287,
+          "unique_content_lemmas": 561.0,
+          "unique_content_lemmas_per_sentence": 0.3690566037735845,
+          "noun_chunk_density": 0.36045283018867913,
+          "entity_density_per_1k": 0.9501997855959488,
+          "noun_verb_ratio": 1.863876747072473
+        },
+        "density_delta_mean": 94.12145324311312,
+        "cognitive_distance": 0.7268610003260972
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/096_DESCRIBING DERMATOLOGIC LESIONS TYPE OF LESION.md",
+      "article_path": "amboss_articles/Describing Dermatologic Lesions.md",
+      "metrics": {
+        "tfidf_cosine": 0.44532848627337507,
+        "jaccard_top_lemmas": 0.15273775216138327,
+        "entity_overlap": 0.00966183574879227,
+        "noun_chunk_overlap": 0.025059665871121718,
+        "density_delta": {
+          "content_word_rate": 0.04556922095778204,
+          "unique_content_lemmas": 760.0,
+          "unique_content_lemmas_per_sentence": 0.8000000000000007,
+          "noun_chunk_density": 2.338461538461538,
+          "entity_density_per_1k": 7.958087178942094,
+          "noun_verb_ratio": 0.1818681318681321
+        },
+        "density_delta_mean": 128.5539976783716,
+        "cognitive_distance": 0.6236611537374338
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/097_CONTACT DERMATITIS DEFINITION.md",
+      "article_path": "amboss_articles/Contact Dermatitis.md",
+      "metrics": {
+        "tfidf_cosine": 0.5176735023205584,
+        "jaccard_top_lemmas": 0.2012012012012012,
+        "entity_overlap": 0.05555555555555555,
+        "noun_chunk_overlap": 0.08185053380782918,
+        "density_delta": {
+          "content_word_rate": 0.0035471710234307174,
+          "unique_content_lemmas": 227.0,
+          "unique_content_lemmas_per_sentence": 1.9693877551020407,
+          "noun_chunk_density": 0.17006802721088476,
+          "entity_density_per_1k": 66.89691522414559,
+          "noun_verb_ratio": 1.070893812070283
+        },
+        "density_delta_mean": 49.51846866492537,
+        "cognitive_distance": -0.1874107464987094
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/098_ACNE AND ROSACEA DEFINITION A.md",
+      "article_path": "amboss_articles/Acne and Rosacea.md",
+      "metrics": {
+        "tfidf_cosine": 0.27914278221046085,
+        "jaccard_top_lemmas": 0.13314447592067988,
+        "entity_overlap": 0.044444444444444446,
+        "noun_chunk_overlap": 0.038535645472061654,
+        "density_delta": {
+          "content_word_rate": 0.03819464863275501,
+          "unique_content_lemmas": 120.0,
+          "unique_content_lemmas_per_sentence": 0.6173202614379081,
+          "noun_chunk_density": 0.7209150326797387,
+          "entity_density_per_1k": 33.245684042508486,
+          "noun_verb_ratio": 0.941860465116279
+        },
+        "density_delta_mean": 25.927329075062527,
+        "cognitive_distance": 0.26294822509702764
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/099_SKIN BIOPSIES INDICATIONS L.md",
+      "article_path": "amboss_articles/Skin Biopsies.md",
+      "metrics": {
+        "tfidf_cosine": 0.1872270362160139,
+        "jaccard_top_lemmas": 0.08108108108108109,
+        "entity_overlap": 0.011299435028248588,
+        "noun_chunk_overlap": 0.019938650306748466,
+        "density_delta": {
+          "content_word_rate": 0.06455163252311003,
+          "unique_content_lemmas": 225.0,
+          "unique_content_lemmas_per_sentence": 2.875,
+          "noun_chunk_density": 3.050595238095238,
+          "entity_density_per_1k": 26.56418110357245,
+          "noun_verb_ratio": 1.1703546099290785
+        },
+        "density_delta_mean": 43.120780430686644,
+        "cognitive_distance": 0.6890022940231821
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/100_TOPICAL STEROIDS C.md",
+      "article_path": "amboss_articles/Topical Steroids.md",
+      "metrics": {
+        "tfidf_cosine": 0.02351207882166483,
+        "jaccard_top_lemmas": 0.04619565217391304,
+        "entity_overlap": 0.025362318840579712,
+        "noun_chunk_overlap": 0.005834305717619603,
+        "density_delta": {
+          "content_word_rate": 0.18979065390153005,
+          "unique_content_lemmas": 791.0,
+          "unique_content_lemmas_per_sentence": 1.1283819628647214,
+          "noun_chunk_density": 0.5201591511936341,
+          "entity_density_per_1k": 298.1406137233681,
+          "noun_verb_ratio": 8.570512820512821
+        },
+        "density_delta_mean": 183.25824305197347,
+        "cognitive_distance": 1.6580259495122072
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/101_WARTS.md",
+      "article_path": "amboss_articles/Warts, Scabies, Lice and Superficial Tinea Infection Management.md",
+      "metrics": {
+        "tfidf_cosine": 0.1567896497513853,
+        "jaccard_top_lemmas": 0.0989010989010989,
+        "entity_overlap": 0.04155844155844156,
+        "noun_chunk_overlap": 0.028388278388278388,
+        "density_delta": {
+          "content_word_rate": 0.0805423645866824,
+          "unique_content_lemmas": 272.0,
+          "unique_content_lemmas_per_sentence": 2.643791617704662,
+          "noun_chunk_density": 2.238229533881708,
+          "entity_density_per_1k": 101.84913831122088,
+          "noun_verb_ratio": 1.836399437412096
+        },
+        "density_delta_mean": 63.441350210801005,
+        "cognitive_distance": 0.7031039585528334
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/102_HAIR CHANGES AND BALDING GENERAL H.md",
+      "article_path": "amboss_articles/Hair Changes and Balding.md",
+      "metrics": {
+        "tfidf_cosine": 0.13096055171176826,
+        "jaccard_top_lemmas": 0.0610079575596817,
+        "entity_overlap": 0.02727272727272727,
+        "noun_chunk_overlap": 0.02280701754385965,
+        "density_delta": {
+          "content_word_rate": 0.04955637617157327,
+          "unique_content_lemmas": 271.0,
+          "unique_content_lemmas_per_sentence": 7.89198606271777,
+          "noun_chunk_density": 5.27177700348432,
+          "entity_density_per_1k": 75.37630999638314,
+          "noun_verb_ratio": 1.5667347633639768
+        },
+        "density_delta_mean": 60.19272736702013,
+        "cognitive_distance": 0.8449122519326464
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/103_EVALUATION OF ABDOMINAL PAIN INTRODUCTION A.md",
+      "article_path": "amboss_articles/Evaluation of Abdominal Pain.md",
+      "metrics": {
+        "tfidf_cosine": 0.27410786770537665,
+        "jaccard_top_lemmas": 0.10497237569060773,
+        "entity_overlap": 0.02023121387283237,
+        "noun_chunk_overlap": 0.0311587147030185,
+        "density_delta": {
+          "content_word_rate": 0.00923319491830632,
+          "unique_content_lemmas": 306.0,
+          "unique_content_lemmas_per_sentence": 3.334188034188033,
+          "noun_chunk_density": 0.16182336182336154,
+          "entity_density_per_1k": 27.572074423530097,
+          "noun_verb_ratio": 1.4552194793158648
+        },
+        "density_delta_mean": 56.42208974896261,
+        "cognitive_distance": 0.5494615426750566
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/104_DIVERTICULOSIS AND DIVERTICULITIS DEFINITION.md",
+      "article_path": "amboss_articles/Diverticulosis and Diverticulitis.md",
+      "metrics": {
+        "tfidf_cosine": 0.5395558480832319,
+        "jaccard_top_lemmas": 0.21212121212121213,
+        "entity_overlap": 0.035897435897435895,
+        "noun_chunk_overlap": 0.052715654952076675,
+        "density_delta": {
+          "content_word_rate": 0.013771472173145227,
+          "unique_content_lemmas": 350.0,
+          "unique_content_lemmas_per_sentence": 2.9639976958525347,
+          "noun_chunk_density": 0.34965437788018416,
+          "entity_density_per_1k": 27.532392504763166,
+          "noun_verb_ratio": 3.1629707112970715
+        },
+        "density_delta_mean": 64.00379779366102,
+        "cognitive_distance": -0.05873006248564281
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/105_MANAGEMENT OF WOUNDS PRIMARY GOALS OF WOUND MANAGEMENT A.md",
+      "article_path": "amboss_articles/Management of Wounds.md",
+      "metrics": {
+        "tfidf_cosine": 0.6853582956299812,
+        "jaccard_top_lemmas": 0.2084592145015106,
+        "entity_overlap": 0.049723756906077346,
+        "noun_chunk_overlap": 0.05225409836065574,
+        "density_delta": {
+          "content_word_rate": 0.013505794188441334,
+          "unique_content_lemmas": 359.0,
+          "unique_content_lemmas_per_sentence": 4.112087912087913,
+          "noun_chunk_density": 0.9095604395604395,
+          "entity_density_per_1k": 66.52869798258021,
+          "noun_verb_ratio": 1.1922430830039534
+        },
+        "density_delta_mean": 71.95934920190349,
+        "cognitive_distance": -0.22368286186829348
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/107_DEPRESSION INTRODUCTION L.md",
+      "article_path": "amboss_articles/Depression.md",
+      "metrics": {
+        "tfidf_cosine": 0.3137471556907209,
+        "jaccard_top_lemmas": 0.18694362017804153,
+        "entity_overlap": 0.02040816326530612,
+        "noun_chunk_overlap": 0.07180385288966724,
+        "density_delta": {
+          "content_word_rate": 0.004524855749800105,
+          "unique_content_lemmas": 141.0,
+          "unique_content_lemmas_per_sentence": 1.5789087350134574,
+          "noun_chunk_density": 0.03229752874969449,
+          "entity_density_per_1k": 21.693854210557987,
+          "noun_verb_ratio": 0.9640350877192985
+        },
+        "density_delta_mean": 27.54560340296504,
+        "cognitive_distance": 0.09040489806105823
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/108_SEXUAL DYSFUNCTION.md",
+      "article_path": "amboss_articles/Sexual Dysfunction.md",
+      "metrics": {
+        "tfidf_cosine": 0.3177064305444192,
+        "jaccard_top_lemmas": 0.17647058823529413,
+        "entity_overlap": 0.038135593220338986,
+        "noun_chunk_overlap": 0.05148005148005148,
+        "density_delta": {
+          "content_word_rate": 0.030478806371480704,
+          "unique_content_lemmas": 457.0,
+          "unique_content_lemmas_per_sentence": 0.06227296315516462,
+          "noun_chunk_density": 0.8557343020238717,
+          "entity_density_per_1k": 64.18071584999966,
+          "noun_verb_ratio": 1.176791138109702
+        },
+        "density_delta_mean": 87.21766550994332,
+        "cognitive_distance": 0.4075433002328156
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/109_ALCOHOL AND OTHER SUBSTANCE USE DISORDERS GENERAL I.md",
+      "article_path": "amboss_articles/Alcohol and Other Substance Use Disorders.md",
+      "metrics": {
+        "tfidf_cosine": 0.5299933224195768,
+        "jaccard_top_lemmas": 0.17647058823529413,
+        "entity_overlap": 0.04815864022662889,
+        "noun_chunk_overlap": 0.05753823743627094,
+        "density_delta": {
+          "content_word_rate": 0.04294750163398553,
+          "unique_content_lemmas": 684.0,
+          "unique_content_lemmas_per_sentence": 0.13795986622073642,
+          "noun_chunk_density": 2.086399108138239,
+          "entity_density_per_1k": 67.80602612210296,
+          "noun_verb_ratio": 0.5718823239176025
+        },
+        "density_delta_mean": 125.77420248700226,
+        "cognitive_distance": 0.2956293049752874
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/110_DRUGS TO BE CAUTIOUS OF IN THE GERIATRIC POPULATION GERIATRIC DRUG USE ISSUES T.md",
+      "article_path": "amboss_articles/Drugs to be Cautious of in the Geriatric Population.md",
+      "metrics": {
+        "tfidf_cosine": 0.3476928347964194,
+        "jaccard_top_lemmas": 0.19047619047619047,
+        "entity_overlap": 0.052845528455284556,
+        "noun_chunk_overlap": 0.05983680870353581,
+        "density_delta": {
+          "content_word_rate": 0.05609808493152313,
+          "unique_content_lemmas": 123.0,
+          "unique_content_lemmas_per_sentence": 3.651219512195122,
+          "noun_chunk_density": 2.5657101865136296,
+          "entity_density_per_1k": 2.8937611264664866,
+          "noun_verb_ratio": 2.329340887900739
+        },
+        "density_delta_mean": 22.41602163300125,
+        "cognitive_distance": -0.029545134662599493
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/111_FALLS IN THE ELDERLY BACKGROUND.md",
+      "article_path": "amboss_articles/Falls in the Elderly.md",
+      "metrics": {
+        "tfidf_cosine": 0.42318967473382585,
+        "jaccard_top_lemmas": 0.19760479041916168,
+        "entity_overlap": 0.03007518796992481,
+        "noun_chunk_overlap": 0.05641025641025641,
+        "density_delta": {
+          "content_word_rate": 0.06178155372961036,
+          "unique_content_lemmas": 268.0,
+          "unique_content_lemmas_per_sentence": 5.945098039215686,
+          "noun_chunk_density": 3.2137254901960786,
+          "entity_density_per_1k": 31.593924633588955,
+          "noun_verb_ratio": 2.296902918403812
+        },
+        "density_delta_mean": 51.851905439189025,
+        "cognitive_distance": 0.0630169782322543
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/112_VERTEBRAL COMPRESSION FRACTURES GENERAL V.md",
+      "article_path": "amboss_articles/Vertebral Compression Fractures.md",
+      "metrics": {
+        "tfidf_cosine": 0.3942126352048698,
+        "jaccard_top_lemmas": 0.12994350282485875,
+        "entity_overlap": 0.025252525252525252,
+        "noun_chunk_overlap": 0.022972972972972974,
+        "density_delta": {
+          "content_word_rate": 0.04129387199099532,
+          "unique_content_lemmas": 183.0,
+          "unique_content_lemmas_per_sentence": 2.9703714622641506,
+          "noun_chunk_density": 0.2840507075471699,
+          "entity_density_per_1k": 39.74380292138855,
+          "noun_verb_ratio": 0.40341188021600427
+        },
+        "density_delta_mean": 37.740488473901145,
+        "cognitive_distance": 0.26086543314456223
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/113_URINARY INCONTINENCE BACKGROUND P.md",
+      "article_path": "amboss_articles/Urinary Incontinence.md",
+      "metrics": {
+        "tfidf_cosine": 0.6062276947245493,
+        "jaccard_top_lemmas": 0.22699386503067484,
+        "entity_overlap": 0.035175879396984924,
+        "noun_chunk_overlap": 0.05,
+        "density_delta": {
+          "content_word_rate": 0.012863757436957002,
+          "unique_content_lemmas": 161.0,
+          "unique_content_lemmas_per_sentence": 6.535222353404172,
+          "noun_chunk_density": 1.8390397481306566,
+          "entity_density_per_1k": 17.825877706139593,
+          "noun_verb_ratio": 0.8781043517885623
+        },
+        "density_delta_mean": 31.34851798614999,
+        "cognitive_distance": -0.326953609750701
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/114_EVALUATION OF MENTAL STATUS CHANGES APPROACH TO THE PATIENT.md",
+      "article_path": "amboss_articles/Evaluation of Mental Status Changes.md",
+      "metrics": {
+        "tfidf_cosine": 0.24569378126991348,
+        "jaccard_top_lemmas": 0.1396011396011396,
+        "entity_overlap": 0.009302325581395349,
+        "noun_chunk_overlap": 0.03243670886075949,
+        "density_delta": {
+          "content_word_rate": 0.12550275369168296,
+          "unique_content_lemmas": 416.0,
+          "unique_content_lemmas_per_sentence": 4.697601185514494,
+          "noun_chunk_density": 0.25701583773270364,
+          "entity_density_per_1k": 70.53702614158443,
+          "noun_verb_ratio": 2.6357731883529154
+        },
+        "density_delta_mean": 82.3754865178127,
+        "cognitive_distance": 0.6592465490199155
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/115_ADVANCE CARE PLANNING A.md",
+      "article_path": "amboss_articles/Advance Care Planning.md",
+      "metrics": {
+        "tfidf_cosine": 0.5886979402079113,
+        "jaccard_top_lemmas": 0.2012012012012012,
+        "entity_overlap": 0.02830188679245283,
+        "noun_chunk_overlap": 0.042444821731748725,
+        "density_delta": {
+          "content_word_rate": 0.08411756358567268,
+          "unique_content_lemmas": 356.0,
+          "unique_content_lemmas_per_sentence": 1.9423558897243103,
+          "noun_chunk_density": 1.2389306599832914,
+          "entity_density_per_1k": 70.04983347106403,
+          "noun_verb_ratio": 2.3169832402234634
+        },
+        "density_delta_mean": 71.93870347076346,
+        "cognitive_distance": -0.018092313058344068
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/116_END OF LIFE CARE BACKGROUND.md",
+      "article_path": "amboss_articles/End of Life Care.md",
+      "metrics": {
+        "tfidf_cosine": 0.18077053361230258,
+        "jaccard_top_lemmas": 0.1111111111111111,
+        "entity_overlap": 0.028368794326241134,
+        "noun_chunk_overlap": 0.023450586264656615,
+        "density_delta": {
+          "content_word_rate": 0.045718849711811504,
+          "unique_content_lemmas": 160.0,
+          "unique_content_lemmas_per_sentence": 0.187793427230047,
+          "noun_chunk_density": 1.1350455675227833,
+          "entity_density_per_1k": 6.959139012587556,
+          "noun_verb_ratio": 2.153237074988356
+        },
+        "density_delta_mean": 28.413488988673425,
+        "cognitive_distance": 0.5148044273671393
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/_003_CHILDHOOD IMMUNIZATION SCHEDULE AND PREVENTIVE HEALTH CARE.md",
+      "article_path": "amboss_articles/_Childhood Immunization Schedule and Preventive Health Care.md",
+      "metrics": {
+        "tfidf_cosine": 0.18188311581644548,
+        "jaccard_top_lemmas": 0.10497237569060773,
+        "entity_overlap": 0.01702127659574468,
+        "noun_chunk_overlap": 0.037102473498233215,
+        "density_delta": {
+          "content_word_rate": 0.05679819113718054,
+          "unique_content_lemmas": 204.0,
+          "unique_content_lemmas_per_sentence": 4.8905978665343595,
+          "noun_chunk_density": 0.16968494170181092,
+          "entity_density_per_1k": 20.354776401640564,
+          "noun_verb_ratio": 1.0301915708812261
+        },
+        "density_delta_mean": 38.41700816198252,
+        "cognitive_distance": 0.5702285069763069
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/_007_ASTHMA IN CHILDREN DEFINITION.md",
+      "article_path": "amboss_articles/_Asthma in Children.md",
+      "metrics": {
+        "tfidf_cosine": 0.4751390601396087,
+        "jaccard_top_lemmas": 0.1661807580174927,
+        "entity_overlap": 0.0364963503649635,
+        "noun_chunk_overlap": 0.05060240963855422,
+        "density_delta": {
+          "content_word_rate": 0.06749908933563531,
+          "unique_content_lemmas": 162.0,
+          "unique_content_lemmas_per_sentence": 1.6330427563304273,
+          "noun_chunk_density": 2.7787463677874635,
+          "entity_density_per_1k": 13.070458479093546,
+          "noun_verb_ratio": 4.058001768346595
+        },
+        "density_delta_mean": 30.601291410148946,
+        "cognitive_distance": -0.03996970199605974
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/_018_ATTENTION DEFICIT HYPERACTIVITY DISORDER.md",
+      "article_path": "amboss_articles/_Attention Deficit Hyperactivity Disorder (ADHD).md",
+      "metrics": {
+        "tfidf_cosine": 0.40126774851202823,
+        "jaccard_top_lemmas": 0.25,
+        "entity_overlap": 0.05214723926380368,
+        "noun_chunk_overlap": 0.061247216035634745,
+        "density_delta": {
+          "content_word_rate": 0.041544529372855465,
+          "unique_content_lemmas": 217.0,
+          "unique_content_lemmas_per_sentence": 2.8613043478260867,
+          "noun_chunk_density": 3.5004347826086963,
+          "entity_density_per_1k": 47.34856291805821,
+          "noun_verb_ratio": 0.2701308863280696
+        },
+        "density_delta_mean": 45.17032957736565,
+        "cognitive_distance": -0.11447731409300091
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/_024_POSTPARTUM DISCHARGE INSTRUCTIONS THESE ISSUES SHOULD BE DISCUSSED WITH ALL HOME.md",
+      "article_path": "amboss_articles/_Postpartum Discharge Instructions.md",
+      "metrics": {
+        "tfidf_cosine": 0.5064478157228369,
+        "jaccard_top_lemmas": 0.1396011396011396,
+        "entity_overlap": 0.05128205128205128,
+        "noun_chunk_overlap": 0.05263157894736842,
+        "density_delta": {
+          "content_word_rate": 0.0247028104170961,
+          "unique_content_lemmas": 136.0,
+          "unique_content_lemmas_per_sentence": 3.5692866878691505,
+          "noun_chunk_density": 0.6747690443737691,
+          "entity_density_per_1k": 36.882429739572615,
+          "noun_verb_ratio": 0.861275984871491
+        },
+        "density_delta_mean": 29.668744044517354,
+        "cognitive_distance": -0.06365065552002469
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/_026_CONTRACEPTION ORAL CONTRACEPTIVES.md",
+      "article_path": "amboss_articles/_Contraception.md",
+      "metrics": {
+        "tfidf_cosine": 0.48918840811303144,
+        "jaccard_top_lemmas": 0.24610591900311526,
+        "entity_overlap": 0.07990314769975787,
+        "noun_chunk_overlap": 0.07170172084130019,
+        "density_delta": {
+          "content_word_rate": 0.013419465977605571,
+          "unique_content_lemmas": 3.0,
+          "unique_content_lemmas_per_sentence": 3.5327863757846982,
+          "noun_chunk_density": 3.6375784697619498,
+          "entity_density_per_1k": 52.239448751076665,
+          "noun_verb_ratio": 0.48970439443244285
+        },
+        "density_delta_mean": 10.485489576172228,
+        "cognitive_distance": -0.47102844896493046
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/_055_ASTHMA IN ADULTS DEFINITION A.md",
+      "article_path": "amboss_articles/_Asthma in Adults.md",
+      "metrics": {
+        "tfidf_cosine": 0.6684849224530625,
+        "jaccard_top_lemmas": 0.2422360248447205,
+        "entity_overlap": 0.0738255033557047,
+        "noun_chunk_overlap": 0.05582761998041136,
+        "density_delta": {
+          "content_word_rate": 0.04201322395259788,
+          "unique_content_lemmas": 406.0,
+          "unique_content_lemmas_per_sentence": 2.1634258247760547,
+          "noun_chunk_density": 0.38445852450659057,
+          "entity_density_per_1k": 12.166219766245945,
+          "noun_verb_ratio": 0.14551846003458913
+        },
+        "density_delta_mean": 70.15027263325263,
+        "cognitive_distance": -0.34515217747905347
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/_063_AMBULATORY POST-MI MANAGEMENT.md",
+      "article_path": "amboss_articles/_Ambulatory Post-Mi Management.md",
+      "metrics": {
+        "tfidf_cosine": 0.22955103622035228,
+        "jaccard_top_lemmas": 0.11420612813370473,
+        "entity_overlap": 0.02768166089965398,
+        "noun_chunk_overlap": 0.030139935414424113,
+        "density_delta": {
+          "content_word_rate": 0.034680100581987894,
+          "unique_content_lemmas": 514.0,
+          "unique_content_lemmas_per_sentence": 2.7412217412217417,
+          "noun_chunk_density": 0.8520923520923525,
+          "entity_density_per_1k": 45.711690824586995,
+          "noun_verb_ratio": 0.8263234457023589
+        },
+        "density_delta_mean": 94.02766807736424,
+        "cognitive_distance": 0.7560011157928983
+      }
+    },
+    {
+      "resident_path": "resident_guide_chapters/_106_ANXIETY DISORDERS AND OBSESSIVE.md",
+      "article_path": "amboss_articles/_Anxiety Disorders and Obsessive-Compulsive and Related Disorders.md",
+      "metrics": {
+        "tfidf_cosine": 0.5801614436697634,
+        "jaccard_top_lemmas": 0.2084592145015106,
+        "entity_overlap": 0.05070422535211268,
+        "noun_chunk_overlap": 0.06581196581196581,
+        "density_delta": {
+          "content_word_rate": 0.006617259869436065,
+          "unique_content_lemmas": 338.0,
+          "unique_content_lemmas_per_sentence": 1.377688172043011,
+          "noun_chunk_density": 0.1984206989247319,
+          "entity_density_per_1k": 59.387924145576775,
+          "noun_verb_ratio": 0.7152857813633844
+        },
+        "density_delta_mean": 66.61432267629623,
+        "cognitive_distance": -0.15072426644145442
+      }
+    }
+  ],
+  "metric_notes": {
+    "tfidf_cosine": "Cosine similarity of TF-IDF vectors over content lemmas",
+    "jaccard_top_lemmas": "Jaccard overlap of top-N content lemmas",
+    "entity_overlap": "Jaccard overlap of named entity sets",
+    "noun_chunk_overlap": "Jaccard overlap of noun chunk sets",
+    "density_delta": "Absolute differences of density metrics",
+    "cognitive_distance": "Mean z-score of distance components"
+  }
+}
