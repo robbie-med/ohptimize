@@ -1,0 +1,7685 @@
+{
+  "generated_at": "2026-02-24T22:10:51.371215Z",
+  "resident_dir": "resident_guide_chapters",
+  "articles_dir": "amboss_articles",
+  "tail_lines": 200,
+  "current_year": 2026,
+  "resources": {
+    "Resident_Guide_Chapters": {
+      "files": [
+        {
+          "path": "resident_guide_chapters/001_THE NEWBORN EXAM HISTORY R.md",
+          "years": [
+            2011,
+            2011,
+            2019,
+            2019,
+            2014,
+            2014,
+            2019,
+            2011
+          ],
+          "year_counts": {
+            "2011": 3,
+            "2019": 3,
+            "2014": 2
+          },
+          "year_stats": {
+            "count": 8,
+            "min": 2011,
+            "max": 2019,
+            "mean": 2014.75,
+            "median": 2014.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/002_THE DEVELOPING CHILD AND NORMAL PEDIATRIC VITAL SIGNS CHILD DEVELOPMENTAL STAGE T.md",
+          "years": [
+            2016,
+            2019,
+            2019,
+            2019,
+            2019,
+            2019
+          ],
+          "year_counts": {
+            "2016": 1,
+            "2019": 5
+          },
+          "year_stats": {
+            "count": 6,
+            "min": 2016,
+            "max": 2019,
+            "mean": 2018.5,
+            "median": 2019.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/004_INFANT FORMULA AND BREASTFEEDING BREAST MILK.md",
+          "years": [
+            2020,
+            2018,
+            2018,
+            2010,
+            2008,
+            2010,
+            2019,
+            2019,
+            2014,
+            2020,
+            2020
+          ],
+          "year_counts": {
+            "2020": 3,
+            "2018": 2,
+            "2010": 2,
+            "2008": 1,
+            "2019": 2,
+            "2014": 1
+          },
+          "year_stats": {
+            "count": 11,
+            "min": 2008,
+            "max": 2020,
+            "mean": 2016.0,
+            "median": 2018.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/005_HYPERBILIRUBINEMIA IN THE NEWBORN OVER.md",
+          "years": [
+            2004,
+            2020,
+            2020,
+            2020,
+            2009,
+            2014
+          ],
+          "year_counts": {
+            "2004": 1,
+            "2020": 3,
+            "2009": 1,
+            "2014": 1
+          },
+          "year_stats": {
+            "count": 6,
+            "min": 2004,
+            "max": 2020,
+            "mean": 2014.5,
+            "median": 2017.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/006_FEVER WITHOUT A KNOWN SOURCE IN THE YOUNG CHILD.md",
+          "years": [
+            2000,
+            2010,
+            2020,
+            2012,
+            2011,
+            2020,
+            2020
+          ],
+          "year_counts": {
+            "2000": 1,
+            "2010": 1,
+            "2020": 3,
+            "2012": 1,
+            "2011": 1
+          },
+          "year_stats": {
+            "count": 7,
+            "min": 2000,
+            "max": 2020,
+            "mean": 2013.2857142857142,
+            "median": 2012.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/008_COMMUNITY.md",
+          "years": [
+            2011,
+            2011,
+            2011,
+            2020,
+            2019,
+            2020,
+            1998,
+            2018,
+            2017,
+            2012
+          ],
+          "year_counts": {
+            "2011": 3,
+            "2020": 2,
+            "2019": 1,
+            "1998": 1,
+            "2018": 1,
+            "2017": 1,
+            "2012": 1
+          },
+          "year_stats": {
+            "count": 10,
+            "min": 1998,
+            "max": 2020,
+            "mean": 2013.7,
+            "median": 2014.5
+          }
+        },
+        {
+          "path": "resident_guide_chapters/009_ACUTE OTITIS MEDIA INTRODUCTION.md",
+          "years": [
+            2017,
+            2019,
+            2019,
+            2013,
+            2002,
+            2020,
+            2019,
+            2006,
+            2000,
+            2001
+          ],
+          "year_counts": {
+            "2017": 1,
+            "2019": 3,
+            "2013": 1,
+            "2002": 1,
+            "2020": 1,
+            "2006": 1,
+            "2000": 1,
+            "2001": 1
+          },
+          "year_stats": {
+            "count": 10,
+            "min": 2000,
+            "max": 2020,
+            "mean": 2011.6,
+            "median": 2015.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/010_PHARYNGITIS DEFINITION.md",
+          "years": [
+            2012,
+            2012,
+            2009,
+            2018,
+            2018,
+            2012,
+            2012,
+            2011
+          ],
+          "year_counts": {
+            "2012": 4,
+            "2009": 1,
+            "2018": 2,
+            "2011": 1
+          },
+          "year_stats": {
+            "count": 8,
+            "min": 2009,
+            "max": 2018,
+            "mean": 2013.0,
+            "median": 2012.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/011_CROUP.md",
+          "years": [
+            2017,
+            2017,
+            2019,
+            2018,
+            2019,
+            2018
+          ],
+          "year_counts": {
+            "2017": 2,
+            "2019": 2,
+            "2018": 2
+          },
+          "year_stats": {
+            "count": 6,
+            "min": 2017,
+            "max": 2019,
+            "mean": 2018.0,
+            "median": 2018.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/012_BRONCHIOLITIS INTRODUCTION D.md",
+          "years": [
+            2014,
+            2014,
+            2004,
+            2004,
+            2011
+          ],
+          "year_counts": {
+            "2014": 2,
+            "2004": 2,
+            "2011": 1
+          },
+          "year_stats": {
+            "count": 5,
+            "min": 2004,
+            "max": 2014,
+            "mean": 2009.4,
+            "median": 2011.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/013_DIARRHEA IN CHILDREN INTRODUCTION D.md",
+          "years": [
+            2019,
+            2019,
+            2012,
+            2012,
+            2012,
+            2007,
+            2017
+          ],
+          "year_counts": {
+            "2019": 2,
+            "2012": 3,
+            "2007": 1,
+            "2017": 1
+          },
+          "year_stats": {
+            "count": 7,
+            "min": 2007,
+            "max": 2019,
+            "mean": 2014.0,
+            "median": 2012.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/014_CONSTIPATION IN CHILDREN INTRODUCTION D.md",
+          "years": [
+            2014,
+            2014,
+            2014,
+            2006,
+            2006,
+            2016,
+            2014
+          ],
+          "year_counts": {
+            "2014": 4,
+            "2006": 2,
+            "2016": 1
+          },
+          "year_stats": {
+            "count": 7,
+            "min": 2006,
+            "max": 2016,
+            "mean": 2012.0,
+            "median": 2014.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/015_URINARY TRACT INFECTIONS IN CHILDREN.md",
+          "years": [
+            2011,
+            2016,
+            2005,
+            2005,
+            2005,
+            2001,
+            2006,
+            2006,
+            2018,
+            2017,
+            2017,
+            2017,
+            2016,
+            2020
+          ],
+          "year_counts": {
+            "2011": 1,
+            "2016": 2,
+            "2005": 3,
+            "2001": 1,
+            "2006": 2,
+            "2018": 1,
+            "2017": 3,
+            "2020": 1
+          },
+          "year_stats": {
+            "count": 14,
+            "min": 2001,
+            "max": 2020,
+            "mean": 2011.4285714285713,
+            "median": 2013.5
+          }
+        },
+        {
+          "path": "resident_guide_chapters/016_ENURESIS DEFINITIONS I.md",
+          "years": [
+            2014,
+            2009,
+            2008,
+            2001,
+            2020,
+            2019,
+            2020,
+            2009,
+            2005,
+            2004
+          ],
+          "year_counts": {
+            "2014": 1,
+            "2009": 2,
+            "2008": 1,
+            "2001": 1,
+            "2020": 2,
+            "2019": 1,
+            "2005": 1,
+            "2004": 1
+          },
+          "year_stats": {
+            "count": 10,
+            "min": 2001,
+            "max": 2020,
+            "mean": 2010.9,
+            "median": 2009.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/017_RASHES IN CHILDREN N.md",
+          "years": [
+            2015,
+            2016,
+            2010,
+            2019,
+            2018,
+            2018,
+            2014,
+            2013,
+            2020
+          ],
+          "year_counts": {
+            "2015": 1,
+            "2016": 1,
+            "2010": 1,
+            "2019": 1,
+            "2018": 2,
+            "2014": 1,
+            "2013": 1,
+            "2020": 1
+          },
+          "year_stats": {
+            "count": 9,
+            "min": 2010,
+            "max": 2020,
+            "mean": 2015.888888888889,
+            "median": 2016.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/019_AUTISM SPECTRUM DISORDERS INTRODUCTION A.md",
+          "years": [
+            2013,
+            2008,
+            2008,
+            2017,
+            2016
+          ],
+          "year_counts": {
+            "2013": 1,
+            "2008": 2,
+            "2017": 1,
+            "2016": 1
+          },
+          "year_stats": {
+            "count": 5,
+            "min": 2008,
+            "max": 2017,
+            "mean": 2012.4,
+            "median": 2013.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/020_CHILD ABUSE INTRODUCTION.md",
+          "years": [
+            1998,
+            2018,
+            2018,
+            1999,
+            2003,
+            2003,
+            2006
+          ],
+          "year_counts": {
+            "1998": 1,
+            "2018": 2,
+            "1999": 1,
+            "2003": 2,
+            "2006": 1
+          },
+          "year_stats": {
+            "count": 7,
+            "min": 1998,
+            "max": 2018,
+            "mean": 2006.4285714285713,
+            "median": 2003.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/021_PRENATAL CARE SCHEDULE OF PRENATAL VISITS.md",
+          "years": [
+            2020,
+            2010,
+            2010,
+            2010,
+            2010,
+            2012,
+            2020,
+            2012,
+            2007,
+            2021,
+            2020,
+            2020,
+            2019,
+            2018,
+            2019
+          ],
+          "year_counts": {
+            "2020": 4,
+            "2010": 4,
+            "2012": 2,
+            "2007": 1,
+            "2021": 1,
+            "2019": 2,
+            "2018": 1
+          },
+          "year_stats": {
+            "count": 15,
+            "min": 2007,
+            "max": 2021,
+            "mean": 2015.2,
+            "median": 2018.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/022_MEDICATIONS DURING PREGNANCY AND LACTATION.md",
+          "years": [
+            2015,
+            2019,
+            2001,
+            2009,
+            2009,
+            2018,
+            2020,
+            2020,
+            2020,
+            2016,
+            1976,
+            2008,
+            2011
+          ],
+          "year_counts": {
+            "2015": 1,
+            "2019": 1,
+            "2001": 1,
+            "2009": 2,
+            "2018": 1,
+            "2020": 3,
+            "2016": 1,
+            "1976": 1,
+            "2008": 1,
+            "2011": 1
+          },
+          "year_stats": {
+            "count": 13,
+            "min": 1976,
+            "max": 2020,
+            "mean": 2010.923076923077,
+            "median": 2015.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/023_QUESTIONS EXPECTING PARENTS COMMONLY ASK AND RADIATION IN PREGNANCY T.md",
+          "years": [
+            2021,
+            2021,
+            2017,
+            2016,
+            2016,
+            2016,
+            2014,
+            2018,
+            2020,
+            2019,
+            2014
+          ],
+          "year_counts": {
+            "2021": 2,
+            "2017": 1,
+            "2016": 3,
+            "2014": 2,
+            "2018": 1,
+            "2020": 1,
+            "2019": 1
+          },
+          "year_stats": {
+            "count": 11,
+            "min": 2014,
+            "max": 2021,
+            "mean": 2017.4545454545455,
+            "median": 2017.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/024_POSTPARTUM DISCHARGE INSTRUCTIONS THESE ISSUES SHOULD BE DISCUSSED WITH ALL HOME.md",
+          "years": [
+            2001,
+            2015,
+            2017,
+            2016,
+            2018,
+            2018,
+            2018,
+            2017,
+            2017
+          ],
+          "year_counts": {
+            "2001": 1,
+            "2015": 1,
+            "2017": 3,
+            "2016": 1,
+            "2018": 3
+          },
+          "year_stats": {
+            "count": 9,
+            "min": 2001,
+            "max": 2018,
+            "mean": 2015.2222222222222,
+            "median": 2017.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/025_POSTPARTUM CHECK.md",
+          "years": [],
+          "year_counts": {},
+          "year_stats": {
+            "count": 0,
+            "min": null,
+            "max": null,
+            "mean": null,
+            "median": null
+          }
+        },
+        {
+          "path": "resident_guide_chapters/027_FERTILITY AWARENESS.md",
+          "years": [
+            1998,
+            2020,
+            2019,
+            2019,
+            2012,
+            2018
+          ],
+          "year_counts": {
+            "1998": 1,
+            "2020": 1,
+            "2019": 2,
+            "2012": 1,
+            "2018": 1
+          },
+          "year_stats": {
+            "count": 6,
+            "min": 1998,
+            "max": 2020,
+            "mean": 2014.3333333333333,
+            "median": 2018.5
+          }
+        },
+        {
+          "path": "resident_guide_chapters/028_CERVICAL CANCER SCREENING.md",
+          "years": [
+            2006,
+            2016,
+            2019,
+            2021,
+            2016,
+            2012,
+            2008,
+            2019,
+            2018,
+            2019,
+            2020,
+            2018,
+            2012,
+            2012,
+            2019,
+            2019,
+            2018,
+            2019,
+            2019,
+            2019
+          ],
+          "year_counts": {
+            "2006": 1,
+            "2016": 2,
+            "2019": 8,
+            "2021": 1,
+            "2012": 3,
+            "2008": 1,
+            "2018": 3,
+            "2020": 1
+          },
+          "year_stats": {
+            "count": 20,
+            "min": 2006,
+            "max": 2021,
+            "mean": 2016.45,
+            "median": 2018.5
+          }
+        },
+        {
+          "path": "resident_guide_chapters/029_ABNORMAL UTERINE BLEEDING INTRODUCTION T.md",
+          "years": [
+            2012,
+            2018,
+            2018,
+            2020,
+            2020,
+            2017,
+            2017,
+            2017,
+            2019,
+            2018,
+            2019
+          ],
+          "year_counts": {
+            "2012": 1,
+            "2018": 3,
+            "2020": 2,
+            "2017": 3,
+            "2019": 2
+          },
+          "year_stats": {
+            "count": 11,
+            "min": 2012,
+            "max": 2020,
+            "mean": 2017.7272727272727,
+            "median": 2018.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/030_AMENORRHEA INTRODUCTION.md",
+          "years": [
+            2016,
+            2019,
+            2019,
+            2019
+          ],
+          "year_counts": {
+            "2016": 1,
+            "2019": 3
+          },
+          "year_stats": {
+            "count": 4,
+            "min": 2016,
+            "max": 2019,
+            "mean": 2018.25,
+            "median": 2019.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/031_MENOPAUSE AND HORMONE REPLACEMENT THERAPY DEFINITION.md",
+          "years": [
+            2017,
+            2011,
+            2019,
+            2019,
+            2019,
+            2017,
+            2016,
+            2016,
+            2017,
+            2017
+          ],
+          "year_counts": {
+            "2017": 4,
+            "2011": 1,
+            "2019": 3,
+            "2016": 2
+          },
+          "year_stats": {
+            "count": 10,
+            "min": 2011,
+            "max": 2019,
+            "mean": 2016.8,
+            "median": 2017.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/032_THE PREMENSTRUAL SYNDROME AND DYSMENORRHEA T.md",
+          "years": [
+            2020,
+            2018,
+            2017,
+            2018,
+            2018,
+            2018,
+            2016,
+            2014,
+            2018
+          ],
+          "year_counts": {
+            "2020": 1,
+            "2018": 5,
+            "2017": 1,
+            "2016": 1,
+            "2014": 1
+          },
+          "year_stats": {
+            "count": 9,
+            "min": 2014,
+            "max": 2020,
+            "mean": 2017.4444444444443,
+            "median": 2018.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/033_EVALUATION OF BREAST MASS.md",
+          "years": [
+            2016,
+            2018,
+            2018,
+            2006,
+            2019,
+            2019,
+            2019,
+            2021,
+            2021,
+            2016
+          ],
+          "year_counts": {
+            "2016": 2,
+            "2018": 2,
+            "2006": 1,
+            "2019": 3,
+            "2021": 2
+          },
+          "year_stats": {
+            "count": 10,
+            "min": 2006,
+            "max": 2021,
+            "mean": 2017.3,
+            "median": 2018.5
+          }
+        },
+        {
+          "path": "resident_guide_chapters/034_COMMUNITY.md",
+          "years": [
+            2011,
+            2009,
+            2019,
+            2018,
+            2019,
+            2007,
+            2018,
+            2018
+          ],
+          "year_counts": {
+            "2011": 1,
+            "2009": 1,
+            "2019": 2,
+            "2018": 3,
+            "2007": 1
+          },
+          "year_stats": {
+            "count": 8,
+            "min": 2007,
+            "max": 2019,
+            "mean": 2014.875,
+            "median": 2018.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/035_ACUTE BRONCHITIS GENERAL D.md",
+          "years": [
+            2015,
+            2011,
+            2020,
+            2016,
+            2014
+          ],
+          "year_counts": {
+            "2015": 1,
+            "2011": 1,
+            "2020": 1,
+            "2016": 1,
+            "2014": 1
+          },
+          "year_stats": {
+            "count": 5,
+            "min": 2011,
+            "max": 2020,
+            "mean": 2015.2,
+            "median": 2015.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/036_DIAGNOSIS AND MANAGEMENT OF HEPATITIS B BACKGROUND O.md",
+          "years": [
+            2003,
+            2009,
+            2009,
+            2007,
+            2018,
+            2005
+          ],
+          "year_counts": {
+            "2003": 1,
+            "2009": 2,
+            "2007": 1,
+            "2018": 1,
+            "2005": 1
+          },
+          "year_stats": {
+            "count": 6,
+            "min": 2003,
+            "max": 2018,
+            "mean": 2008.5,
+            "median": 2008.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/037_DIAGNOSIS AND MANAGEMENT OF HEPATITIS C INTRODUCTION H.md",
+          "years": [
+            2014,
+            1945,
+            1965,
+            1987,
+            1992,
+            2020,
+            2019,
+            2020,
+            2021,
+            2020,
+            2019,
+            2020,
+            2021,
+            2018,
+            2018,
+            2009,
+            2018,
+            2018
+          ],
+          "year_counts": {
+            "2014": 1,
+            "1945": 1,
+            "1965": 1,
+            "1987": 1,
+            "1992": 1,
+            "2020": 4,
+            "2019": 2,
+            "2021": 2,
+            "2018": 4,
+            "2009": 1
+          },
+          "year_stats": {
+            "count": 18,
+            "min": 1945,
+            "max": 2021,
+            "mean": 2008.0,
+            "median": 2018.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/038_ACUTE SINUSITIS GENERAL D.md",
+          "years": [
+            2016,
+            2012,
+            2013,
+            2011,
+            2015
+          ],
+          "year_counts": {
+            "2016": 1,
+            "2012": 1,
+            "2013": 1,
+            "2011": 1,
+            "2015": 1
+          },
+          "year_stats": {
+            "count": 5,
+            "min": 2011,
+            "max": 2016,
+            "mean": 2013.4,
+            "median": 2013.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/039_URINARY TRACT INFECTIONS N.md",
+          "years": [
+            2011,
+            2011,
+            2010,
+            2011,
+            2012,
+            2009,
+            2010
+          ],
+          "year_counts": {
+            "2011": 3,
+            "2010": 2,
+            "2012": 1,
+            "2009": 1
+          },
+          "year_stats": {
+            "count": 7,
+            "min": 2009,
+            "max": 2012,
+            "mean": 2010.5714285714287,
+            "median": 2011.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/040_ENDOCARDITIS PROPHYLAXIS T.md",
+          "years": [
+            2017,
+            2007,
+            2017,
+            2017,
+            2017,
+            2017,
+            2016,
+            2017,
+            2014,
+            2017,
+            2017,
+            2017,
+            2007,
+            2007,
+            2021,
+            2021
+          ],
+          "year_counts": {
+            "2017": 9,
+            "2007": 3,
+            "2016": 1,
+            "2014": 1,
+            "2021": 2
+          },
+          "year_stats": {
+            "count": 16,
+            "min": 2007,
+            "max": 2021,
+            "mean": 2015.375,
+            "median": 2017.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/041_TUBERCULOSIS SCREENING TRANSMISSION T.md",
+          "years": [
+            2020,
+            2020,
+            2014,
+            2014,
+            2014,
+            2010,
+            2019,
+            2019,
+            2019,
+            2014,
+            2011
+          ],
+          "year_counts": {
+            "2020": 2,
+            "2014": 4,
+            "2010": 1,
+            "2019": 3,
+            "2011": 1
+          },
+          "year_stats": {
+            "count": 11,
+            "min": 2010,
+            "max": 2020,
+            "mean": 2015.8181818181818,
+            "median": 2014.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/042_SEXUALLY TRANSMITTED INFECTIONS AND EVALUATION OF VAGINAL DISCHARGE GENERAL C.md",
+          "years": [],
+          "year_counts": {},
+          "year_stats": {
+            "count": 0,
+            "min": null,
+            "max": null,
+            "mean": null,
+            "median": null
+          }
+        },
+        {
+          "path": "resident_guide_chapters/043_PELVIC INFLAMMATORY DISEASE.md",
+          "years": [
+            2017,
+            2019,
+            2021,
+            2020,
+            2020,
+            2015,
+            2015
+          ],
+          "year_counts": {
+            "2017": 1,
+            "2019": 1,
+            "2021": 1,
+            "2020": 2,
+            "2015": 2
+          },
+          "year_stats": {
+            "count": 7,
+            "min": 2015,
+            "max": 2021,
+            "mean": 2018.142857142857,
+            "median": 2019.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/044_AMBULATORY HIV.md",
+          "years": [
+            2013,
+            2014,
+            2013,
+            2021,
+            2010
+          ],
+          "year_counts": {
+            "2013": 2,
+            "2014": 1,
+            "2021": 1,
+            "2010": 1
+          },
+          "year_stats": {
+            "count": 5,
+            "min": 2010,
+            "max": 2021,
+            "mean": 2014.2,
+            "median": 2013.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/045_PROPHYLAXIS FOR THE PREVENTION OF HIV INFECTION BACKGROUND E.md",
+          "years": [
+            2017,
+            2016,
+            2018,
+            2016,
+            2016,
+            2016,
+            2018,
+            2013,
+            2020,
+            2020,
+            2019,
+            2019
+          ],
+          "year_counts": {
+            "2017": 1,
+            "2016": 4,
+            "2018": 2,
+            "2013": 1,
+            "2020": 2,
+            "2019": 2
+          },
+          "year_stats": {
+            "count": 12,
+            "min": 2013,
+            "max": 2020,
+            "mean": 2017.3333333333333,
+            "median": 2017.5
+          }
+        },
+        {
+          "path": "resident_guide_chapters/046_EMERGING INFECTIOUS DISEASES.md",
+          "years": [
+            2020,
+            2024,
+            2019,
+            2016,
+            2019,
+            2001,
+            1999,
+            2014,
+            2012,
+            2007,
+            2019,
+            2019,
+            2024,
+            1992,
+            2015,
+            2015,
+            2015,
+            2007,
+            2007,
+            2007,
+            2017,
+            2016,
+            2015
+          ],
+          "year_counts": {
+            "2020": 1,
+            "2024": 2,
+            "2019": 4,
+            "2016": 2,
+            "2001": 1,
+            "1999": 1,
+            "2014": 1,
+            "2012": 1,
+            "2007": 4,
+            "1992": 1,
+            "2015": 4,
+            "2017": 1
+          },
+          "year_stats": {
+            "count": 23,
+            "min": 1992,
+            "max": 2024,
+            "mean": 2013.0,
+            "median": 2015.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/047_EKG INTERPRETATION N.md",
+          "years": [
+            2000,
+            2019,
+            2019,
+            2019,
+            1998,
+            1997,
+            1992
+          ],
+          "year_counts": {
+            "2000": 1,
+            "2019": 3,
+            "1998": 1,
+            "1997": 1,
+            "1992": 1
+          },
+          "year_stats": {
+            "count": 7,
+            "min": 1992,
+            "max": 2019,
+            "mean": 2006.2857142857142,
+            "median": 2000.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/048_CARDIAC STRESS TESTING INDICATIONS FOR EXERCISE STRESS TESTING.md",
+          "years": [
+            1997,
+            1997,
+            2019,
+            2019,
+            2001,
+            2003,
+            2019,
+            2019,
+            2012,
+            2019,
+            2019,
+            2019
+          ],
+          "year_counts": {
+            "1997": 2,
+            "2019": 7,
+            "2001": 1,
+            "2003": 1,
+            "2012": 1
+          },
+          "year_stats": {
+            "count": 12,
+            "min": 1997,
+            "max": 2019,
+            "mean": 2011.9166666666667,
+            "median": 2019.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/049_LIVER FUNCTION TESTS INTRODUCTION L.md",
+          "years": [
+            2020,
+            2020,
+            2005,
+            2017,
+            2000,
+            2019,
+            2019,
+            2019
+          ],
+          "year_counts": {
+            "2020": 2,
+            "2005": 1,
+            "2017": 1,
+            "2000": 1,
+            "2019": 3
+          },
+          "year_stats": {
+            "count": 8,
+            "min": 2000,
+            "max": 2020,
+            "mean": 2014.875,
+            "median": 2019.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/050_HEMATURIA DEFINITION.md",
+          "years": [
+            2008,
+            2012,
+            2008,
+            2019,
+            2019,
+            2019,
+            2013
+          ],
+          "year_counts": {
+            "2008": 2,
+            "2012": 1,
+            "2019": 3,
+            "2013": 1
+          },
+          "year_stats": {
+            "count": 7,
+            "min": 2008,
+            "max": 2019,
+            "mean": 2014.0,
+            "median": 2013.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/051_PROTEINURIA DEFINITION N.md",
+          "years": [
+            2000,
+            1997,
+            2017,
+            2020,
+            2021,
+            1998,
+            2020,
+            2020,
+            2020,
+            2016,
+            2015,
+            2015
+          ],
+          "year_counts": {
+            "2000": 1,
+            "1997": 1,
+            "2017": 1,
+            "2020": 4,
+            "2021": 1,
+            "1998": 1,
+            "2016": 1,
+            "2015": 2
+          },
+          "year_stats": {
+            "count": 12,
+            "min": 1997,
+            "max": 2021,
+            "mean": 2013.25,
+            "median": 2016.5
+          }
+        },
+        {
+          "path": "resident_guide_chapters/052_CALCIUM DISORDERS.md",
+          "years": [
+            1993,
+            2015,
+            1995,
+            2020,
+            2020,
+            2020,
+            2020,
+            2006
+          ],
+          "year_counts": {
+            "1993": 1,
+            "2015": 1,
+            "1995": 1,
+            "2020": 4,
+            "2006": 1
+          },
+          "year_stats": {
+            "count": 8,
+            "min": 1993,
+            "max": 2020,
+            "mean": 2011.125,
+            "median": 2017.5
+          }
+        },
+        {
+          "path": "resident_guide_chapters/053_POTASSIUM METABOLISM.md",
+          "years": [
+            2006,
+            2006,
+            2006,
+            2000,
+            2020,
+            2019,
+            2019,
+            2019,
+            2021,
+            2020,
+            2020,
+            2000,
+            1999,
+            2018,
+            2018
+          ],
+          "year_counts": {
+            "2006": 3,
+            "2000": 2,
+            "2020": 3,
+            "2019": 3,
+            "2021": 1,
+            "1999": 1,
+            "2018": 2
+          },
+          "year_stats": {
+            "count": 15,
+            "min": 1999,
+            "max": 2021,
+            "mean": 2012.7333333333333,
+            "median": 2018.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/054_SHORTNESS OF BREATH DIFFERENTIAL DIAGNOSIS U.md",
+          "years": [
+            2017,
+            2017,
+            2017,
+            1995,
+            1998,
+            2012
+          ],
+          "year_counts": {
+            "2017": 3,
+            "1995": 1,
+            "1998": 1,
+            "2012": 1
+          },
+          "year_stats": {
+            "count": 6,
+            "min": 1995,
+            "max": 2017,
+            "mean": 2009.3333333333333,
+            "median": 2014.5
+          }
+        },
+        {
+          "path": "resident_guide_chapters/056_CHRONIC OBSTRUCTIVE PULMONARY DISEASE.md",
+          "years": [
+            2022,
+            2022,
+            2021,
+            2019,
+            2020,
+            2019,
+            2019
+          ],
+          "year_counts": {
+            "2022": 2,
+            "2021": 1,
+            "2019": 3,
+            "2020": 1
+          },
+          "year_stats": {
+            "count": 7,
+            "min": 2019,
+            "max": 2022,
+            "mean": 2020.2857142857142,
+            "median": 2020.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/057_EVALUATION OF CHEST PAIN INTRODUCTION A.md",
+          "years": [
+            2017,
+            2017,
+            2017,
+            2017,
+            2017,
+            2017,
+            2000,
+            1996,
+            2019,
+            2019,
+            2000,
+            1998,
+            2017
+          ],
+          "year_counts": {
+            "2017": 7,
+            "2000": 2,
+            "1996": 1,
+            "2019": 2,
+            "1998": 1
+          },
+          "year_stats": {
+            "count": 13,
+            "min": 1996,
+            "max": 2019,
+            "mean": 2011.6153846153845,
+            "median": 2017.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/058_HYPERLIPIDEMIA SIGNIFICANCE A.md",
+          "years": [
+            2018,
+            2018,
+            2019,
+            2018,
+            2018,
+            2018,
+            2019,
+            2013,
+            2016,
+            2018,
+            2019,
+            2018,
+            2018,
+            2018,
+            2019,
+            2018,
+            2018,
+            2017,
+            2018,
+            2017
+          ],
+          "year_counts": {
+            "2018": 12,
+            "2019": 4,
+            "2013": 1,
+            "2016": 1,
+            "2017": 2
+          },
+          "year_stats": {
+            "count": 20,
+            "min": 2013,
+            "max": 2019,
+            "mean": 2017.75,
+            "median": 2018.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/059_HYPERTENSION INTRODUCTION H.md",
+          "years": [
+            2014,
+            2017,
+            2003,
+            2017,
+            2003,
+            2018,
+            2018,
+            2018,
+            2003,
+            2014,
+            2014,
+            2013,
+            2013,
+            2009,
+            2017,
+            2018,
+            2017
+          ],
+          "year_counts": {
+            "2014": 3,
+            "2017": 4,
+            "2003": 3,
+            "2018": 4,
+            "2013": 2,
+            "2009": 1
+          },
+          "year_stats": {
+            "count": 17,
+            "min": 2003,
+            "max": 2018,
+            "mean": 2013.2941176470588,
+            "median": 2014.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/060_CORONARY ARTERY DISEASE N.md",
+          "years": [
+            2012,
+            2012,
+            2012,
+            1999,
+            2005,
+            2017
+          ],
+          "year_counts": {
+            "2012": 3,
+            "1999": 1,
+            "2005": 1,
+            "2017": 1
+          },
+          "year_stats": {
+            "count": 6,
+            "min": 1999,
+            "max": 2017,
+            "mean": 2009.5,
+            "median": 2012.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/061_HEART FAILURE DEFINITION C.md",
+          "years": [
+            2013,
+            2013,
+            2013,
+            2013,
+            2017,
+            2017,
+            2012,
+            2019,
+            2020,
+            2016,
+            2013,
+            2016
+          ],
+          "year_counts": {
+            "2013": 5,
+            "2017": 2,
+            "2012": 1,
+            "2019": 1,
+            "2020": 1,
+            "2016": 2
+          },
+          "year_stats": {
+            "count": 12,
+            "min": 2012,
+            "max": 2020,
+            "mean": 2015.1666666666667,
+            "median": 2014.5
+          }
+        },
+        {
+          "path": "resident_guide_chapters/062_ATRIAL FIBRILLATION.md",
+          "years": [
+            2014,
+            2014,
+            2014,
+            2014,
+            2019,
+            2014,
+            2019,
+            2016,
+            2018,
+            2018,
+            2018,
+            2016,
+            2014,
+            2019,
+            2013,
+            2017
+          ],
+          "year_counts": {
+            "2014": 6,
+            "2019": 3,
+            "2016": 2,
+            "2018": 3,
+            "2013": 1,
+            "2017": 1
+          },
+          "year_stats": {
+            "count": 16,
+            "min": 2013,
+            "max": 2019,
+            "mean": 2016.0625,
+            "median": 2016.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/064_ANEMIA GENERAL.md",
+          "years": [
+            2001,
+            2018,
+            2018,
+            2016,
+            2016,
+            2005
+          ],
+          "year_counts": {
+            "2001": 1,
+            "2018": 2,
+            "2016": 2,
+            "2005": 1
+          },
+          "year_stats": {
+            "count": 6,
+            "min": 2001,
+            "max": 2018,
+            "mean": 2012.3333333333333,
+            "median": 2016.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/065_THYROID DISEASE AND TESTING N.md",
+          "years": [
+            1996,
+            1996,
+            2017,
+            2017,
+            2016,
+            2012,
+            2008,
+            2001,
+            2013
+          ],
+          "year_counts": {
+            "1996": 2,
+            "2017": 2,
+            "2016": 1,
+            "2012": 1,
+            "2008": 1,
+            "2001": 1,
+            "2013": 1
+          },
+          "year_stats": {
+            "count": 9,
+            "min": 1996,
+            "max": 2017,
+            "mean": 2008.4444444444443,
+            "median": 2012.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/066_TYPE.md",
+          "years": [
+            2020,
+            2018,
+            2019,
+            2019,
+            2019,
+            2021,
+            2021,
+            2020,
+            2013,
+            2013,
+            2015,
+            2015,
+            2012,
+            2012,
+            2012,
+            2019
+          ],
+          "year_counts": {
+            "2020": 2,
+            "2018": 1,
+            "2019": 4,
+            "2021": 2,
+            "2013": 2,
+            "2015": 2,
+            "2012": 3
+          },
+          "year_stats": {
+            "count": 16,
+            "min": 2012,
+            "max": 2021,
+            "mean": 2016.75,
+            "median": 2018.5
+          }
+        },
+        {
+          "path": "resident_guide_chapters/067_HEADACHE DIAGNOSIS AND MANAGEMENT EPIDEMIOLOGY M.md",
+          "years": [
+            2018,
+            2018,
+            2018,
+            2019,
+            2019,
+            2011,
+            2010,
+            2010,
+            2010,
+            2010,
+            2012
+          ],
+          "year_counts": {
+            "2018": 3,
+            "2019": 2,
+            "2011": 1,
+            "2010": 4,
+            "2012": 1
+          },
+          "year_stats": {
+            "count": 11,
+            "min": 2010,
+            "max": 2019,
+            "mean": 2014.090909090909,
+            "median": 2012.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/068_EVALUATION AND MANAGEMENT OF DIZZINESS INTRODUCTION A.md",
+          "years": [
+            2001,
+            2004,
+            2009,
+            2009,
+            2009,
+            2011,
+            2011,
+            2010,
+            2010,
+            1999,
+            2017
+          ],
+          "year_counts": {
+            "2001": 1,
+            "2004": 1,
+            "2009": 3,
+            "2011": 2,
+            "2010": 2,
+            "1999": 1,
+            "2017": 1
+          },
+          "year_stats": {
+            "count": 11,
+            "min": 1999,
+            "max": 2017,
+            "mean": 2008.1818181818182,
+            "median": 2009.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/069_SEIZURE DISORDERS DEFINITIONS S.md",
+          "years": [
+            2001,
+            2017,
+            2017,
+            2017,
+            2007,
+            2012,
+            2011,
+            2017,
+            2017,
+            2008,
+            2008
+          ],
+          "year_counts": {
+            "2001": 1,
+            "2017": 5,
+            "2007": 1,
+            "2012": 1,
+            "2011": 1,
+            "2008": 2
+          },
+          "year_stats": {
+            "count": 11,
+            "min": 2001,
+            "max": 2017,
+            "mean": 2012.0,
+            "median": 2012.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/070_GASTROESOPHAGEAL REFLUX DISEASE AND PEPTIC ULCER DISEASE.md",
+          "years": [
+            2017,
+            2016,
+            2017,
+            2016,
+            2017,
+            2015,
+            2019,
+            2015
+          ],
+          "year_counts": {
+            "2017": 3,
+            "2016": 2,
+            "2015": 2,
+            "2019": 1
+          },
+          "year_stats": {
+            "count": 8,
+            "min": 2015,
+            "max": 2019,
+            "mean": 2016.5,
+            "median": 2016.5
+          }
+        },
+        {
+          "path": "resident_guide_chapters/071_EVALUATION OF DIARRHEA IN ADULTS INTRODUCTION D.md",
+          "years": [
+            2014,
+            2020,
+            2001,
+            2018,
+            2018,
+            2019
+          ],
+          "year_counts": {
+            "2014": 1,
+            "2020": 1,
+            "2001": 1,
+            "2018": 2,
+            "2019": 1
+          },
+          "year_stats": {
+            "count": 6,
+            "min": 2001,
+            "max": 2020,
+            "mean": 2015.0,
+            "median": 2018.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/072_CONSTIPATION IN ADULTS DEFINITION.md",
+          "years": [
+            1999,
+            2001,
+            2001,
+            2015,
+            2000
+          ],
+          "year_counts": {
+            "1999": 1,
+            "2001": 2,
+            "2015": 1,
+            "2000": 1
+          },
+          "year_stats": {
+            "count": 5,
+            "min": 1999,
+            "max": 2015,
+            "mean": 2003.2,
+            "median": 2001.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/073_HEMORRHOIDS DEFINITION.md",
+          "years": [
+            2012,
+            2017,
+            1995,
+            2011,
+            2002
+          ],
+          "year_counts": {
+            "2012": 1,
+            "2017": 1,
+            "1995": 1,
+            "2011": 1,
+            "2002": 1
+          },
+          "year_stats": {
+            "count": 5,
+            "min": 1995,
+            "max": 2017,
+            "mean": 2007.4,
+            "median": 2011.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/074_OCULAR DISORDERS AND SCREENING INDICATIONS FOR REFERRAL TO OPHTHALMOLOGIST I.md",
+          "years": [
+            2000,
+            2017,
+            2017,
+            2000,
+            1999,
+            2001
+          ],
+          "year_counts": {
+            "2000": 2,
+            "2017": 2,
+            "1999": 1,
+            "2001": 1
+          },
+          "year_stats": {
+            "count": 6,
+            "min": 1999,
+            "max": 2017,
+            "mean": 2005.6666666666667,
+            "median": 2000.5
+          }
+        },
+        {
+          "path": "resident_guide_chapters/075_ALLERGIC RHINITIS.md",
+          "years": [
+            2011,
+            2011,
+            2008,
+            2007,
+            2011,
+            2011,
+            2011,
+            2017,
+            2008,
+            2008
+          ],
+          "year_counts": {
+            "2011": 5,
+            "2008": 3,
+            "2007": 1,
+            "2017": 1
+          },
+          "year_stats": {
+            "count": 10,
+            "min": 2007,
+            "max": 2017,
+            "mean": 2010.3,
+            "median": 2011.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/076_BENIGN PROSTATIC HYPERPLASIA DEFINITION.md",
+          "years": [
+            1992,
+            2017,
+            2016,
+            2008,
+            2019,
+            2011,
+            2011,
+            2011,
+            2012,
+            2017
+          ],
+          "year_counts": {
+            "1992": 1,
+            "2017": 2,
+            "2016": 1,
+            "2008": 1,
+            "2019": 1,
+            "2011": 3,
+            "2012": 1
+          },
+          "year_stats": {
+            "count": 10,
+            "min": 1992,
+            "max": 2019,
+            "mean": 2011.4,
+            "median": 2011.5
+          }
+        },
+        {
+          "path": "resident_guide_chapters/077_MANAGEMENT OF OBESITY IN ADULTS PREVALENCE OF OBESITY.md",
+          "years": [
+            2000,
+            2009,
+            2016,
+            2016,
+            2017,
+            2017,
+            2018,
+            2018
+          ],
+          "year_counts": {
+            "2000": 1,
+            "2009": 1,
+            "2016": 2,
+            "2017": 2,
+            "2018": 2
+          },
+          "year_stats": {
+            "count": 8,
+            "min": 2000,
+            "max": 2018,
+            "mean": 2013.875,
+            "median": 2016.5
+          }
+        },
+        {
+          "path": "resident_guide_chapters/078_ADVERSE DRUG INTERACTIONS AND PRESCRIBING ERRORS DRUG INTERACTION MECHANISMS A.md",
+          "years": [
+            2000,
+            1996,
+            2014,
+            2016,
+            2016,
+            2017,
+            2019,
+            2019
+          ],
+          "year_counts": {
+            "2000": 1,
+            "1996": 1,
+            "2014": 1,
+            "2016": 2,
+            "2017": 1,
+            "2019": 2
+          },
+          "year_stats": {
+            "count": 8,
+            "min": 1996,
+            "max": 2019,
+            "mean": 2012.125,
+            "median": 2016.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/079_MEDICATION ADHERENCE OVERVIEW P.md",
+          "years": [
+            2022,
+            2017,
+            2016,
+            2016,
+            2018,
+            2018,
+            2005,
+            2011,
+            2005,
+            2005,
+            2005
+          ],
+          "year_counts": {
+            "2022": 1,
+            "2017": 1,
+            "2016": 2,
+            "2018": 2,
+            "2005": 4,
+            "2011": 1
+          },
+          "year_stats": {
+            "count": 11,
+            "min": 2005,
+            "max": 2022,
+            "mean": 2012.5454545454545,
+            "median": 2016.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/081_DIFFERENTIAL DIAGNOSIS OF ARTHRITIS EVALUATION WITH HISTORY AND PHYSICAL EXAM A.md",
+          "years": [
+            2000,
+            2000,
+            2000,
+            2021,
+            2021,
+            2013,
+            2021,
+            2016,
+            2015,
+            2008
+          ],
+          "year_counts": {
+            "2000": 3,
+            "2021": 3,
+            "2013": 1,
+            "2016": 1,
+            "2015": 1,
+            "2008": 1
+          },
+          "year_stats": {
+            "count": 10,
+            "min": 2000,
+            "max": 2021,
+            "mean": 2011.5,
+            "median": 2014.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/082_OSTEOARTHRITIS INTRODUCTION O.md",
+          "years": [
+            2008,
+            2010,
+            2012,
+            2012,
+            2002,
+            2012
+          ],
+          "year_counts": {
+            "2008": 1,
+            "2010": 1,
+            "2012": 3,
+            "2002": 1
+          },
+          "year_stats": {
+            "count": 6,
+            "min": 2002,
+            "max": 2012,
+            "mean": 2009.3333333333333,
+            "median": 2011.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/083_RHEUMATOID ARTHRITIS DEFINITION.md",
+          "years": [
+            2010,
+            2010,
+            2010,
+            2010,
+            2010,
+            2010,
+            2004,
+            2001,
+            2015,
+            2016,
+            2015
+          ],
+          "year_counts": {
+            "2010": 6,
+            "2004": 1,
+            "2001": 1,
+            "2015": 2,
+            "2016": 1
+          },
+          "year_stats": {
+            "count": 11,
+            "min": 2001,
+            "max": 2016,
+            "mean": 2010.090909090909,
+            "median": 2010.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/084_GOUTY ARTHRITIS DEFINITION G.md",
+          "years": [
+            2020,
+            2008,
+            2012,
+            2012,
+            2012,
+            2012,
+            2011,
+            2018,
+            2018
+          ],
+          "year_counts": {
+            "2020": 1,
+            "2008": 1,
+            "2012": 4,
+            "2011": 1,
+            "2018": 2
+          },
+          "year_stats": {
+            "count": 9,
+            "min": 2008,
+            "max": 2020,
+            "mean": 2013.6666666666667,
+            "median": 2012.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/085_OSTEOPOROSIS GENERAL B.md",
+          "years": [
+            2016,
+            2016,
+            2016,
+            2014,
+            2014,
+            2010,
+            2022,
+            2022
+          ],
+          "year_counts": {
+            "2016": 3,
+            "2014": 2,
+            "2010": 1,
+            "2022": 2
+          },
+          "year_stats": {
+            "count": 8,
+            "min": 2010,
+            "max": 2022,
+            "mean": 2016.25,
+            "median": 2016.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/086_COMMON FRACTURES.md",
+          "years": [
+            2012,
+            2012,
+            2015,
+            2012,
+            2010
+          ],
+          "year_counts": {
+            "2012": 3,
+            "2015": 1,
+            "2010": 1
+          },
+          "year_stats": {
+            "count": 5,
+            "min": 2010,
+            "max": 2015,
+            "mean": 2012.2,
+            "median": 2012.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/087_ANKLE INJURIES ANATOMY L.md",
+          "years": [
+            2001,
+            2001,
+            2001,
+            2001,
+            2001,
+            2001,
+            2009,
+            2008,
+            2009,
+            2012,
+            2012,
+            2011,
+            2012,
+            2018,
+            2017,
+            2018
+          ],
+          "year_counts": {
+            "2001": 6,
+            "2009": 2,
+            "2008": 1,
+            "2012": 3,
+            "2011": 1,
+            "2018": 2,
+            "2017": 1
+          },
+          "year_stats": {
+            "count": 16,
+            "min": 2001,
+            "max": 2018,
+            "mean": 2008.25,
+            "median": 2009.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/088_KNEE PAIN ANATOMY B.md",
+          "years": [],
+          "year_counts": {},
+          "year_stats": {
+            "count": 0,
+            "min": null,
+            "max": null,
+            "mean": null,
+            "median": null
+          }
+        },
+        {
+          "path": "resident_guide_chapters/089_SHOULDER INJURIES SHOULDER ANATOMY AND BIOMECHANICS I.md",
+          "years": [],
+          "year_counts": {},
+          "year_stats": {
+            "count": 0,
+            "min": null,
+            "max": null,
+            "mean": null,
+            "median": null
+          }
+        },
+        {
+          "path": "resident_guide_chapters/090_ELBOW INJURIES ANATOMY O.md",
+          "years": [
+            2006,
+            2006,
+            2007,
+            2019,
+            2019,
+            2019,
+            2007,
+            2014
+          ],
+          "year_counts": {
+            "2006": 2,
+            "2007": 2,
+            "2019": 3,
+            "2014": 1
+          },
+          "year_stats": {
+            "count": 8,
+            "min": 2006,
+            "max": 2019,
+            "mean": 2012.125,
+            "median": 2010.5
+          }
+        },
+        {
+          "path": "resident_guide_chapters/091_CARPAL TUNNEL SYNDROME DEFINITION.md",
+          "years": [
+            2000,
+            2016,
+            2002,
+            2011,
+            2010,
+            2016,
+            2016
+          ],
+          "year_counts": {
+            "2000": 1,
+            "2016": 3,
+            "2002": 1,
+            "2011": 1,
+            "2010": 1
+          },
+          "year_stats": {
+            "count": 7,
+            "min": 2000,
+            "max": 2016,
+            "mean": 2010.142857142857,
+            "median": 2011.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/092_LOW BACK PAIN INTRODUCTION L.md",
+          "years": [
+            2015,
+            2015,
+            2012,
+            2012,
+            2012
+          ],
+          "year_counts": {
+            "2015": 2,
+            "2012": 3
+          },
+          "year_stats": {
+            "count": 5,
+            "min": 2012,
+            "max": 2015,
+            "mean": 2013.2,
+            "median": 2012.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/093_CORTICOSTEROID INJECTION OF JOINTS INTRODUCTION.md",
+          "years": [
+            2002,
+            2010,
+            2018,
+            2017,
+            2019,
+            2018
+          ],
+          "year_counts": {
+            "2002": 1,
+            "2010": 1,
+            "2018": 2,
+            "2017": 1,
+            "2019": 1
+          },
+          "year_stats": {
+            "count": 6,
+            "min": 2002,
+            "max": 2019,
+            "mean": 2014.0,
+            "median": 2017.5
+          }
+        },
+        {
+          "path": "resident_guide_chapters/094_CONCUSSION EVALUATION DEFINITION.md",
+          "years": [
+            2008,
+            2009,
+            2009,
+            2024,
+            2024,
+            2019,
+            2018,
+            2018,
+            2011,
+            2011,
+            2018,
+            2019
+          ],
+          "year_counts": {
+            "2008": 1,
+            "2009": 2,
+            "2024": 2,
+            "2019": 2,
+            "2018": 3,
+            "2011": 2
+          },
+          "year_stats": {
+            "count": 12,
+            "min": 2008,
+            "max": 2024,
+            "mean": 2015.6666666666667,
+            "median": 2018.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/095_OCCUPATIONAL MEDICINE INTRODUCTION.md",
+          "years": [
+            2021,
+            2020,
+            2017,
+            2017
+          ],
+          "year_counts": {
+            "2021": 1,
+            "2020": 1,
+            "2017": 2
+          },
+          "year_stats": {
+            "count": 4,
+            "min": 2017,
+            "max": 2021,
+            "mean": 2018.75,
+            "median": 2018.5
+          }
+        },
+        {
+          "path": "resident_guide_chapters/096_DESCRIBING DERMATOLOGIC LESIONS TYPE OF LESION.md",
+          "years": [
+            1997,
+            1997
+          ],
+          "year_counts": {
+            "1997": 2
+          },
+          "year_stats": {
+            "count": 2,
+            "min": 1997,
+            "max": 1997,
+            "mean": 1997.0,
+            "median": 1997.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/097_CONTACT DERMATITIS DEFINITION.md",
+          "years": [
+            2019,
+            2015,
+            2015,
+            2015,
+            2020,
+            2020,
+            2020,
+            2016,
+            2019
+          ],
+          "year_counts": {
+            "2019": 2,
+            "2015": 3,
+            "2020": 3,
+            "2016": 1
+          },
+          "year_stats": {
+            "count": 9,
+            "min": 2015,
+            "max": 2020,
+            "mean": 2017.6666666666667,
+            "median": 2019.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/098_ACNE AND ROSACEA DEFINITION A.md",
+          "years": [
+            2021,
+            2019,
+            2019,
+            2013,
+            2018,
+            2018
+          ],
+          "year_counts": {
+            "2021": 1,
+            "2019": 2,
+            "2013": 1,
+            "2018": 2
+          },
+          "year_stats": {
+            "count": 6,
+            "min": 2013,
+            "max": 2021,
+            "mean": 2018.0,
+            "median": 2018.5
+          }
+        },
+        {
+          "path": "resident_guide_chapters/099_SKIN BIOPSIES INDICATIONS L.md",
+          "years": [
+            2020,
+            2019,
+            2019,
+            2019,
+            2020,
+            2020,
+            2020
+          ],
+          "year_counts": {
+            "2020": 4,
+            "2019": 3
+          },
+          "year_stats": {
+            "count": 7,
+            "min": 2019,
+            "max": 2020,
+            "mean": 2019.5714285714287,
+            "median": 2020.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/100_TOPICAL STEROIDS C.md",
+          "years": [
+            2020,
+            2020,
+            2020,
+            2019,
+            2017,
+            2021,
+            2019,
+            2019
+          ],
+          "year_counts": {
+            "2020": 3,
+            "2019": 3,
+            "2017": 1,
+            "2021": 1
+          },
+          "year_stats": {
+            "count": 8,
+            "min": 2017,
+            "max": 2021,
+            "mean": 2019.375,
+            "median": 2019.5
+          }
+        },
+        {
+          "path": "resident_guide_chapters/101_WARTS.md",
+          "years": [
+            2019,
+            2018,
+            2020,
+            2019,
+            2021,
+            2020,
+            2019,
+            2020,
+            2020,
+            2020,
+            2020
+          ],
+          "year_counts": {
+            "2019": 3,
+            "2018": 1,
+            "2020": 6,
+            "2021": 1
+          },
+          "year_stats": {
+            "count": 11,
+            "min": 2018,
+            "max": 2021,
+            "mean": 2019.6363636363637,
+            "median": 2020.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/102_HAIR CHANGES AND BALDING GENERAL H.md",
+          "years": [
+            2019,
+            2019,
+            2017,
+            2018,
+            2018,
+            2020,
+            2020
+          ],
+          "year_counts": {
+            "2019": 2,
+            "2017": 1,
+            "2018": 2,
+            "2020": 2
+          },
+          "year_stats": {
+            "count": 7,
+            "min": 2017,
+            "max": 2020,
+            "mean": 2018.7142857142858,
+            "median": 2019.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/103_EVALUATION OF ABDOMINAL PAIN INTRODUCTION A.md",
+          "years": [
+            2008,
+            2008,
+            2017,
+            1999,
+            2000,
+            1999,
+            2016,
+            2015,
+            2003
+          ],
+          "year_counts": {
+            "2008": 2,
+            "2017": 1,
+            "1999": 2,
+            "2000": 1,
+            "2016": 1,
+            "2015": 1,
+            "2003": 1
+          },
+          "year_stats": {
+            "count": 9,
+            "min": 1999,
+            "max": 2017,
+            "mean": 2007.2222222222222,
+            "median": 2008.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/104_DIVERTICULOSIS AND DIVERTICULITIS DEFINITION.md",
+          "years": [
+            2017,
+            2017,
+            2017,
+            2008,
+            2013,
+            2019,
+            2019
+          ],
+          "year_counts": {
+            "2017": 3,
+            "2008": 1,
+            "2013": 1,
+            "2019": 2
+          },
+          "year_stats": {
+            "count": 7,
+            "min": 2008,
+            "max": 2019,
+            "mean": 2015.7142857142858,
+            "median": 2017.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/105_MANAGEMENT OF WOUNDS PRIMARY GOALS OF WOUND MANAGEMENT A.md",
+          "years": [
+            2017,
+            2016,
+            2011,
+            2011,
+            2006
+          ],
+          "year_counts": {
+            "2017": 1,
+            "2016": 1,
+            "2011": 2,
+            "2006": 1
+          },
+          "year_stats": {
+            "count": 5,
+            "min": 2006,
+            "max": 2017,
+            "mean": 2012.2,
+            "median": 2011.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/107_DEPRESSION INTRODUCTION L.md",
+          "years": [
+            2015,
+            2015,
+            2015,
+            2013,
+            2015,
+            2011,
+            2015,
+            2018,
+            2019
+          ],
+          "year_counts": {
+            "2015": 5,
+            "2013": 1,
+            "2011": 1,
+            "2018": 1,
+            "2019": 1
+          },
+          "year_stats": {
+            "count": 9,
+            "min": 2011,
+            "max": 2019,
+            "mean": 2015.111111111111,
+            "median": 2015.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/108_SEXUAL DYSFUNCTION.md",
+          "years": [
+            2006,
+            2006,
+            2006,
+            2001,
+            2019,
+            2007,
+            2006,
+            2015,
+            2015,
+            2015
+          ],
+          "year_counts": {
+            "2006": 4,
+            "2001": 1,
+            "2019": 1,
+            "2007": 1,
+            "2015": 3
+          },
+          "year_stats": {
+            "count": 10,
+            "min": 2001,
+            "max": 2019,
+            "mean": 2009.6,
+            "median": 2006.5
+          }
+        },
+        {
+          "path": "resident_guide_chapters/109_ALCOHOL AND OTHER SUBSTANCE USE DISORDERS GENERAL I.md",
+          "years": [
+            2013,
+            2014,
+            2013,
+            2000,
+            2003,
+            2019,
+            2018,
+            2013,
+            2003,
+            2013,
+            2010,
+            2015,
+            2016
+          ],
+          "year_counts": {
+            "2013": 4,
+            "2014": 1,
+            "2000": 1,
+            "2003": 2,
+            "2019": 1,
+            "2018": 1,
+            "2010": 1,
+            "2015": 1,
+            "2016": 1
+          },
+          "year_stats": {
+            "count": 13,
+            "min": 2000,
+            "max": 2019,
+            "mean": 2011.5384615384614,
+            "median": 2013.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/110_DRUGS TO BE CAUTIOUS OF IN THE GERIATRIC POPULATION GERIATRIC DRUG USE ISSUES T.md",
+          "years": [
+            2019,
+            2019,
+            2019,
+            2019,
+            2019,
+            2019,
+            2019,
+            2019,
+            2019,
+            2019,
+            2019,
+            2004,
+            2017,
+            2017,
+            2017
+          ],
+          "year_counts": {
+            "2019": 11,
+            "2004": 1,
+            "2017": 3
+          },
+          "year_stats": {
+            "count": 15,
+            "min": 2004,
+            "max": 2019,
+            "mean": 2017.6,
+            "median": 2019.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/111_FALLS IN THE ELDERLY BACKGROUND.md",
+          "years": [
+            2004,
+            1999,
+            2007,
+            2019,
+            2019,
+            2019,
+            2019,
+            2021,
+            2017,
+            2018
+          ],
+          "year_counts": {
+            "2004": 1,
+            "1999": 1,
+            "2007": 1,
+            "2019": 4,
+            "2021": 1,
+            "2017": 1,
+            "2018": 1
+          },
+          "year_stats": {
+            "count": 10,
+            "min": 1999,
+            "max": 2021,
+            "mean": 2014.2,
+            "median": 2018.5
+          }
+        },
+        {
+          "path": "resident_guide_chapters/112_VERTEBRAL COMPRESSION FRACTURES GENERAL V.md",
+          "years": [
+            2019,
+            2019,
+            2019,
+            2019,
+            2011,
+            2011,
+            2014,
+            1959,
+            2010,
+            2009,
+            2016,
+            2014
+          ],
+          "year_counts": {
+            "2019": 4,
+            "2011": 2,
+            "2014": 2,
+            "1959": 1,
+            "2010": 1,
+            "2009": 1,
+            "2016": 1
+          },
+          "year_stats": {
+            "count": 12,
+            "min": 1959,
+            "max": 2019,
+            "mean": 2010.0,
+            "median": 2014.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/113_URINARY INCONTINENCE BACKGROUND P.md",
+          "years": [
+            2019,
+            2019,
+            2019,
+            2019,
+            2015,
+            2014,
+            2014,
+            2010,
+            2013,
+            2012,
+            2018,
+            2017,
+            2017
+          ],
+          "year_counts": {
+            "2019": 4,
+            "2015": 1,
+            "2014": 2,
+            "2010": 1,
+            "2013": 1,
+            "2012": 1,
+            "2018": 1,
+            "2017": 2
+          },
+          "year_stats": {
+            "count": 13,
+            "min": 2010,
+            "max": 2019,
+            "mean": 2015.8461538461538,
+            "median": 2017.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/114_EVALUATION OF MENTAL STATUS CHANGES APPROACH TO THE PATIENT.md",
+          "years": [
+            2005,
+            2019,
+            2019,
+            2019,
+            2019,
+            2019,
+            2019,
+            2018,
+            2018,
+            2015,
+            2014,
+            2014,
+            2006,
+            2018,
+            2018,
+            2005
+          ],
+          "year_counts": {
+            "2005": 2,
+            "2019": 6,
+            "2018": 4,
+            "2015": 1,
+            "2014": 2,
+            "2006": 1
+          },
+          "year_stats": {
+            "count": 16,
+            "min": 2005,
+            "max": 2019,
+            "mean": 2015.3125,
+            "median": 2018.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/115_ADVANCE CARE PLANNING A.md",
+          "years": [
+            2019,
+            2019,
+            2019,
+            2019,
+            2018,
+            2017,
+            2017,
+            2016,
+            2012,
+            2001,
+            2001
+          ],
+          "year_counts": {
+            "2019": 4,
+            "2018": 1,
+            "2017": 2,
+            "2016": 1,
+            "2012": 1,
+            "2001": 2
+          },
+          "year_stats": {
+            "count": 11,
+            "min": 2001,
+            "max": 2019,
+            "mean": 2014.3636363636363,
+            "median": 2017.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/116_END OF LIFE CARE BACKGROUND.md",
+          "years": [
+            2019,
+            2006,
+            2006,
+            2017,
+            2016,
+            2015,
+            2006,
+            2006,
+            2017,
+            2010
+          ],
+          "year_counts": {
+            "2019": 1,
+            "2006": 4,
+            "2017": 2,
+            "2016": 1,
+            "2015": 1,
+            "2010": 1
+          },
+          "year_stats": {
+            "count": 10,
+            "min": 2006,
+            "max": 2019,
+            "mean": 2011.8,
+            "median": 2012.5
+          }
+        },
+        {
+          "path": "resident_guide_chapters/_003_CHILDHOOD IMMUNIZATION SCHEDULE AND PREVENTIVE HEALTH CARE.md",
+          "years": [
+            1950,
+            1978,
+            2023,
+            2023,
+            2023,
+            2017,
+            2016,
+            2017,
+            2014,
+            2020,
+            2020,
+            2019,
+            2020,
+            2020,
+            2020
+          ],
+          "year_counts": {
+            "1950": 1,
+            "1978": 1,
+            "2023": 3,
+            "2017": 2,
+            "2016": 1,
+            "2014": 1,
+            "2020": 5,
+            "2019": 1
+          },
+          "year_stats": {
+            "count": 15,
+            "min": 1950,
+            "max": 2023,
+            "mean": 2012.0,
+            "median": 2020.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/_007_ASTHMA IN CHILDREN DEFINITION.md",
+          "years": [
+            2019,
+            2020,
+            2020,
+            2007,
+            2019,
+            2020,
+            2021,
+            1992,
+            2007,
+            2020,
+            2018,
+            2000,
+            2007
+          ],
+          "year_counts": {
+            "2019": 2,
+            "2020": 4,
+            "2007": 3,
+            "2021": 1,
+            "1992": 1,
+            "2018": 1,
+            "2000": 1
+          },
+          "year_stats": {
+            "count": 13,
+            "min": 1992,
+            "max": 2021,
+            "mean": 2013.076923076923,
+            "median": 2019.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/_018_ATTENTION DEFICIT HYPERACTIVITY DISORDER.md",
+          "years": [
+            2013,
+            2013,
+            2012,
+            2009,
+            2012,
+            2012,
+            2011,
+            2011
+          ],
+          "year_counts": {
+            "2013": 2,
+            "2012": 3,
+            "2009": 1,
+            "2011": 2
+          },
+          "year_stats": {
+            "count": 8,
+            "min": 2009,
+            "max": 2013,
+            "mean": 2011.625,
+            "median": 2012.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/_024_POSTPARTUM DISCHARGE INSTRUCTIONS THESE ISSUES SHOULD BE DISCUSSED WITH ALL HOME.md",
+          "years": [
+            2001,
+            2015,
+            2017,
+            2016,
+            2018,
+            2018,
+            2018,
+            2017,
+            2017
+          ],
+          "year_counts": {
+            "2001": 1,
+            "2015": 1,
+            "2017": 3,
+            "2016": 1,
+            "2018": 3
+          },
+          "year_stats": {
+            "count": 9,
+            "min": 2001,
+            "max": 2018,
+            "mean": 2015.2222222222222,
+            "median": 2017.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/_026_CONTRACEPTION ORAL CONTRACEPTIVES.md",
+          "years": [
+            2010,
+            2013,
+            2012,
+            2008,
+            2011,
+            2006,
+            2016,
+            2016,
+            2016,
+            2018,
+            2018,
+            2018,
+            2019,
+            2019,
+            2019
+          ],
+          "year_counts": {
+            "2010": 1,
+            "2013": 1,
+            "2012": 1,
+            "2008": 1,
+            "2011": 1,
+            "2006": 1,
+            "2016": 3,
+            "2018": 3,
+            "2019": 3
+          },
+          "year_stats": {
+            "count": 15,
+            "min": 2006,
+            "max": 2019,
+            "mean": 2014.6,
+            "median": 2016.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/_055_ASTHMA IN ADULTS DEFINITION A.md",
+          "years": [
+            2023,
+            2023,
+            2023,
+            2023,
+            2022,
+            2022,
+            2022,
+            2022,
+            2023,
+            2023,
+            2023,
+            2023,
+            2007,
+            2007,
+            2017,
+            2016,
+            2019,
+            2018,
+            2007
+          ],
+          "year_counts": {
+            "2023": 8,
+            "2022": 4,
+            "2007": 3,
+            "2017": 1,
+            "2016": 1,
+            "2019": 1,
+            "2018": 1
+          },
+          "year_stats": {
+            "count": 19,
+            "min": 2007,
+            "max": 2023,
+            "mean": 2019.1052631578948,
+            "median": 2022.0
+          }
+        },
+        {
+          "path": "resident_guide_chapters/_063_AMBULATORY POST-MI MANAGEMENT.md",
+          "years": [
+            1999,
+            2018,
+            2019,
+            2019,
+            2019,
+            2000,
+            2013,
+            2013
+          ],
+          "year_counts": {
+            "1999": 1,
+            "2018": 1,
+            "2019": 3,
+            "2000": 1,
+            "2013": 2
+          },
+          "year_stats": {
+            "count": 8,
+            "min": 1999,
+            "max": 2019,
+            "mean": 2012.5,
+            "median": 2015.5
+          }
+        },
+        {
+          "path": "resident_guide_chapters/_106_ANXIETY DISORDERS AND OBSESSIVE.md",
+          "years": [
+            2013,
+            2013,
+            2013,
+            2008,
+            2004,
+            2006,
+            2007,
+            2010,
+            1921,
+            2010
+          ],
+          "year_counts": {
+            "2013": 3,
+            "2008": 1,
+            "2004": 1,
+            "2006": 1,
+            "2007": 1,
+            "2010": 2,
+            "1921": 1
+          },
+          "year_stats": {
+            "count": 10,
+            "min": 1921,
+            "max": 2013,
+            "mean": 2000.5,
+            "median": 2009.0
+          }
+        }
+      ],
+      "all_years": [
+        2011,
+        2011,
+        2019,
+        2019,
+        2014,
+        2014,
+        2019,
+        2011,
+        2016,
+        2019,
+        2019,
+        2019,
+        2019,
+        2019,
+        2020,
+        2018,
+        2018,
+        2010,
+        2008,
+        2010,
+        2019,
+        2019,
+        2014,
+        2020,
+        2020,
+        2004,
+        2020,
+        2020,
+        2020,
+        2009,
+        2014,
+        2000,
+        2010,
+        2020,
+        2012,
+        2011,
+        2020,
+        2020,
+        2011,
+        2011,
+        2011,
+        2020,
+        2019,
+        2020,
+        1998,
+        2018,
+        2017,
+        2012,
+        2017,
+        2019,
+        2019,
+        2013,
+        2002,
+        2020,
+        2019,
+        2006,
+        2000,
+        2001,
+        2012,
+        2012,
+        2009,
+        2018,
+        2018,
+        2012,
+        2012,
+        2011,
+        2017,
+        2017,
+        2019,
+        2018,
+        2019,
+        2018,
+        2014,
+        2014,
+        2004,
+        2004,
+        2011,
+        2019,
+        2019,
+        2012,
+        2012,
+        2012,
+        2007,
+        2017,
+        2014,
+        2014,
+        2014,
+        2006,
+        2006,
+        2016,
+        2014,
+        2011,
+        2016,
+        2005,
+        2005,
+        2005,
+        2001,
+        2006,
+        2006,
+        2018,
+        2017,
+        2017,
+        2017,
+        2016,
+        2020,
+        2014,
+        2009,
+        2008,
+        2001,
+        2020,
+        2019,
+        2020,
+        2009,
+        2005,
+        2004,
+        2015,
+        2016,
+        2010,
+        2019,
+        2018,
+        2018,
+        2014,
+        2013,
+        2020,
+        2013,
+        2008,
+        2008,
+        2017,
+        2016,
+        1998,
+        2018,
+        2018,
+        1999,
+        2003,
+        2003,
+        2006,
+        2020,
+        2010,
+        2010,
+        2010,
+        2010,
+        2012,
+        2020,
+        2012,
+        2007,
+        2021,
+        2020,
+        2020,
+        2019,
+        2018,
+        2019,
+        2015,
+        2019,
+        2001,
+        2009,
+        2009,
+        2018,
+        2020,
+        2020,
+        2020,
+        2016,
+        1976,
+        2008,
+        2011,
+        2021,
+        2021,
+        2017,
+        2016,
+        2016,
+        2016,
+        2014,
+        2018,
+        2020,
+        2019,
+        2014,
+        2001,
+        2015,
+        2017,
+        2016,
+        2018,
+        2018,
+        2018,
+        2017,
+        2017,
+        1998,
+        2020,
+        2019,
+        2019,
+        2012,
+        2018,
+        2006,
+        2016,
+        2019,
+        2021,
+        2016,
+        2012,
+        2008,
+        2019,
+        2018,
+        2019,
+        2020,
+        2018,
+        2012,
+        2012,
+        2019,
+        2019,
+        2018,
+        2019,
+        2019,
+        2019,
+        2012,
+        2018,
+        2018,
+        2020,
+        2020,
+        2017,
+        2017,
+        2017,
+        2019,
+        2018,
+        2019,
+        2016,
+        2019,
+        2019,
+        2019,
+        2017,
+        2011,
+        2019,
+        2019,
+        2019,
+        2017,
+        2016,
+        2016,
+        2017,
+        2017,
+        2020,
+        2018,
+        2017,
+        2018,
+        2018,
+        2018,
+        2016,
+        2014,
+        2018,
+        2016,
+        2018,
+        2018,
+        2006,
+        2019,
+        2019,
+        2019,
+        2021,
+        2021,
+        2016,
+        2011,
+        2009,
+        2019,
+        2018,
+        2019,
+        2007,
+        2018,
+        2018,
+        2015,
+        2011,
+        2020,
+        2016,
+        2014,
+        2003,
+        2009,
+        2009,
+        2007,
+        2018,
+        2005,
+        2014,
+        1945,
+        1965,
+        1987,
+        1992,
+        2020,
+        2019,
+        2020,
+        2021,
+        2020,
+        2019,
+        2020,
+        2021,
+        2018,
+        2018,
+        2009,
+        2018,
+        2018,
+        2016,
+        2012,
+        2013,
+        2011,
+        2015,
+        2011,
+        2011,
+        2010,
+        2011,
+        2012,
+        2009,
+        2010,
+        2017,
+        2007,
+        2017,
+        2017,
+        2017,
+        2017,
+        2016,
+        2017,
+        2014,
+        2017,
+        2017,
+        2017,
+        2007,
+        2007,
+        2021,
+        2021,
+        2020,
+        2020,
+        2014,
+        2014,
+        2014,
+        2010,
+        2019,
+        2019,
+        2019,
+        2014,
+        2011,
+        2017,
+        2019,
+        2021,
+        2020,
+        2020,
+        2015,
+        2015,
+        2013,
+        2014,
+        2013,
+        2021,
+        2010,
+        2017,
+        2016,
+        2018,
+        2016,
+        2016,
+        2016,
+        2018,
+        2013,
+        2020,
+        2020,
+        2019,
+        2019,
+        2020,
+        2024,
+        2019,
+        2016,
+        2019,
+        2001,
+        1999,
+        2014,
+        2012,
+        2007,
+        2019,
+        2019,
+        2024,
+        1992,
+        2015,
+        2015,
+        2015,
+        2007,
+        2007,
+        2007,
+        2017,
+        2016,
+        2015,
+        2000,
+        2019,
+        2019,
+        2019,
+        1998,
+        1997,
+        1992,
+        1997,
+        1997,
+        2019,
+        2019,
+        2001,
+        2003,
+        2019,
+        2019,
+        2012,
+        2019,
+        2019,
+        2019,
+        2020,
+        2020,
+        2005,
+        2017,
+        2000,
+        2019,
+        2019,
+        2019,
+        2008,
+        2012,
+        2008,
+        2019,
+        2019,
+        2019,
+        2013,
+        2000,
+        1997,
+        2017,
+        2020,
+        2021,
+        1998,
+        2020,
+        2020,
+        2020,
+        2016,
+        2015,
+        2015,
+        1993,
+        2015,
+        1995,
+        2020,
+        2020,
+        2020,
+        2020,
+        2006,
+        2006,
+        2006,
+        2006,
+        2000,
+        2020,
+        2019,
+        2019,
+        2019,
+        2021,
+        2020,
+        2020,
+        2000,
+        1999,
+        2018,
+        2018,
+        2017,
+        2017,
+        2017,
+        1995,
+        1998,
+        2012,
+        2022,
+        2022,
+        2021,
+        2019,
+        2020,
+        2019,
+        2019,
+        2017,
+        2017,
+        2017,
+        2017,
+        2017,
+        2017,
+        2000,
+        1996,
+        2019,
+        2019,
+        2000,
+        1998,
+        2017,
+        2018,
+        2018,
+        2019,
+        2018,
+        2018,
+        2018,
+        2019,
+        2013,
+        2016,
+        2018,
+        2019,
+        2018,
+        2018,
+        2018,
+        2019,
+        2018,
+        2018,
+        2017,
+        2018,
+        2017,
+        2014,
+        2017,
+        2003,
+        2017,
+        2003,
+        2018,
+        2018,
+        2018,
+        2003,
+        2014,
+        2014,
+        2013,
+        2013,
+        2009,
+        2017,
+        2018,
+        2017,
+        2012,
+        2012,
+        2012,
+        1999,
+        2005,
+        2017,
+        2013,
+        2013,
+        2013,
+        2013,
+        2017,
+        2017,
+        2012,
+        2019,
+        2020,
+        2016,
+        2013,
+        2016,
+        2014,
+        2014,
+        2014,
+        2014,
+        2019,
+        2014,
+        2019,
+        2016,
+        2018,
+        2018,
+        2018,
+        2016,
+        2014,
+        2019,
+        2013,
+        2017,
+        2001,
+        2018,
+        2018,
+        2016,
+        2016,
+        2005,
+        1996,
+        1996,
+        2017,
+        2017,
+        2016,
+        2012,
+        2008,
+        2001,
+        2013,
+        2020,
+        2018,
+        2019,
+        2019,
+        2019,
+        2021,
+        2021,
+        2020,
+        2013,
+        2013,
+        2015,
+        2015,
+        2012,
+        2012,
+        2012,
+        2019,
+        2018,
+        2018,
+        2018,
+        2019,
+        2019,
+        2011,
+        2010,
+        2010,
+        2010,
+        2010,
+        2012,
+        2001,
+        2004,
+        2009,
+        2009,
+        2009,
+        2011,
+        2011,
+        2010,
+        2010,
+        1999,
+        2017,
+        2001,
+        2017,
+        2017,
+        2017,
+        2007,
+        2012,
+        2011,
+        2017,
+        2017,
+        2008,
+        2008,
+        2017,
+        2016,
+        2017,
+        2016,
+        2017,
+        2015,
+        2019,
+        2015,
+        2014,
+        2020,
+        2001,
+        2018,
+        2018,
+        2019,
+        1999,
+        2001,
+        2001,
+        2015,
+        2000,
+        2012,
+        2017,
+        1995,
+        2011,
+        2002,
+        2000,
+        2017,
+        2017,
+        2000,
+        1999,
+        2001,
+        2011,
+        2011,
+        2008,
+        2007,
+        2011,
+        2011,
+        2011,
+        2017,
+        2008,
+        2008,
+        1992,
+        2017,
+        2016,
+        2008,
+        2019,
+        2011,
+        2011,
+        2011,
+        2012,
+        2017,
+        2000,
+        2009,
+        2016,
+        2016,
+        2017,
+        2017,
+        2018,
+        2018,
+        2000,
+        1996,
+        2014,
+        2016,
+        2016,
+        2017,
+        2019,
+        2019,
+        2022,
+        2017,
+        2016,
+        2016,
+        2018,
+        2018,
+        2005,
+        2011,
+        2005,
+        2005,
+        2005,
+        2000,
+        2000,
+        2000,
+        2021,
+        2021,
+        2013,
+        2021,
+        2016,
+        2015,
+        2008,
+        2008,
+        2010,
+        2012,
+        2012,
+        2002,
+        2012,
+        2010,
+        2010,
+        2010,
+        2010,
+        2010,
+        2010,
+        2004,
+        2001,
+        2015,
+        2016,
+        2015,
+        2020,
+        2008,
+        2012,
+        2012,
+        2012,
+        2012,
+        2011,
+        2018,
+        2018,
+        2016,
+        2016,
+        2016,
+        2014,
+        2014,
+        2010,
+        2022,
+        2022,
+        2012,
+        2012,
+        2015,
+        2012,
+        2010,
+        2001,
+        2001,
+        2001,
+        2001,
+        2001,
+        2001,
+        2009,
+        2008,
+        2009,
+        2012,
+        2012,
+        2011,
+        2012,
+        2018,
+        2017,
+        2018,
+        2006,
+        2006,
+        2007,
+        2019,
+        2019,
+        2019,
+        2007,
+        2014,
+        2000,
+        2016,
+        2002,
+        2011,
+        2010,
+        2016,
+        2016,
+        2015,
+        2015,
+        2012,
+        2012,
+        2012,
+        2002,
+        2010,
+        2018,
+        2017,
+        2019,
+        2018,
+        2008,
+        2009,
+        2009,
+        2024,
+        2024,
+        2019,
+        2018,
+        2018,
+        2011,
+        2011,
+        2018,
+        2019,
+        2021,
+        2020,
+        2017,
+        2017,
+        1997,
+        1997,
+        2019,
+        2015,
+        2015,
+        2015,
+        2020,
+        2020,
+        2020,
+        2016,
+        2019,
+        2021,
+        2019,
+        2019,
+        2013,
+        2018,
+        2018,
+        2020,
+        2019,
+        2019,
+        2019,
+        2020,
+        2020,
+        2020,
+        2020,
+        2020,
+        2020,
+        2019,
+        2017,
+        2021,
+        2019,
+        2019,
+        2019,
+        2018,
+        2020,
+        2019,
+        2021,
+        2020,
+        2019,
+        2020,
+        2020,
+        2020,
+        2020,
+        2019,
+        2019,
+        2017,
+        2018,
+        2018,
+        2020,
+        2020,
+        2008,
+        2008,
+        2017,
+        1999,
+        2000,
+        1999,
+        2016,
+        2015,
+        2003,
+        2017,
+        2017,
+        2017,
+        2008,
+        2013,
+        2019,
+        2019,
+        2017,
+        2016,
+        2011,
+        2011,
+        2006,
+        2015,
+        2015,
+        2015,
+        2013,
+        2015,
+        2011,
+        2015,
+        2018,
+        2019,
+        2006,
+        2006,
+        2006,
+        2001,
+        2019,
+        2007,
+        2006,
+        2015,
+        2015,
+        2015,
+        2013,
+        2014,
+        2013,
+        2000,
+        2003,
+        2019,
+        2018,
+        2013,
+        2003,
+        2013,
+        2010,
+        2015,
+        2016,
+        2019,
+        2019,
+        2019,
+        2019,
+        2019,
+        2019,
+        2019,
+        2019,
+        2019,
+        2019,
+        2019,
+        2004,
+        2017,
+        2017,
+        2017,
+        2004,
+        1999,
+        2007,
+        2019,
+        2019,
+        2019,
+        2019,
+        2021,
+        2017,
+        2018,
+        2019,
+        2019,
+        2019,
+        2019,
+        2011,
+        2011,
+        2014,
+        1959,
+        2010,
+        2009,
+        2016,
+        2014,
+        2019,
+        2019,
+        2019,
+        2019,
+        2015,
+        2014,
+        2014,
+        2010,
+        2013,
+        2012,
+        2018,
+        2017,
+        2017,
+        2005,
+        2019,
+        2019,
+        2019,
+        2019,
+        2019,
+        2019,
+        2018,
+        2018,
+        2015,
+        2014,
+        2014,
+        2006,
+        2018,
+        2018,
+        2005,
+        2019,
+        2019,
+        2019,
+        2019,
+        2018,
+        2017,
+        2017,
+        2016,
+        2012,
+        2001,
+        2001,
+        2019,
+        2006,
+        2006,
+        2017,
+        2016,
+        2015,
+        2006,
+        2006,
+        2017,
+        2010,
+        1950,
+        1978,
+        2023,
+        2023,
+        2023,
+        2017,
+        2016,
+        2017,
+        2014,
+        2020,
+        2020,
+        2019,
+        2020,
+        2020,
+        2020,
+        2019,
+        2020,
+        2020,
+        2007,
+        2019,
+        2020,
+        2021,
+        1992,
+        2007,
+        2020,
+        2018,
+        2000,
+        2007,
+        2013,
+        2013,
+        2012,
+        2009,
+        2012,
+        2012,
+        2011,
+        2011,
+        2001,
+        2015,
+        2017,
+        2016,
+        2018,
+        2018,
+        2018,
+        2017,
+        2017,
+        2010,
+        2013,
+        2012,
+        2008,
+        2011,
+        2006,
+        2016,
+        2016,
+        2016,
+        2018,
+        2018,
+        2018,
+        2019,
+        2019,
+        2019,
+        2023,
+        2023,
+        2023,
+        2023,
+        2022,
+        2022,
+        2022,
+        2022,
+        2023,
+        2023,
+        2023,
+        2023,
+        2007,
+        2007,
+        2017,
+        2016,
+        2019,
+        2018,
+        2007,
+        1999,
+        2018,
+        2019,
+        2019,
+        2019,
+        2000,
+        2013,
+        2013,
+        2013,
+        2013,
+        2013,
+        2008,
+        2004,
+        2006,
+        2007,
+        2010,
+        1921,
+        2010
+      ],
+      "year_counts": {
+        "2011": 46,
+        "2019": 172,
+        "2014": 46,
+        "2016": 67,
+        "2020": 88,
+        "2018": 107,
+        "2010": 36,
+        "2008": 25,
+        "2004": 9,
+        "2009": 22,
+        "2000": 22,
+        "2012": 56,
+        "1998": 7,
+        "2017": 103,
+        "2013": 37,
+        "2002": 5,
+        "2006": 26,
+        "2001": 26,
+        "2007": 24,
+        "2005": 14,
+        "2015": 42,
+        "1999": 11,
+        "2003": 10,
+        "2021": 26,
+        "1976": 1,
+        "1945": 1,
+        "1965": 1,
+        "1987": 1,
+        "1992": 5,
+        "2024": 4,
+        "1997": 6,
+        "1993": 1,
+        "1995": 3,
+        "2022": 9,
+        "1996": 4,
+        "1959": 1,
+        "1950": 1,
+        "1978": 1,
+        "2023": 11,
+        "1921": 1
+      },
+      "year_stats": {
+        "count": 1078,
+        "min": 1921,
+        "max": 2024,
+        "mean": 2013.5593692022264,
+        "median": 2016.0
+      },
+      "per_file_median_years": [
+        2014.0,
+        2019.0,
+        2018.0,
+        2017.0,
+        2012.0,
+        2014.5,
+        2015.0,
+        2012.0,
+        2018.0,
+        2011.0,
+        2012.0,
+        2014.0,
+        2013.5,
+        2009.0,
+        2016.0,
+        2013.0,
+        2003.0,
+        2018.0,
+        2015.0,
+        2017.0,
+        2017.0,
+        2018.5,
+        2018.5,
+        2018.0,
+        2019.0,
+        2017.0,
+        2018.0,
+        2018.5,
+        2018.0,
+        2015.0,
+        2008.0,
+        2018.0,
+        2013.0,
+        2011.0,
+        2017.0,
+        2014.0,
+        2019.0,
+        2013.0,
+        2017.5,
+        2015.0,
+        2000.0,
+        2019.0,
+        2019.0,
+        2013.0,
+        2016.5,
+        2017.5,
+        2018.0,
+        2014.5,
+        2020.0,
+        2017.0,
+        2018.0,
+        2014.0,
+        2012.0,
+        2014.5,
+        2016.0,
+        2016.0,
+        2012.0,
+        2018.5,
+        2012.0,
+        2009.0,
+        2012.0,
+        2016.5,
+        2018.0,
+        2001.0,
+        2011.0,
+        2000.5,
+        2011.0,
+        2011.5,
+        2016.5,
+        2016.0,
+        2016.0,
+        2014.0,
+        2011.0,
+        2010.0,
+        2012.0,
+        2016.0,
+        2012.0,
+        2009.0,
+        2010.5,
+        2011.0,
+        2012.0,
+        2017.5,
+        2018.0,
+        2018.5,
+        1997.0,
+        2019.0,
+        2018.5,
+        2020.0,
+        2019.5,
+        2020.0,
+        2019.0,
+        2008.0,
+        2017.0,
+        2011.0,
+        2015.0,
+        2006.5,
+        2013.0,
+        2019.0,
+        2018.5,
+        2014.0,
+        2017.0,
+        2018.0,
+        2017.0,
+        2012.5,
+        2020.0,
+        2019.0,
+        2012.0,
+        2017.0,
+        2016.0,
+        2022.0,
+        2015.5,
+        2009.0
+      ],
+      "per_file_median_stats": {
+        "count": 112,
+        "min": 1997.0,
+        "max": 2022.0,
+        "mean": 2014.5714285714287,
+        "median": 2016.0
+      }
+    },
+    "articles": {
+      "files": [
+        {
+          "path": "amboss_articles/Abnormal Uterine Bleeding.md",
+          "years": [
+            2019,
+            2023,
+            2013,
+            2024,
+            2012,
+            2024
+          ],
+          "year_counts": {
+            "2019": 1,
+            "2023": 1,
+            "2013": 1,
+            "2024": 2,
+            "2012": 1
+          },
+          "year_stats": {
+            "count": 6,
+            "min": 2012,
+            "max": 2024,
+            "mean": 2019.1666666666667,
+            "median": 2021.0
+          }
+        },
+        {
+          "path": "amboss_articles/Acne and Rosacea.md",
+          "years": [
+            2024,
+            2019,
+            2017,
+            2019
+          ],
+          "year_counts": {
+            "2024": 1,
+            "2019": 2,
+            "2017": 1
+          },
+          "year_stats": {
+            "count": 4,
+            "min": 2017,
+            "max": 2024,
+            "mean": 2019.75,
+            "median": 2019.0
+          }
+        },
+        {
+          "path": "amboss_articles/Acute Bronchitis.md",
+          "years": [
+            2020,
+            2016
+          ],
+          "year_counts": {
+            "2020": 1,
+            "2016": 1
+          },
+          "year_stats": {
+            "count": 2,
+            "min": 2016,
+            "max": 2020,
+            "mean": 2018.0,
+            "median": 2018.0
+          }
+        },
+        {
+          "path": "amboss_articles/Acute Otitis Media.md",
+          "years": [
+            2022,
+            2013,
+            2019
+          ],
+          "year_counts": {
+            "2022": 1,
+            "2013": 1,
+            "2019": 1
+          },
+          "year_stats": {
+            "count": 3,
+            "min": 2013,
+            "max": 2022,
+            "mean": 2018.0,
+            "median": 2019.0
+          }
+        },
+        {
+          "path": "amboss_articles/Acute Sinusitis.md",
+          "years": [
+            2023,
+            2023,
+            2021,
+            2017,
+            2015,
+            2014,
+            2012,
+            2013
+          ],
+          "year_counts": {
+            "2023": 2,
+            "2021": 1,
+            "2017": 1,
+            "2015": 1,
+            "2014": 1,
+            "2012": 1,
+            "2013": 1
+          },
+          "year_stats": {
+            "count": 8,
+            "min": 2012,
+            "max": 2023,
+            "mean": 2017.25,
+            "median": 2016.0
+          }
+        },
+        {
+          "path": "amboss_articles/Advance Care Planning.md",
+          "years": [],
+          "year_counts": {},
+          "year_stats": {
+            "count": 0,
+            "min": null,
+            "max": null,
+            "mean": null,
+            "median": null
+          }
+        },
+        {
+          "path": "amboss_articles/Adverse Drug Interactions and Prescribing Errors.md",
+          "years": [
+            2025,
+            2025
+          ],
+          "year_counts": {
+            "2025": 2
+          },
+          "year_stats": {
+            "count": 2,
+            "min": 2025,
+            "max": 2025,
+            "mean": 2025.0,
+            "median": 2025.0
+          }
+        },
+        {
+          "path": "amboss_articles/Alcohol and Other Substance Use Disorders.md",
+          "years": [],
+          "year_counts": {},
+          "year_stats": {
+            "count": 0,
+            "min": null,
+            "max": null,
+            "mean": null,
+            "median": null
+          }
+        },
+        {
+          "path": "amboss_articles/Allergic RhinitisSeasonal Allergies.md",
+          "years": [
+            2025,
+            2020,
+            2015
+          ],
+          "year_counts": {
+            "2025": 1,
+            "2020": 1,
+            "2015": 1
+          },
+          "year_stats": {
+            "count": 3,
+            "min": 2015,
+            "max": 2025,
+            "mean": 2020.0,
+            "median": 2020.0
+          }
+        },
+        {
+          "path": "amboss_articles/Ambulatory HIVAIDS Management.md",
+          "years": [
+            2025,
+            2024,
+            2023,
+            2023,
+            2023,
+            2024,
+            2023
+          ],
+          "year_counts": {
+            "2025": 1,
+            "2024": 2,
+            "2023": 4
+          },
+          "year_stats": {
+            "count": 7,
+            "min": 2023,
+            "max": 2025,
+            "mean": 2023.5714285714287,
+            "median": 2023.0
+          }
+        },
+        {
+          "path": "amboss_articles/Amenorrhea.md",
+          "years": [
+            2024,
+            2017
+          ],
+          "year_counts": {
+            "2024": 1,
+            "2017": 1
+          },
+          "year_stats": {
+            "count": 2,
+            "min": 2017,
+            "max": 2024,
+            "mean": 2020.5,
+            "median": 2020.5
+          }
+        },
+        {
+          "path": "amboss_articles/Anemia.md",
+          "years": [
+            2023,
+            2021,
+            2020
+          ],
+          "year_counts": {
+            "2023": 1,
+            "2021": 1,
+            "2020": 1
+          },
+          "year_stats": {
+            "count": 3,
+            "min": 2020,
+            "max": 2023,
+            "mean": 2021.3333333333333,
+            "median": 2021.0
+          }
+        },
+        {
+          "path": "amboss_articles/Ankle Injuries.md",
+          "years": [],
+          "year_counts": {},
+          "year_stats": {
+            "count": 0,
+            "min": null,
+            "max": null,
+            "mean": null,
+            "median": null
+          }
+        },
+        {
+          "path": "amboss_articles/Atrial Fibrillation (AF).md",
+          "years": [
+            2024,
+            2023,
+            2022,
+            2022,
+            2022,
+            2022,
+            2022,
+            2022,
+            2022,
+            2022,
+            2020,
+            2020,
+            2024,
+            2023,
+            2020,
+            2019,
+            2014,
+            2017,
+            2017,
+            2014
+          ],
+          "year_counts": {
+            "2024": 2,
+            "2023": 2,
+            "2022": 8,
+            "2020": 3,
+            "2019": 1,
+            "2014": 2,
+            "2017": 2
+          },
+          "year_stats": {
+            "count": 20,
+            "min": 2014,
+            "max": 2024,
+            "mean": 2020.55,
+            "median": 2022.0
+          }
+        },
+        {
+          "path": "amboss_articles/Autism Spectrum Disorders.md",
+          "years": [
+            2025,
+            2020
+          ],
+          "year_counts": {
+            "2025": 1,
+            "2020": 1
+          },
+          "year_stats": {
+            "count": 2,
+            "min": 2020,
+            "max": 2025,
+            "mean": 2022.5,
+            "median": 2022.5
+          }
+        },
+        {
+          "path": "amboss_articles/Benign Prostatic Hyperplasia.md",
+          "years": [
+            2020,
+            2020,
+            2014
+          ],
+          "year_counts": {
+            "2020": 2,
+            "2014": 1
+          },
+          "year_stats": {
+            "count": 3,
+            "min": 2014,
+            "max": 2020,
+            "mean": 2018.0,
+            "median": 2020.0
+          }
+        },
+        {
+          "path": "amboss_articles/Bronchiolitis.md",
+          "years": [
+            2023,
+            2023,
+            2014,
+            2014
+          ],
+          "year_counts": {
+            "2023": 2,
+            "2014": 2
+          },
+          "year_stats": {
+            "count": 4,
+            "min": 2014,
+            "max": 2023,
+            "mean": 2018.5,
+            "median": 2018.5
+          }
+        },
+        {
+          "path": "amboss_articles/Calcium Disorders.md",
+          "years": [
+            2022,
+            2022,
+            2016,
+            2016
+          ],
+          "year_counts": {
+            "2022": 2,
+            "2016": 2
+          },
+          "year_stats": {
+            "count": 4,
+            "min": 2016,
+            "max": 2022,
+            "mean": 2019.0,
+            "median": 2019.0
+          }
+        },
+        {
+          "path": "amboss_articles/Cardiac Stress Testing.md",
+          "years": [],
+          "year_counts": {},
+          "year_stats": {
+            "count": 0,
+            "min": null,
+            "max": null,
+            "mean": null,
+            "median": null
+          }
+        },
+        {
+          "path": "amboss_articles/Carpal Tunnel Syndrome.md",
+          "years": [
+            2016
+          ],
+          "year_counts": {
+            "2016": 1
+          },
+          "year_stats": {
+            "count": 1,
+            "min": 2016,
+            "max": 2016,
+            "mean": 2016.0,
+            "median": 2016.0
+          }
+        },
+        {
+          "path": "amboss_articles/Cervical Cancer Screening Indications and Interpretation.md",
+          "years": [
+            2024,
+            2021,
+            2020,
+            2019,
+            2018,
+            2017
+          ],
+          "year_counts": {
+            "2024": 1,
+            "2021": 1,
+            "2020": 1,
+            "2019": 1,
+            "2018": 1,
+            "2017": 1
+          },
+          "year_stats": {
+            "count": 6,
+            "min": 2017,
+            "max": 2024,
+            "mean": 2019.8333333333333,
+            "median": 2019.5
+          }
+        },
+        {
+          "path": "amboss_articles/Child Abuse.md",
+          "years": [
+            2025,
+            2025,
+            2024,
+            2022,
+            2017,
+            2017
+          ],
+          "year_counts": {
+            "2025": 2,
+            "2024": 1,
+            "2022": 1,
+            "2017": 2
+          },
+          "year_stats": {
+            "count": 6,
+            "min": 2017,
+            "max": 2025,
+            "mean": 2021.6666666666667,
+            "median": 2023.0
+          }
+        },
+        {
+          "path": "amboss_articles/Chronic Obstructive Pulmonary Disease (COPD).md",
+          "years": [
+            2025,
+            2025,
+            2024,
+            2025,
+            2022
+          ],
+          "year_counts": {
+            "2025": 3,
+            "2024": 1,
+            "2022": 1
+          },
+          "year_stats": {
+            "count": 5,
+            "min": 2022,
+            "max": 2025,
+            "mean": 2024.2,
+            "median": 2025.0
+          }
+        },
+        {
+          "path": "amboss_articles/Common FracturesDescribing Fractures.md",
+          "years": [
+            2022,
+            2019,
+            2011
+          ],
+          "year_counts": {
+            "2022": 1,
+            "2019": 1,
+            "2011": 1
+          },
+          "year_stats": {
+            "count": 3,
+            "min": 2011,
+            "max": 2022,
+            "mean": 2017.3333333333333,
+            "median": 2019.0
+          }
+        },
+        {
+          "path": "amboss_articles/Community-Acquired Pneumonia (CAP) in Infants and Children.md",
+          "years": [
+            2011
+          ],
+          "year_counts": {
+            "2011": 1
+          },
+          "year_stats": {
+            "count": 1,
+            "min": 2011,
+            "max": 2011,
+            "mean": 2011.0,
+            "median": 2011.0
+          }
+        },
+        {
+          "path": "amboss_articles/Community-Acquired Pneumonia (CAP).md",
+          "years": [
+            2011
+          ],
+          "year_counts": {
+            "2011": 1
+          },
+          "year_stats": {
+            "count": 1,
+            "min": 2011,
+            "max": 2011,
+            "mean": 2011.0,
+            "median": 2011.0
+          }
+        },
+        {
+          "path": "amboss_articles/Concussion Evaluation.md",
+          "years": [
+            2020,
+            2016,
+            2013,
+            2019,
+            2014,
+            2018
+          ],
+          "year_counts": {
+            "2020": 1,
+            "2016": 1,
+            "2013": 1,
+            "2019": 1,
+            "2014": 1,
+            "2018": 1
+          },
+          "year_stats": {
+            "count": 6,
+            "min": 2013,
+            "max": 2020,
+            "mean": 2016.6666666666667,
+            "median": 2017.0
+          }
+        },
+        {
+          "path": "amboss_articles/Constipation In Children.md",
+          "years": [
+            2022,
+            2019,
+            2014
+          ],
+          "year_counts": {
+            "2022": 1,
+            "2019": 1,
+            "2014": 1
+          },
+          "year_stats": {
+            "count": 3,
+            "min": 2014,
+            "max": 2022,
+            "mean": 2018.3333333333333,
+            "median": 2019.0
+          }
+        },
+        {
+          "path": "amboss_articles/Constipation in Adults.md",
+          "years": [
+            2023,
+            2019,
+            2016,
+            2016,
+            2015,
+            2014
+          ],
+          "year_counts": {
+            "2023": 1,
+            "2019": 1,
+            "2016": 2,
+            "2015": 1,
+            "2014": 1
+          },
+          "year_stats": {
+            "count": 6,
+            "min": 2014,
+            "max": 2023,
+            "mean": 2017.1666666666667,
+            "median": 2016.0
+          }
+        },
+        {
+          "path": "amboss_articles/Contact Dermatitis.md",
+          "years": [
+            2015
+          ],
+          "year_counts": {
+            "2015": 1
+          },
+          "year_stats": {
+            "count": 1,
+            "min": 2015,
+            "max": 2015,
+            "mean": 2015.0,
+            "median": 2015.0
+          }
+        },
+        {
+          "path": "amboss_articles/Coronary Artery Disease.md",
+          "years": [
+            2026,
+            2024,
+            2023,
+            2023,
+            2021,
+            2023,
+            2022,
+            2022,
+            2022,
+            2021,
+            2023,
+            2021,
+            2021
+          ],
+          "year_counts": {
+            "2026": 1,
+            "2024": 1,
+            "2023": 4,
+            "2021": 4,
+            "2022": 3
+          },
+          "year_stats": {
+            "count": 13,
+            "min": 2021,
+            "max": 2026,
+            "mean": 2022.4615384615386,
+            "median": 2022.0
+          }
+        },
+        {
+          "path": "amboss_articles/Corticosteroid Injection of Joints.md",
+          "years": [],
+          "year_counts": {},
+          "year_stats": {
+            "count": 0,
+            "min": null,
+            "max": null,
+            "mean": null,
+            "median": null
+          }
+        },
+        {
+          "path": "amboss_articles/Croup (Acute Laryngotracheitis).md",
+          "years": [
+            2017
+          ],
+          "year_counts": {
+            "2017": 1
+          },
+          "year_stats": {
+            "count": 1,
+            "min": 2017,
+            "max": 2017,
+            "mean": 2017.0,
+            "median": 2017.0
+          }
+        },
+        {
+          "path": "amboss_articles/Depression.md",
+          "years": [
+            2019
+          ],
+          "year_counts": {
+            "2019": 1
+          },
+          "year_stats": {
+            "count": 1,
+            "min": 2019,
+            "max": 2019,
+            "mean": 2019.0,
+            "median": 2019.0
+          }
+        },
+        {
+          "path": "amboss_articles/Describing Dermatologic Lesions.md",
+          "years": [],
+          "year_counts": {},
+          "year_stats": {
+            "count": 0,
+            "min": null,
+            "max": null,
+            "mean": null,
+            "median": null
+          }
+        },
+        {
+          "path": "amboss_articles/Diagnosis and Management of Hepatitis B.md",
+          "years": [
+            2000,
+            2000,
+            2000,
+            2023,
+            2020,
+            2018,
+            2018,
+            2017,
+            2015
+          ],
+          "year_counts": {
+            "2000": 3,
+            "2023": 1,
+            "2020": 1,
+            "2018": 2,
+            "2017": 1,
+            "2015": 1
+          },
+          "year_stats": {
+            "count": 9,
+            "min": 2000,
+            "max": 2023,
+            "mean": 2012.3333333333333,
+            "median": 2017.0
+          }
+        },
+        {
+          "path": "amboss_articles/Diagnosis and Management of Hepatitis C.md",
+          "years": [
+            2022,
+            2023
+          ],
+          "year_counts": {
+            "2022": 1,
+            "2023": 1
+          },
+          "year_stats": {
+            "count": 2,
+            "min": 2022,
+            "max": 2023,
+            "mean": 2022.5,
+            "median": 2022.5
+          }
+        },
+        {
+          "path": "amboss_articles/Diarrhea In Children.md",
+          "years": [
+            2021,
+            2018,
+            2019
+          ],
+          "year_counts": {
+            "2021": 1,
+            "2018": 1,
+            "2019": 1
+          },
+          "year_stats": {
+            "count": 3,
+            "min": 2018,
+            "max": 2021,
+            "mean": 2019.3333333333333,
+            "median": 2019.0
+          }
+        },
+        {
+          "path": "amboss_articles/Differential Diagnosis of Arthritis.md",
+          "years": [
+            2023,
+            2012,
+            2011
+          ],
+          "year_counts": {
+            "2023": 1,
+            "2012": 1,
+            "2011": 1
+          },
+          "year_stats": {
+            "count": 3,
+            "min": 2011,
+            "max": 2023,
+            "mean": 2015.3333333333333,
+            "median": 2012.0
+          }
+        },
+        {
+          "path": "amboss_articles/Diverticulosis and Diverticulitis.md",
+          "years": [
+            2023,
+            2022,
+            2021,
+            2021,
+            2020,
+            2014,
+            2018
+          ],
+          "year_counts": {
+            "2023": 1,
+            "2022": 1,
+            "2021": 2,
+            "2020": 1,
+            "2014": 1,
+            "2018": 1
+          },
+          "year_stats": {
+            "count": 7,
+            "min": 2014,
+            "max": 2023,
+            "mean": 2019.857142857143,
+            "median": 2021.0
+          }
+        },
+        {
+          "path": "amboss_articles/Drugs to be Cautious of in the Geriatric Population.md",
+          "years": [
+            2025,
+            2024,
+            2023,
+            2023,
+            2022,
+            2023,
+            2019,
+            2019
+          ],
+          "year_counts": {
+            "2025": 1,
+            "2024": 1,
+            "2023": 3,
+            "2022": 1,
+            "2019": 2
+          },
+          "year_stats": {
+            "count": 8,
+            "min": 2019,
+            "max": 2025,
+            "mean": 2022.25,
+            "median": 2023.0
+          }
+        },
+        {
+          "path": "amboss_articles/EKG Interpretation.md",
+          "years": [],
+          "year_counts": {},
+          "year_stats": {
+            "count": 0,
+            "min": null,
+            "max": null,
+            "mean": null,
+            "median": null
+          }
+        },
+        {
+          "path": "amboss_articles/Elbow Injuries.md",
+          "years": [],
+          "year_counts": {},
+          "year_stats": {
+            "count": 0,
+            "min": null,
+            "max": null,
+            "mean": null,
+            "median": null
+          }
+        },
+        {
+          "path": "amboss_articles/Emerging Infectious Diseases.md",
+          "years": [
+            2025,
+            2025,
+            2022,
+            2024,
+            2025,
+            2009,
+            2004,
+            2019,
+            2009,
+            2004,
+            2019,
+            2009,
+            2008,
+            2016,
+            2004,
+            2019,
+            2004,
+            2011,
+            2011,
+            2017,
+            2017,
+            2019,
+            2016,
+            2019,
+            2008,
+            2017,
+            2012,
+            2004,
+            2019,
+            2012,
+            2012,
+            2012,
+            2011,
+            2009,
+            2025
+          ],
+          "year_counts": {
+            "2025": 4,
+            "2022": 1,
+            "2024": 1,
+            "2009": 4,
+            "2004": 5,
+            "2019": 6,
+            "2008": 2,
+            "2016": 2,
+            "2011": 3,
+            "2017": 3,
+            "2012": 4
+          },
+          "year_stats": {
+            "count": 35,
+            "min": 2004,
+            "max": 2025,
+            "mean": 2014.1714285714286,
+            "median": 2012.0
+          }
+        },
+        {
+          "path": "amboss_articles/End of Life Care.md",
+          "years": [
+            2025,
+            2025,
+            2024,
+            2025,
+            2022
+          ],
+          "year_counts": {
+            "2025": 3,
+            "2024": 1,
+            "2022": 1
+          },
+          "year_stats": {
+            "count": 5,
+            "min": 2022,
+            "max": 2025,
+            "mean": 2024.2,
+            "median": 2025.0
+          }
+        },
+        {
+          "path": "amboss_articles/Endocarditis Prophylaxis.md",
+          "years": [
+            2023,
+            2023,
+            2023,
+            2020,
+            2015,
+            2015
+          ],
+          "year_counts": {
+            "2023": 3,
+            "2020": 1,
+            "2015": 2
+          },
+          "year_stats": {
+            "count": 6,
+            "min": 2015,
+            "max": 2023,
+            "mean": 2019.8333333333333,
+            "median": 2021.5
+          }
+        },
+        {
+          "path": "amboss_articles/Enuresis.md",
+          "years": [
+            2020
+          ],
+          "year_counts": {
+            "2020": 1
+          },
+          "year_stats": {
+            "count": 1,
+            "min": 2020,
+            "max": 2020,
+            "mean": 2020.0,
+            "median": 2020.0
+          }
+        },
+        {
+          "path": "amboss_articles/Evaluation and Management of Dizziness.md",
+          "years": [
+            2017,
+            2021,
+            2020
+          ],
+          "year_counts": {
+            "2017": 1,
+            "2021": 1,
+            "2020": 1
+          },
+          "year_stats": {
+            "count": 3,
+            "min": 2017,
+            "max": 2021,
+            "mean": 2019.3333333333333,
+            "median": 2020.0
+          }
+        },
+        {
+          "path": "amboss_articles/Evaluation of Abdominal Pain.md",
+          "years": [
+            2024,
+            2020,
+            2019,
+            2018
+          ],
+          "year_counts": {
+            "2024": 1,
+            "2020": 1,
+            "2019": 1,
+            "2018": 1
+          },
+          "year_stats": {
+            "count": 4,
+            "min": 2018,
+            "max": 2024,
+            "mean": 2020.25,
+            "median": 2019.5
+          }
+        },
+        {
+          "path": "amboss_articles/Evaluation of Breast Mass, Breast Pain and Nipple Discharge.md",
+          "years": [
+            2016,
+            2021,
+            2017,
+            2019
+          ],
+          "year_counts": {
+            "2016": 1,
+            "2021": 1,
+            "2017": 1,
+            "2019": 1
+          },
+          "year_stats": {
+            "count": 4,
+            "min": 2016,
+            "max": 2021,
+            "mean": 2018.25,
+            "median": 2018.0
+          }
+        },
+        {
+          "path": "amboss_articles/Evaluation of Chest Pain.md",
+          "years": [
+            2022,
+            2021
+          ],
+          "year_counts": {
+            "2022": 1,
+            "2021": 1
+          },
+          "year_stats": {
+            "count": 2,
+            "min": 2021,
+            "max": 2022,
+            "mean": 2021.5,
+            "median": 2021.5
+          }
+        },
+        {
+          "path": "amboss_articles/Evaluation of Diarrhea in Adults.md",
+          "years": [
+            2017,
+            2016
+          ],
+          "year_counts": {
+            "2017": 1,
+            "2016": 1
+          },
+          "year_stats": {
+            "count": 2,
+            "min": 2016,
+            "max": 2017,
+            "mean": 2016.5,
+            "median": 2016.5
+          }
+        },
+        {
+          "path": "amboss_articles/Evaluation of Mental Status Changes.md",
+          "years": [],
+          "year_counts": {},
+          "year_stats": {
+            "count": 0,
+            "min": null,
+            "max": null,
+            "mean": null,
+            "median": null
+          }
+        },
+        {
+          "path": "amboss_articles/Falls in the Elderly.md",
+          "years": [
+            2025,
+            2024,
+            2023,
+            2023,
+            2022,
+            2023,
+            2019,
+            2019
+          ],
+          "year_counts": {
+            "2025": 1,
+            "2024": 1,
+            "2023": 3,
+            "2022": 1,
+            "2019": 2
+          },
+          "year_stats": {
+            "count": 8,
+            "min": 2019,
+            "max": 2025,
+            "mean": 2022.25,
+            "median": 2023.0
+          }
+        },
+        {
+          "path": "amboss_articles/Fertility Awareness-Based Medicine Creighton Model.md",
+          "years": [
+            2023,
+            2025,
+            2025,
+            2024,
+            2024,
+            2023,
+            2022,
+            2022,
+            2022,
+            2017,
+            2016
+          ],
+          "year_counts": {
+            "2023": 2,
+            "2025": 2,
+            "2024": 2,
+            "2022": 3,
+            "2017": 1,
+            "2016": 1
+          },
+          "year_stats": {
+            "count": 11,
+            "min": 2016,
+            "max": 2025,
+            "mean": 2022.090909090909,
+            "median": 2023.0
+          }
+        },
+        {
+          "path": "amboss_articles/Fever Without a Known Source in the Young Child (Birth\u20133 Years-old).md",
+          "years": [
+            2021,
+            2018
+          ],
+          "year_counts": {
+            "2021": 1,
+            "2018": 1
+          },
+          "year_stats": {
+            "count": 2,
+            "min": 2018,
+            "max": 2021,
+            "mean": 2019.5,
+            "median": 2019.5
+          }
+        },
+        {
+          "path": "amboss_articles/Gastroesophageal Reflux Disease and Peptic Ulcer Disease.md",
+          "years": [
+            2021,
+            2020,
+            2017,
+            2017,
+            2010,
+            2009,
+            2008
+          ],
+          "year_counts": {
+            "2021": 1,
+            "2020": 1,
+            "2017": 2,
+            "2010": 1,
+            "2009": 1,
+            "2008": 1
+          },
+          "year_stats": {
+            "count": 7,
+            "min": 2008,
+            "max": 2021,
+            "mean": 2014.5714285714287,
+            "median": 2017.0
+          }
+        },
+        {
+          "path": "amboss_articles/Gouty Arthritis.md",
+          "years": [
+            2024,
+            2020,
+            2016,
+            2016,
+            2015,
+            2012,
+            2012,
+            2018
+          ],
+          "year_counts": {
+            "2024": 1,
+            "2020": 1,
+            "2016": 2,
+            "2015": 1,
+            "2012": 2,
+            "2018": 1
+          },
+          "year_stats": {
+            "count": 8,
+            "min": 2012,
+            "max": 2024,
+            "mean": 2016.625,
+            "median": 2016.0
+          }
+        },
+        {
+          "path": "amboss_articles/Hair Changes and Balding.md",
+          "years": [],
+          "year_counts": {},
+          "year_stats": {
+            "count": 0,
+            "min": null,
+            "max": null,
+            "mean": null,
+            "median": null
+          }
+        },
+        {
+          "path": "amboss_articles/Headache Diagnosis and Management.md",
+          "years": [
+            2010
+          ],
+          "year_counts": {
+            "2010": 1
+          },
+          "year_stats": {
+            "count": 1,
+            "min": 2010,
+            "max": 2010,
+            "mean": 2010.0,
+            "median": 2010.0
+          }
+        },
+        {
+          "path": "amboss_articles/Heart Failure.md",
+          "years": [
+            2024,
+            2023,
+            2023,
+            2023,
+            2020,
+            2020,
+            2024,
+            2023,
+            2023,
+            2021,
+            2022,
+            2021
+          ],
+          "year_counts": {
+            "2024": 2,
+            "2023": 5,
+            "2020": 2,
+            "2021": 2,
+            "2022": 1
+          },
+          "year_stats": {
+            "count": 12,
+            "min": 2020,
+            "max": 2024,
+            "mean": 2022.25,
+            "median": 2023.0
+          }
+        },
+        {
+          "path": "amboss_articles/Hematuria.md",
+          "years": [
+            2025
+          ],
+          "year_counts": {
+            "2025": 1
+          },
+          "year_stats": {
+            "count": 1,
+            "min": 2025,
+            "max": 2025,
+            "mean": 2025.0,
+            "median": 2025.0
+          }
+        },
+        {
+          "path": "amboss_articles/Hemorrhoids.md",
+          "years": [
+            2021,
+            2020,
+            2018
+          ],
+          "year_counts": {
+            "2021": 1,
+            "2020": 1,
+            "2018": 1
+          },
+          "year_stats": {
+            "count": 3,
+            "min": 2018,
+            "max": 2021,
+            "mean": 2019.6666666666667,
+            "median": 2020.0
+          }
+        },
+        {
+          "path": "amboss_articles/Hyperbilirubinemia in the Newborn over 35 Weeks Gestation.md",
+          "years": [],
+          "year_counts": {},
+          "year_stats": {
+            "count": 0,
+            "min": null,
+            "max": null,
+            "mean": null,
+            "median": null
+          }
+        },
+        {
+          "path": "amboss_articles/Hyperlipidemia.md",
+          "years": [
+            2013,
+            2025,
+            2023,
+            2018,
+            2019
+          ],
+          "year_counts": {
+            "2013": 1,
+            "2025": 1,
+            "2023": 1,
+            "2018": 1,
+            "2019": 1
+          },
+          "year_stats": {
+            "count": 5,
+            "min": 2013,
+            "max": 2025,
+            "mean": 2019.6,
+            "median": 2019.0
+          }
+        },
+        {
+          "path": "amboss_articles/Hypertension.md",
+          "years": [
+            2025,
+            2025,
+            2024,
+            2024,
+            2023,
+            2023,
+            2022,
+            2020,
+            2022,
+            2021,
+            2020,
+            2018,
+            2017,
+            2017,
+            2017,
+            2014
+          ],
+          "year_counts": {
+            "2025": 2,
+            "2024": 2,
+            "2023": 2,
+            "2022": 2,
+            "2020": 2,
+            "2021": 1,
+            "2018": 1,
+            "2017": 3,
+            "2014": 1
+          },
+          "year_stats": {
+            "count": 16,
+            "min": 2014,
+            "max": 2025,
+            "mean": 2020.75,
+            "median": 2021.5
+          }
+        },
+        {
+          "path": "amboss_articles/Infant Formula and Breastfeeding.md",
+          "years": [
+            2022,
+            2021,
+            2018,
+            2017,
+            2022
+          ],
+          "year_counts": {
+            "2022": 2,
+            "2021": 1,
+            "2018": 1,
+            "2017": 1
+          },
+          "year_stats": {
+            "count": 5,
+            "min": 2017,
+            "max": 2022,
+            "mean": 2020.0,
+            "median": 2021.0
+          }
+        },
+        {
+          "path": "amboss_articles/Knee Pain.md",
+          "years": [],
+          "year_counts": {},
+          "year_stats": {
+            "count": 0,
+            "min": null,
+            "max": null,
+            "mean": null,
+            "median": null
+          }
+        },
+        {
+          "path": "amboss_articles/Liver Function Tests.md",
+          "years": [],
+          "year_counts": {},
+          "year_stats": {
+            "count": 0,
+            "min": null,
+            "max": null,
+            "mean": null,
+            "median": null
+          }
+        },
+        {
+          "path": "amboss_articles/Low Back Pain.md",
+          "years": [
+            2023,
+            2022,
+            2021,
+            2020,
+            2020,
+            2017,
+            2017,
+            2018,
+            2018,
+            2015,
+            2016,
+            2007
+          ],
+          "year_counts": {
+            "2023": 1,
+            "2022": 1,
+            "2021": 1,
+            "2020": 2,
+            "2017": 2,
+            "2018": 2,
+            "2015": 1,
+            "2016": 1,
+            "2007": 1
+          },
+          "year_stats": {
+            "count": 12,
+            "min": 2007,
+            "max": 2023,
+            "mean": 2017.8333333333333,
+            "median": 2018.0
+          }
+        },
+        {
+          "path": "amboss_articles/Management of Obesity In Adults.md",
+          "years": [
+            2025,
+            2025,
+            2024,
+            2024,
+            2024,
+            2023,
+            2022,
+            2022,
+            2020,
+            2025,
+            2025,
+            2025,
+            2025,
+            2023,
+            2022,
+            2022,
+            2021,
+            2025,
+            2018,
+            2015,
+            2013
+          ],
+          "year_counts": {
+            "2025": 7,
+            "2024": 3,
+            "2023": 2,
+            "2022": 4,
+            "2020": 1,
+            "2021": 1,
+            "2018": 1,
+            "2015": 1,
+            "2013": 1
+          },
+          "year_stats": {
+            "count": 21,
+            "min": 2013,
+            "max": 2025,
+            "mean": 2022.2857142857142,
+            "median": 2023.0
+          }
+        },
+        {
+          "path": "amboss_articles/Management of Wounds.md",
+          "years": [
+            2022,
+            2008
+          ],
+          "year_counts": {
+            "2022": 1,
+            "2008": 1
+          },
+          "year_stats": {
+            "count": 2,
+            "min": 2008,
+            "max": 2022,
+            "mean": 2015.0,
+            "median": 2015.0
+          }
+        },
+        {
+          "path": "amboss_articles/Medication Adherence.md",
+          "years": [
+            2022
+          ],
+          "year_counts": {
+            "2022": 1
+          },
+          "year_stats": {
+            "count": 1,
+            "min": 2022,
+            "max": 2022,
+            "mean": 2022.0,
+            "median": 2022.0
+          }
+        },
+        {
+          "path": "amboss_articles/Medications During Pregnancy and Lactation.md",
+          "years": [
+            2015
+          ],
+          "year_counts": {
+            "2015": 1
+          },
+          "year_stats": {
+            "count": 1,
+            "min": 2015,
+            "max": 2015,
+            "mean": 2015.0,
+            "median": 2015.0
+          }
+        },
+        {
+          "path": "amboss_articles/Menopause and Hormone Replacement Therapy.md",
+          "years": [
+            2023,
+            2022,
+            2022,
+            2022,
+            2020,
+            2015,
+            2014
+          ],
+          "year_counts": {
+            "2023": 1,
+            "2022": 3,
+            "2020": 1,
+            "2015": 1,
+            "2014": 1
+          },
+          "year_stats": {
+            "count": 7,
+            "min": 2014,
+            "max": 2023,
+            "mean": 2019.7142857142858,
+            "median": 2022.0
+          }
+        },
+        {
+          "path": "amboss_articles/Non-opioid Medications for Chronic Non-cancer Pain.md",
+          "years": [
+            2025,
+            2022,
+            2022,
+            2019
+          ],
+          "year_counts": {
+            "2025": 1,
+            "2022": 2,
+            "2019": 1
+          },
+          "year_stats": {
+            "count": 4,
+            "min": 2019,
+            "max": 2025,
+            "mean": 2022.0,
+            "median": 2022.0
+          }
+        },
+        {
+          "path": "amboss_articles/OSTEOARTHRITIS.md",
+          "years": [
+            2000,
+            2019,
+            2023
+          ],
+          "year_counts": {
+            "2000": 1,
+            "2019": 1,
+            "2023": 1
+          },
+          "year_stats": {
+            "count": 3,
+            "min": 2000,
+            "max": 2023,
+            "mean": 2014.0,
+            "median": 2019.0
+          }
+        },
+        {
+          "path": "amboss_articles/Occupational Medicine.md",
+          "years": [
+            2025
+          ],
+          "year_counts": {
+            "2025": 1
+          },
+          "year_stats": {
+            "count": 1,
+            "min": 2025,
+            "max": 2025,
+            "mean": 2025.0,
+            "median": 2025.0
+          }
+        },
+        {
+          "path": "amboss_articles/Ocular Disorders and Screening.md",
+          "years": [],
+          "year_counts": {},
+          "year_stats": {
+            "count": 0,
+            "min": null,
+            "max": null,
+            "mean": null,
+            "median": null
+          }
+        },
+        {
+          "path": "amboss_articles/Osteoporosis.md",
+          "years": [
+            2025,
+            2025,
+            2023,
+            2022,
+            2020,
+            2020,
+            2018,
+            2012
+          ],
+          "year_counts": {
+            "2025": 2,
+            "2023": 1,
+            "2022": 1,
+            "2020": 2,
+            "2018": 1,
+            "2012": 1
+          },
+          "year_stats": {
+            "count": 8,
+            "min": 2012,
+            "max": 2025,
+            "mean": 2020.625,
+            "median": 2021.0
+          }
+        },
+        {
+          "path": "amboss_articles/Pelvic Inflammatory Disease (PID).md",
+          "years": [
+            2021,
+            2019
+          ],
+          "year_counts": {
+            "2021": 1,
+            "2019": 1
+          },
+          "year_stats": {
+            "count": 2,
+            "min": 2019,
+            "max": 2021,
+            "mean": 2020.0,
+            "median": 2020.0
+          }
+        },
+        {
+          "path": "amboss_articles/Pharyngitis.md",
+          "years": [
+            2012,
+            2009,
+            2019,
+            2011,
+            2020
+          ],
+          "year_counts": {
+            "2012": 1,
+            "2009": 1,
+            "2019": 1,
+            "2011": 1,
+            "2020": 1
+          },
+          "year_stats": {
+            "count": 5,
+            "min": 2009,
+            "max": 2020,
+            "mean": 2014.2,
+            "median": 2012.0
+          }
+        },
+        {
+          "path": "amboss_articles/Postpartum Check-up.md",
+          "years": [],
+          "year_counts": {},
+          "year_stats": {
+            "count": 0,
+            "min": null,
+            "max": null,
+            "mean": null,
+            "median": null
+          }
+        },
+        {
+          "path": "amboss_articles/Postpartum Discharge Instructions.md",
+          "years": [
+            2023,
+            2020,
+            2018,
+            2017
+          ],
+          "year_counts": {
+            "2023": 1,
+            "2020": 1,
+            "2018": 1,
+            "2017": 1
+          },
+          "year_stats": {
+            "count": 4,
+            "min": 2017,
+            "max": 2023,
+            "mean": 2019.5,
+            "median": 2019.0
+          }
+        },
+        {
+          "path": "amboss_articles/Prenatal Care.md",
+          "years": [
+            2024,
+            2023,
+            2024,
+            2024,
+            2023,
+            2022,
+            2021,
+            2021,
+            2021,
+            2021,
+            2021,
+            2020,
+            2020,
+            2020,
+            2018,
+            2018,
+            2017,
+            2017,
+            2016,
+            2016,
+            2016,
+            2013
+          ],
+          "year_counts": {
+            "2024": 3,
+            "2023": 2,
+            "2022": 1,
+            "2021": 5,
+            "2020": 3,
+            "2018": 2,
+            "2017": 2,
+            "2016": 3,
+            "2013": 1
+          },
+          "year_stats": {
+            "count": 22,
+            "min": 2013,
+            "max": 2024,
+            "mean": 2019.8181818181818,
+            "median": 2020.5
+          }
+        },
+        {
+          "path": "amboss_articles/Prophylaxis for the Prevention of HIV Infection.md",
+          "years": [
+            2025,
+            2024,
+            2023,
+            2023,
+            2023,
+            2024,
+            2023
+          ],
+          "year_counts": {
+            "2025": 1,
+            "2024": 2,
+            "2023": 4
+          },
+          "year_stats": {
+            "count": 7,
+            "min": 2023,
+            "max": 2025,
+            "mean": 2023.5714285714287,
+            "median": 2023.0
+          }
+        },
+        {
+          "path": "amboss_articles/Proteinuria.md",
+          "years": [],
+          "year_counts": {},
+          "year_stats": {
+            "count": 0,
+            "min": null,
+            "max": null,
+            "mean": null,
+            "median": null
+          }
+        },
+        {
+          "path": "amboss_articles/Questions Expecting Parents Commonly Ask and Radiation in Pregnancy.md",
+          "years": [],
+          "year_counts": {},
+          "year_stats": {
+            "count": 0,
+            "min": null,
+            "max": null,
+            "mean": null,
+            "median": null
+          }
+        },
+        {
+          "path": "amboss_articles/Rashes in Children.md",
+          "years": [],
+          "year_counts": {},
+          "year_stats": {
+            "count": 0,
+            "min": null,
+            "max": null,
+            "mean": null,
+            "median": null
+          }
+        },
+        {
+          "path": "amboss_articles/Rheumatoid Arthritis.md",
+          "years": [
+            2010,
+            2021,
+            2019,
+            2010
+          ],
+          "year_counts": {
+            "2010": 2,
+            "2021": 1,
+            "2019": 1
+          },
+          "year_stats": {
+            "count": 4,
+            "min": 2010,
+            "max": 2021,
+            "mean": 2015.0,
+            "median": 2014.5
+          }
+        },
+        {
+          "path": "amboss_articles/Seizure Disorders.md",
+          "years": [
+            2022,
+            2020,
+            2019,
+            2016
+          ],
+          "year_counts": {
+            "2022": 1,
+            "2020": 1,
+            "2019": 1,
+            "2016": 1
+          },
+          "year_stats": {
+            "count": 4,
+            "min": 2016,
+            "max": 2022,
+            "mean": 2019.25,
+            "median": 2019.5
+          }
+        },
+        {
+          "path": "amboss_articles/Sexual Dysfunction.md",
+          "years": [
+            2019,
+            2022
+          ],
+          "year_counts": {
+            "2019": 1,
+            "2022": 1
+          },
+          "year_stats": {
+            "count": 2,
+            "min": 2019,
+            "max": 2022,
+            "mean": 2020.5,
+            "median": 2020.5
+          }
+        },
+        {
+          "path": "amboss_articles/Sexually Transmitted Infections and Evaluation of Vaginal Discharge.md",
+          "years": [
+            2024,
+            2024,
+            2023,
+            2024,
+            2021,
+            2021,
+            2021,
+            2020
+          ],
+          "year_counts": {
+            "2024": 3,
+            "2023": 1,
+            "2021": 3,
+            "2020": 1
+          },
+          "year_stats": {
+            "count": 8,
+            "min": 2020,
+            "max": 2024,
+            "mean": 2022.25,
+            "median": 2022.0
+          }
+        },
+        {
+          "path": "amboss_articles/Shortness of Breath.md",
+          "years": [
+            2025,
+            2012,
+            2021
+          ],
+          "year_counts": {
+            "2025": 1,
+            "2012": 1,
+            "2021": 1
+          },
+          "year_stats": {
+            "count": 3,
+            "min": 2012,
+            "max": 2025,
+            "mean": 2019.3333333333333,
+            "median": 2021.0
+          }
+        },
+        {
+          "path": "amboss_articles/Shoulder Injuries.md",
+          "years": [],
+          "year_counts": {},
+          "year_stats": {
+            "count": 0,
+            "min": null,
+            "max": null,
+            "mean": null,
+            "median": null
+          }
+        },
+        {
+          "path": "amboss_articles/Skin Biopsies.md",
+          "years": [],
+          "year_counts": {},
+          "year_stats": {
+            "count": 0,
+            "min": null,
+            "max": null,
+            "mean": null,
+            "median": null
+          }
+        },
+        {
+          "path": "amboss_articles/The Developing Child and Normal Pediatric Vital Signs.md",
+          "years": [],
+          "year_counts": {},
+          "year_stats": {
+            "count": 0,
+            "min": null,
+            "max": null,
+            "mean": null,
+            "median": null
+          }
+        },
+        {
+          "path": "amboss_articles/The Newborn Exam.md",
+          "years": [],
+          "year_counts": {},
+          "year_stats": {
+            "count": 0,
+            "min": null,
+            "max": null,
+            "mean": null,
+            "median": null
+          }
+        },
+        {
+          "path": "amboss_articles/The Premenstrual Syndrome and Dysmenorrhea.md",
+          "years": [
+            2000,
+            2023,
+            2023
+          ],
+          "year_counts": {
+            "2000": 1,
+            "2023": 2
+          },
+          "year_stats": {
+            "count": 3,
+            "min": 2000,
+            "max": 2023,
+            "mean": 2015.3333333333333,
+            "median": 2023.0
+          }
+        },
+        {
+          "path": "amboss_articles/Thyroid Disease and Testing.md",
+          "years": [],
+          "year_counts": {},
+          "year_stats": {
+            "count": 0,
+            "min": null,
+            "max": null,
+            "mean": null,
+            "median": null
+          }
+        },
+        {
+          "path": "amboss_articles/Topical Steroids.md",
+          "years": [],
+          "year_counts": {},
+          "year_stats": {
+            "count": 0,
+            "min": null,
+            "max": null,
+            "mean": null,
+            "median": null
+          }
+        },
+        {
+          "path": "amboss_articles/Tuberculosis Screening.md",
+          "years": [
+            2025,
+            2023,
+            2023,
+            2020,
+            2025
+          ],
+          "year_counts": {
+            "2025": 2,
+            "2023": 2,
+            "2020": 1
+          },
+          "year_stats": {
+            "count": 5,
+            "min": 2020,
+            "max": 2025,
+            "mean": 2023.2,
+            "median": 2023.0
+          }
+        },
+        {
+          "path": "amboss_articles/Type 2 Diabetes Mellitus.md",
+          "years": [
+            2025,
+            2025,
+            2024,
+            2024,
+            2024,
+            2024,
+            2024,
+            2023,
+            2022,
+            2023,
+            2022,
+            2022,
+            2022,
+            2021,
+            2021,
+            2021,
+            2020,
+            2025,
+            2022,
+            2022,
+            2024
+          ],
+          "year_counts": {
+            "2025": 3,
+            "2024": 6,
+            "2023": 2,
+            "2022": 6,
+            "2021": 3,
+            "2020": 1
+          },
+          "year_stats": {
+            "count": 21,
+            "min": 2020,
+            "max": 2025,
+            "mean": 2022.857142857143,
+            "median": 2023.0
+          }
+        },
+        {
+          "path": "amboss_articles/Urinary Incontinence.md",
+          "years": [
+            2024,
+            2017,
+            2015
+          ],
+          "year_counts": {
+            "2024": 1,
+            "2017": 1,
+            "2015": 1
+          },
+          "year_stats": {
+            "count": 3,
+            "min": 2015,
+            "max": 2024,
+            "mean": 2018.6666666666667,
+            "median": 2017.0
+          }
+        },
+        {
+          "path": "amboss_articles/Urinary Tract Infections In Children.md",
+          "years": [
+            2017,
+            2016
+          ],
+          "year_counts": {
+            "2017": 1,
+            "2016": 1
+          },
+          "year_stats": {
+            "count": 2,
+            "min": 2016,
+            "max": 2017,
+            "mean": 2016.5,
+            "median": 2016.5
+          }
+        },
+        {
+          "path": "amboss_articles/Urinary Tract Infections.md",
+          "years": [
+            2025,
+            2022,
+            2021,
+            2022,
+            2019,
+            2019,
+            2010,
+            2009
+          ],
+          "year_counts": {
+            "2025": 1,
+            "2022": 2,
+            "2021": 1,
+            "2019": 2,
+            "2010": 1,
+            "2009": 1
+          },
+          "year_stats": {
+            "count": 8,
+            "min": 2009,
+            "max": 2025,
+            "mean": 2018.375,
+            "median": 2020.0
+          }
+        },
+        {
+          "path": "amboss_articles/Vertebral Compression Fractures.md",
+          "years": [
+            2022,
+            2018
+          ],
+          "year_counts": {
+            "2022": 1,
+            "2018": 1
+          },
+          "year_stats": {
+            "count": 2,
+            "min": 2018,
+            "max": 2022,
+            "mean": 2020.0,
+            "median": 2020.0
+          }
+        },
+        {
+          "path": "amboss_articles/Warts, Scabies, Lice and Superficial Tinea Infection Management.md",
+          "years": [
+            2019,
+            2016,
+            2016,
+            2010
+          ],
+          "year_counts": {
+            "2019": 1,
+            "2016": 2,
+            "2010": 1
+          },
+          "year_stats": {
+            "count": 4,
+            "min": 2010,
+            "max": 2019,
+            "mean": 2015.25,
+            "median": 2016.0
+          }
+        },
+        {
+          "path": "amboss_articles/_Ambulatory Post-Mi Management.md",
+          "years": [
+            2025,
+            2024,
+            2023,
+            2021,
+            2020,
+            2024,
+            2023,
+            2021,
+            2022,
+            2022,
+            2021,
+            2018
+          ],
+          "year_counts": {
+            "2025": 1,
+            "2024": 2,
+            "2023": 2,
+            "2021": 3,
+            "2020": 1,
+            "2022": 2,
+            "2018": 1
+          },
+          "year_stats": {
+            "count": 12,
+            "min": 2018,
+            "max": 2025,
+            "mean": 2022.0,
+            "median": 2022.0
+          }
+        },
+        {
+          "path": "amboss_articles/_Anxiety Disorders and Obsessive-Compulsive and Related Disorders.md",
+          "years": [
+            2023,
+            2023,
+            2022,
+            2020
+          ],
+          "year_counts": {
+            "2023": 2,
+            "2022": 1,
+            "2020": 1
+          },
+          "year_stats": {
+            "count": 4,
+            "min": 2020,
+            "max": 2023,
+            "mean": 2022.0,
+            "median": 2022.5
+          }
+        },
+        {
+          "path": "amboss_articles/_Asthma in Adults.md",
+          "years": [
+            2025,
+            2020,
+            2025,
+            2020,
+            2025,
+            2024,
+            2022,
+            2025,
+            2020,
+            2019
+          ],
+          "year_counts": {
+            "2025": 4,
+            "2020": 3,
+            "2024": 1,
+            "2022": 1,
+            "2019": 1
+          },
+          "year_stats": {
+            "count": 10,
+            "min": 2019,
+            "max": 2025,
+            "mean": 2022.5,
+            "median": 2023.0
+          }
+        },
+        {
+          "path": "amboss_articles/_Asthma in Children.md",
+          "years": [
+            2025,
+            2020,
+            2025,
+            2020,
+            2025,
+            2020,
+            2007
+          ],
+          "year_counts": {
+            "2025": 3,
+            "2020": 3,
+            "2007": 1
+          },
+          "year_stats": {
+            "count": 7,
+            "min": 2007,
+            "max": 2025,
+            "mean": 2020.2857142857142,
+            "median": 2020.0
+          }
+        },
+        {
+          "path": "amboss_articles/_Attention Deficit Hyperactivity Disorder (ADHD).md",
+          "years": [
+            2025,
+            2025,
+            2023,
+            2020,
+            2019
+          ],
+          "year_counts": {
+            "2025": 2,
+            "2023": 1,
+            "2020": 1,
+            "2019": 1
+          },
+          "year_stats": {
+            "count": 5,
+            "min": 2019,
+            "max": 2025,
+            "mean": 2022.4,
+            "median": 2023.0
+          }
+        },
+        {
+          "path": "amboss_articles/_Childhood Immunization Schedule and Preventive Health Care.md",
+          "years": [
+            2025
+          ],
+          "year_counts": {
+            "2025": 1
+          },
+          "year_stats": {
+            "count": 1,
+            "min": 2025,
+            "max": 2025,
+            "mean": 2025.0,
+            "median": 2025.0
+          }
+        },
+        {
+          "path": "amboss_articles/_Contraception.md",
+          "years": [
+            2023,
+            2025,
+            2025,
+            2024,
+            2024,
+            2023,
+            2022,
+            2022,
+            2022,
+            2017,
+            2016
+          ],
+          "year_counts": {
+            "2023": 2,
+            "2025": 2,
+            "2024": 2,
+            "2022": 3,
+            "2017": 1,
+            "2016": 1
+          },
+          "year_stats": {
+            "count": 11,
+            "min": 2016,
+            "max": 2025,
+            "mean": 2022.090909090909,
+            "median": 2023.0
+          }
+        },
+        {
+          "path": "amboss_articles/_Postpartum Discharge Instructions.md",
+          "years": [
+            2023,
+            2020,
+            2018,
+            2017
+          ],
+          "year_counts": {
+            "2023": 1,
+            "2020": 1,
+            "2018": 1,
+            "2017": 1
+          },
+          "year_stats": {
+            "count": 4,
+            "min": 2017,
+            "max": 2023,
+            "mean": 2019.5,
+            "median": 2019.0
+          }
+        },
+        {
+          "path": "amboss_articles/_Potassium Metabolism.md",
+          "years": [
+            2016,
+            2017,
+            2020,
+            2020,
+            2014,
+            2017,
+            1993
+          ],
+          "year_counts": {
+            "2016": 1,
+            "2017": 2,
+            "2020": 2,
+            "2014": 1,
+            "1993": 1
+          },
+          "year_stats": {
+            "count": 7,
+            "min": 1993,
+            "max": 2020,
+            "mean": 2013.857142857143,
+            "median": 2017.0
+          }
+        }
+      ],
+      "all_years": [
+        2019,
+        2023,
+        2013,
+        2024,
+        2012,
+        2024,
+        2024,
+        2019,
+        2017,
+        2019,
+        2020,
+        2016,
+        2022,
+        2013,
+        2019,
+        2023,
+        2023,
+        2021,
+        2017,
+        2015,
+        2014,
+        2012,
+        2013,
+        2025,
+        2025,
+        2025,
+        2020,
+        2015,
+        2025,
+        2024,
+        2023,
+        2023,
+        2023,
+        2024,
+        2023,
+        2024,
+        2017,
+        2023,
+        2021,
+        2020,
+        2024,
+        2023,
+        2022,
+        2022,
+        2022,
+        2022,
+        2022,
+        2022,
+        2022,
+        2022,
+        2020,
+        2020,
+        2024,
+        2023,
+        2020,
+        2019,
+        2014,
+        2017,
+        2017,
+        2014,
+        2025,
+        2020,
+        2020,
+        2020,
+        2014,
+        2023,
+        2023,
+        2014,
+        2014,
+        2022,
+        2022,
+        2016,
+        2016,
+        2016,
+        2024,
+        2021,
+        2020,
+        2019,
+        2018,
+        2017,
+        2025,
+        2025,
+        2024,
+        2022,
+        2017,
+        2017,
+        2025,
+        2025,
+        2024,
+        2025,
+        2022,
+        2022,
+        2019,
+        2011,
+        2011,
+        2011,
+        2020,
+        2016,
+        2013,
+        2019,
+        2014,
+        2018,
+        2022,
+        2019,
+        2014,
+        2023,
+        2019,
+        2016,
+        2016,
+        2015,
+        2014,
+        2015,
+        2026,
+        2024,
+        2023,
+        2023,
+        2021,
+        2023,
+        2022,
+        2022,
+        2022,
+        2021,
+        2023,
+        2021,
+        2021,
+        2017,
+        2019,
+        2000,
+        2000,
+        2000,
+        2023,
+        2020,
+        2018,
+        2018,
+        2017,
+        2015,
+        2022,
+        2023,
+        2021,
+        2018,
+        2019,
+        2023,
+        2012,
+        2011,
+        2023,
+        2022,
+        2021,
+        2021,
+        2020,
+        2014,
+        2018,
+        2025,
+        2024,
+        2023,
+        2023,
+        2022,
+        2023,
+        2019,
+        2019,
+        2025,
+        2025,
+        2022,
+        2024,
+        2025,
+        2009,
+        2004,
+        2019,
+        2009,
+        2004,
+        2019,
+        2009,
+        2008,
+        2016,
+        2004,
+        2019,
+        2004,
+        2011,
+        2011,
+        2017,
+        2017,
+        2019,
+        2016,
+        2019,
+        2008,
+        2017,
+        2012,
+        2004,
+        2019,
+        2012,
+        2012,
+        2012,
+        2011,
+        2009,
+        2025,
+        2025,
+        2025,
+        2024,
+        2025,
+        2022,
+        2023,
+        2023,
+        2023,
+        2020,
+        2015,
+        2015,
+        2020,
+        2017,
+        2021,
+        2020,
+        2024,
+        2020,
+        2019,
+        2018,
+        2016,
+        2021,
+        2017,
+        2019,
+        2022,
+        2021,
+        2017,
+        2016,
+        2025,
+        2024,
+        2023,
+        2023,
+        2022,
+        2023,
+        2019,
+        2019,
+        2023,
+        2025,
+        2025,
+        2024,
+        2024,
+        2023,
+        2022,
+        2022,
+        2022,
+        2017,
+        2016,
+        2021,
+        2018,
+        2021,
+        2020,
+        2017,
+        2017,
+        2010,
+        2009,
+        2008,
+        2024,
+        2020,
+        2016,
+        2016,
+        2015,
+        2012,
+        2012,
+        2018,
+        2010,
+        2024,
+        2023,
+        2023,
+        2023,
+        2020,
+        2020,
+        2024,
+        2023,
+        2023,
+        2021,
+        2022,
+        2021,
+        2025,
+        2021,
+        2020,
+        2018,
+        2013,
+        2025,
+        2023,
+        2018,
+        2019,
+        2025,
+        2025,
+        2024,
+        2024,
+        2023,
+        2023,
+        2022,
+        2020,
+        2022,
+        2021,
+        2020,
+        2018,
+        2017,
+        2017,
+        2017,
+        2014,
+        2022,
+        2021,
+        2018,
+        2017,
+        2022,
+        2023,
+        2022,
+        2021,
+        2020,
+        2020,
+        2017,
+        2017,
+        2018,
+        2018,
+        2015,
+        2016,
+        2007,
+        2025,
+        2025,
+        2024,
+        2024,
+        2024,
+        2023,
+        2022,
+        2022,
+        2020,
+        2025,
+        2025,
+        2025,
+        2025,
+        2023,
+        2022,
+        2022,
+        2021,
+        2025,
+        2018,
+        2015,
+        2013,
+        2022,
+        2008,
+        2022,
+        2015,
+        2023,
+        2022,
+        2022,
+        2022,
+        2020,
+        2015,
+        2014,
+        2025,
+        2022,
+        2022,
+        2019,
+        2000,
+        2019,
+        2023,
+        2025,
+        2025,
+        2025,
+        2023,
+        2022,
+        2020,
+        2020,
+        2018,
+        2012,
+        2021,
+        2019,
+        2012,
+        2009,
+        2019,
+        2011,
+        2020,
+        2023,
+        2020,
+        2018,
+        2017,
+        2024,
+        2023,
+        2024,
+        2024,
+        2023,
+        2022,
+        2021,
+        2021,
+        2021,
+        2021,
+        2021,
+        2020,
+        2020,
+        2020,
+        2018,
+        2018,
+        2017,
+        2017,
+        2016,
+        2016,
+        2016,
+        2013,
+        2025,
+        2024,
+        2023,
+        2023,
+        2023,
+        2024,
+        2023,
+        2010,
+        2021,
+        2019,
+        2010,
+        2022,
+        2020,
+        2019,
+        2016,
+        2019,
+        2022,
+        2024,
+        2024,
+        2023,
+        2024,
+        2021,
+        2021,
+        2021,
+        2020,
+        2025,
+        2012,
+        2021,
+        2000,
+        2023,
+        2023,
+        2025,
+        2023,
+        2023,
+        2020,
+        2025,
+        2025,
+        2025,
+        2024,
+        2024,
+        2024,
+        2024,
+        2024,
+        2023,
+        2022,
+        2023,
+        2022,
+        2022,
+        2022,
+        2021,
+        2021,
+        2021,
+        2020,
+        2025,
+        2022,
+        2022,
+        2024,
+        2024,
+        2017,
+        2015,
+        2017,
+        2016,
+        2025,
+        2022,
+        2021,
+        2022,
+        2019,
+        2019,
+        2010,
+        2009,
+        2022,
+        2018,
+        2019,
+        2016,
+        2016,
+        2010,
+        2025,
+        2024,
+        2023,
+        2021,
+        2020,
+        2024,
+        2023,
+        2021,
+        2022,
+        2022,
+        2021,
+        2018,
+        2023,
+        2023,
+        2022,
+        2020,
+        2025,
+        2020,
+        2025,
+        2020,
+        2025,
+        2024,
+        2022,
+        2025,
+        2020,
+        2019,
+        2025,
+        2020,
+        2025,
+        2020,
+        2025,
+        2020,
+        2007,
+        2025,
+        2025,
+        2023,
+        2020,
+        2019,
+        2025,
+        2023,
+        2025,
+        2025,
+        2024,
+        2024,
+        2023,
+        2022,
+        2022,
+        2022,
+        2017,
+        2016,
+        2023,
+        2020,
+        2018,
+        2017,
+        2016,
+        2017,
+        2020,
+        2020,
+        2014,
+        2017,
+        1993
+      ],
+      "year_counts": {
+        "2019": 37,
+        "2023": 68,
+        "2013": 7,
+        "2024": 47,
+        "2012": 12,
+        "2017": 34,
+        "2020": 51,
+        "2016": 24,
+        "2022": 65,
+        "2021": 40,
+        "2015": 13,
+        "2014": 13,
+        "2025": 57,
+        "2018": 23,
+        "2011": 8,
+        "2026": 1,
+        "2000": 5,
+        "2009": 7,
+        "2004": 5,
+        "2008": 4,
+        "2010": 6,
+        "2007": 2,
+        "1993": 1
+      },
+      "year_stats": {
+        "count": 530,
+        "min": 1993,
+        "max": 2026,
+        "mean": 2019.6113207547169,
+        "median": 2021.0
+      },
+      "per_file_median_years": [
+        2021.0,
+        2019.0,
+        2018.0,
+        2019.0,
+        2016.0,
+        2025.0,
+        2020.0,
+        2023.0,
+        2020.5,
+        2021.0,
+        2022.0,
+        2022.5,
+        2020.0,
+        2018.5,
+        2019.0,
+        2016.0,
+        2019.5,
+        2023.0,
+        2025.0,
+        2019.0,
+        2011.0,
+        2011.0,
+        2017.0,
+        2019.0,
+        2016.0,
+        2015.0,
+        2022.0,
+        2017.0,
+        2019.0,
+        2017.0,
+        2022.5,
+        2019.0,
+        2012.0,
+        2021.0,
+        2023.0,
+        2012.0,
+        2025.0,
+        2021.5,
+        2020.0,
+        2020.0,
+        2019.5,
+        2018.0,
+        2021.5,
+        2016.5,
+        2023.0,
+        2023.0,
+        2019.5,
+        2017.0,
+        2016.0,
+        2010.0,
+        2023.0,
+        2025.0,
+        2020.0,
+        2019.0,
+        2021.5,
+        2021.0,
+        2018.0,
+        2023.0,
+        2015.0,
+        2022.0,
+        2015.0,
+        2022.0,
+        2022.0,
+        2019.0,
+        2025.0,
+        2021.0,
+        2020.0,
+        2012.0,
+        2019.0,
+        2020.5,
+        2023.0,
+        2014.5,
+        2019.5,
+        2020.5,
+        2022.0,
+        2021.0,
+        2023.0,
+        2023.0,
+        2023.0,
+        2017.0,
+        2016.5,
+        2020.0,
+        2020.0,
+        2016.0,
+        2022.0,
+        2022.5,
+        2023.0,
+        2020.0,
+        2023.0,
+        2025.0,
+        2023.0,
+        2019.0,
+        2017.0
+      ],
+      "per_file_median_stats": {
+        "count": 93,
+        "min": 2010.0,
+        "max": 2025.0,
+        "mean": 2019.6505376344087,
+        "median": 2020.0
+      }
+    }
+  }
+}
